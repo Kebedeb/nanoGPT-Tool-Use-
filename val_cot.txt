@@ -1,0 +1,1000 @@
+86+72=Let me solve step by step. Ones place: 6+2=[TOOL]6+2[/TOOL]8. Tens place: 8+7=[TOOL]8+7[/TOOL]15. Answer: 158
+54+81=Let me solve step by step. Ones place: 4+1=[TOOL]4+1[/TOOL]5. Tens place: 5+8=[TOOL]5+8[/TOOL]13. Answer: 135
+19+72=Let me solve step by step. Ones place: 9+2=[TOOL]9+2[/TOOL]11, carry 1. Tens place: 1+7+1=[TOOL]1+7+1[/TOOL]9. Answer: 91
+95+78=Let me solve step by step. Ones place: 5+8=[TOOL]5+8[/TOOL]13, carry 1. Tens place: 9+7+1=[TOOL]9+7+1[/TOOL]17. Answer: 173
+63+85=Let me solve step by step. Ones place: 3+5=[TOOL]3+5[/TOOL]8. Tens place: 6+8=[TOOL]6+8[/TOOL]14. Answer: 148
+14+14=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 1+1=[TOOL]1+1[/TOOL]2. Answer: 28
+90+80=Let me solve step by step. Ones place: 0+0=[TOOL]0+0[/TOOL]0. Tens place: 9+8=[TOOL]9+8[/TOOL]17. Answer: 170
+91+46=Let me solve step by step. Ones place: 1+6=[TOOL]1+6[/TOOL]7. Tens place: 9+4=[TOOL]9+4[/TOOL]13. Answer: 137
+10+68=Let me solve step by step. Ones place: 0+8=[TOOL]0+8[/TOOL]8. Tens place: 1+6=[TOOL]1+6[/TOOL]7. Answer: 78
+55+90=Let me solve step by step. Ones place: 5+0=[TOOL]5+0[/TOOL]5. Tens place: 5+9=[TOOL]5+9[/TOOL]14. Answer: 145
+44+18=Let me solve step by step. Ones place: 4+8=[TOOL]4+8[/TOOL]12, carry 1. Tens place: 4+1+1=[TOOL]4+1+1[/TOOL]6. Answer: 62
+72+42=Let me solve step by step. Ones place: 2+2=[TOOL]2+2[/TOOL]4. Tens place: 7+4=[TOOL]7+4[/TOOL]11. Answer: 114
+34+30=Let me solve step by step. Ones place: 4+0=[TOOL]4+0[/TOOL]4. Tens place: 3+3=[TOOL]3+3[/TOOL]6. Answer: 64
+22+32=Let me solve step by step. Ones place: 2+2=[TOOL]2+2[/TOOL]4. Tens place: 2+3=[TOOL]2+3[/TOOL]5. Answer: 54
+33+74=Let me solve step by step. Ones place: 3+4=[TOOL]3+4[/TOOL]7. Tens place: 3+7=[TOOL]3+7[/TOOL]10. Answer: 107
+13+59=Let me solve step by step. Ones place: 3+9=[TOOL]3+9[/TOOL]12, carry 1. Tens place: 1+5+1=[TOOL]1+5+1[/TOOL]7. Answer: 72
+71+30=Let me solve step by step. Ones place: 1+0=[TOOL]1+0[/TOOL]1. Tens place: 7+3=[TOOL]7+3[/TOOL]10. Answer: 101
+82+97=Let me solve step by step. Ones place: 2+7=[TOOL]2+7[/TOOL]9. Tens place: 8+9=[TOOL]8+9[/TOOL]17. Answer: 179
+81+69=Let me solve step by step. Ones place: 1+9=[TOOL]1+9[/TOOL]10, carry 1. Tens place: 8+6+1=[TOOL]8+6+1[/TOOL]15. Answer: 150
+99+38=Let me solve step by step. Ones place: 9+8=[TOOL]9+8[/TOOL]17, carry 1. Tens place: 9+3+1=[TOOL]9+3+1[/TOOL]13. Answer: 137
+80+84=Let me solve step by step. Ones place: 0+4=[TOOL]0+4[/TOOL]4. Tens place: 8+8=[TOOL]8+8[/TOOL]16. Answer: 164
+69+48=Let me solve step by step. Ones place: 9+8=[TOOL]9+8[/TOOL]17, carry 1. Tens place: 6+4+1=[TOOL]6+4+1[/TOOL]11. Answer: 117
+71+67=Let me solve step by step. Ones place: 1+7=[TOOL]1+7[/TOOL]8. Tens place: 7+6=[TOOL]7+6[/TOOL]13. Answer: 138
+26+44=Let me solve step by step. Ones place: 6+4=[TOOL]6+4[/TOOL]10, carry 1. Tens place: 2+4+1=[TOOL]2+4+1[/TOOL]7. Answer: 70
+22+46=Let me solve step by step. Ones place: 2+6=[TOOL]2+6[/TOOL]8. Tens place: 2+4=[TOOL]2+4[/TOOL]6. Answer: 68
+87+69=Let me solve step by step. Ones place: 7+9=[TOOL]7+9[/TOOL]16, carry 1. Tens place: 8+6+1=[TOOL]8+6+1[/TOOL]15. Answer: 156
+42+76=Let me solve step by step. Ones place: 2+6=[TOOL]2+6[/TOOL]8. Tens place: 4+7=[TOOL]4+7[/TOOL]11. Answer: 118
+93+28=Let me solve step by step. Ones place: 3+8=[TOOL]3+8[/TOOL]11, carry 1. Tens place: 9+2+1=[TOOL]9+2+1[/TOOL]12. Answer: 121
+29+14=Let me solve step by step. Ones place: 9+4=[TOOL]9+4[/TOOL]13, carry 1. Tens place: 2+1+1=[TOOL]2+1+1[/TOOL]4. Answer: 43
+48+86=Let me solve step by step. Ones place: 8+6=[TOOL]8+6[/TOOL]14, carry 1. Tens place: 4+8+1=[TOOL]4+8+1[/TOOL]13. Answer: 134
+45+35=Let me solve step by step. Ones place: 5+5=[TOOL]5+5[/TOOL]10, carry 1. Tens place: 4+3+1=[TOOL]4+3+1[/TOOL]8. Answer: 80
+58+56=Let me solve step by step. Ones place: 8+6=[TOOL]8+6[/TOOL]14, carry 1. Tens place: 5+5+1=[TOOL]5+5+1[/TOOL]11. Answer: 114
+62+29=Let me solve step by step. Ones place: 2+9=[TOOL]2+9[/TOOL]11, carry 1. Tens place: 6+2+1=[TOOL]6+2+1[/TOOL]9. Answer: 91
+74+23=Let me solve step by step. Ones place: 4+3=[TOOL]4+3[/TOOL]7. Tens place: 7+2=[TOOL]7+2[/TOOL]9. Answer: 97
+92+83=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 9+8=[TOOL]9+8[/TOOL]17. Answer: 175
+95+33=Let me solve step by step. Ones place: 5+3=[TOOL]5+3[/TOOL]8. Tens place: 9+3=[TOOL]9+3[/TOOL]12. Answer: 128
+16+86=Let me solve step by step. Ones place: 6+6=[TOOL]6+6[/TOOL]12, carry 1. Tens place: 1+8+1=[TOOL]1+8+1[/TOOL]10. Answer: 102
+94+33=Let me solve step by step. Ones place: 4+3=[TOOL]4+3[/TOOL]7. Tens place: 9+3=[TOOL]9+3[/TOOL]12. Answer: 127
+98+79=Let me solve step by step. Ones place: 8+9=[TOOL]8+9[/TOOL]17, carry 1. Tens place: 9+7+1=[TOOL]9+7+1[/TOOL]17. Answer: 177
+50+76=Let me solve step by step. Ones place: 0+6=[TOOL]0+6[/TOOL]6. Tens place: 5+7=[TOOL]5+7[/TOOL]12. Answer: 126
+12+39=Let me solve step by step. Ones place: 2+9=[TOOL]2+9[/TOOL]11, carry 1. Tens place: 1+3+1=[TOOL]1+3+1[/TOOL]5. Answer: 51
+53+91=Let me solve step by step. Ones place: 3+1=[TOOL]3+1[/TOOL]4. Tens place: 5+9=[TOOL]5+9[/TOOL]14. Answer: 144
+87+10=Let me solve step by step. Ones place: 7+0=[TOOL]7+0[/TOOL]7. Tens place: 8+1=[TOOL]8+1[/TOOL]9. Answer: 97
+50+11=Let me solve step by step. Ones place: 0+1=[TOOL]0+1[/TOOL]1. Tens place: 5+1=[TOOL]5+1[/TOOL]6. Answer: 61
+25+53=Let me solve step by step. Ones place: 5+3=[TOOL]5+3[/TOOL]8. Tens place: 2+5=[TOOL]2+5[/TOOL]7. Answer: 78
+75+73=Let me solve step by step. Ones place: 5+3=[TOOL]5+3[/TOOL]8. Tens place: 7+7=[TOOL]7+7[/TOOL]14. Answer: 148
+63+90=Let me solve step by step. Ones place: 3+0=[TOOL]3+0[/TOOL]3. Tens place: 6+9=[TOOL]6+9[/TOOL]15. Answer: 153
+37+93=Let me solve step by step. Ones place: 7+3=[TOOL]7+3[/TOOL]10, carry 1. Tens place: 3+9+1=[TOOL]3+9+1[/TOOL]13. Answer: 130
+95+55=Let me solve step by step. Ones place: 5+5=[TOOL]5+5[/TOOL]10, carry 1. Tens place: 9+5+1=[TOOL]9+5+1[/TOOL]15. Answer: 150
+51+23=Let me solve step by step. Ones place: 1+3=[TOOL]1+3[/TOOL]4. Tens place: 5+2=[TOOL]5+2[/TOOL]7. Answer: 74
+39+57=Let me solve step by step. Ones place: 9+7=[TOOL]9+7[/TOOL]16, carry 1. Tens place: 3+5+1=[TOOL]3+5+1[/TOOL]9. Answer: 96
+37+61=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 3+6=[TOOL]3+6[/TOOL]9. Answer: 98
+50+35=Let me solve step by step. Ones place: 0+5=[TOOL]0+5[/TOOL]5. Tens place: 5+3=[TOOL]5+3[/TOOL]8. Answer: 85
+21+53=Let me solve step by step. Ones place: 1+3=[TOOL]1+3[/TOOL]4. Tens place: 2+5=[TOOL]2+5[/TOOL]7. Answer: 74
+86+73=Let me solve step by step. Ones place: 6+3=[TOOL]6+3[/TOOL]9. Tens place: 8+7=[TOOL]8+7[/TOOL]15. Answer: 159
+30+92=Let me solve step by step. Ones place: 0+2=[TOOL]0+2[/TOOL]2. Tens place: 3+9=[TOOL]3+9[/TOOL]12. Answer: 122
+46+56=Let me solve step by step. Ones place: 6+6=[TOOL]6+6[/TOOL]12, carry 1. Tens place: 4+5+1=[TOOL]4+5+1[/TOOL]10. Answer: 102
+30+20=Let me solve step by step. Ones place: 0+0=[TOOL]0+0[/TOOL]0. Tens place: 3+2=[TOOL]3+2[/TOOL]5. Answer: 50
+35+16=Let me solve step by step. Ones place: 5+6=[TOOL]5+6[/TOOL]11, carry 1. Tens place: 3+1+1=[TOOL]3+1+1[/TOOL]5. Answer: 51
+82+39=Let me solve step by step. Ones place: 2+9=[TOOL]2+9[/TOOL]11, carry 1. Tens place: 8+3+1=[TOOL]8+3+1[/TOOL]12. Answer: 121
+49+53=Let me solve step by step. Ones place: 9+3=[TOOL]9+3[/TOOL]12, carry 1. Tens place: 4+5+1=[TOOL]4+5+1[/TOOL]10. Answer: 102
+74+57=Let me solve step by step. Ones place: 4+7=[TOOL]4+7[/TOOL]11, carry 1. Tens place: 7+5+1=[TOOL]7+5+1[/TOOL]13. Answer: 131
+49+20=Let me solve step by step. Ones place: 9+0=[TOOL]9+0[/TOOL]9. Tens place: 4+2=[TOOL]4+2[/TOOL]6. Answer: 69
+69+50=Let me solve step by step. Ones place: 9+0=[TOOL]9+0[/TOOL]9. Tens place: 6+5=[TOOL]6+5[/TOOL]11. Answer: 119
+23+20=Let me solve step by step. Ones place: 3+0=[TOOL]3+0[/TOOL]3. Tens place: 2+2=[TOOL]2+2[/TOOL]4. Answer: 43
+97+37=Let me solve step by step. Ones place: 7+7=[TOOL]7+7[/TOOL]14, carry 1. Tens place: 9+3+1=[TOOL]9+3+1[/TOOL]13. Answer: 134
+70+15=Let me solve step by step. Ones place: 0+5=[TOOL]0+5[/TOOL]5. Tens place: 7+1=[TOOL]7+1[/TOOL]8. Answer: 85
+84+24=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 8+2=[TOOL]8+2[/TOOL]10. Answer: 108
+56+97=Let me solve step by step. Ones place: 6+7=[TOOL]6+7[/TOOL]13, carry 1. Tens place: 5+9+1=[TOOL]5+9+1[/TOOL]15. Answer: 153
+57+90=Let me solve step by step. Ones place: 7+0=[TOOL]7+0[/TOOL]7. Tens place: 5+9=[TOOL]5+9[/TOOL]14. Answer: 147
+92+34=Let me solve step by step. Ones place: 2+4=[TOOL]2+4[/TOOL]6. Tens place: 9+3=[TOOL]9+3[/TOOL]12. Answer: 126
+59+37=Let me solve step by step. Ones place: 9+7=[TOOL]9+7[/TOOL]16, carry 1. Tens place: 5+3+1=[TOOL]5+3+1[/TOOL]9. Answer: 96
+83+67=Let me solve step by step. Ones place: 3+7=[TOOL]3+7[/TOOL]10, carry 1. Tens place: 8+6+1=[TOOL]8+6+1[/TOOL]15. Answer: 150
+75+67=Let me solve step by step. Ones place: 5+7=[TOOL]5+7[/TOOL]12, carry 1. Tens place: 7+6+1=[TOOL]7+6+1[/TOOL]14. Answer: 142
+62+52=Let me solve step by step. Ones place: 2+2=[TOOL]2+2[/TOOL]4. Tens place: 6+5=[TOOL]6+5[/TOOL]11. Answer: 114
+98+88=Let me solve step by step. Ones place: 8+8=[TOOL]8+8[/TOOL]16, carry 1. Tens place: 9+8+1=[TOOL]9+8+1[/TOOL]18. Answer: 186
+35+75=Let me solve step by step. Ones place: 5+5=[TOOL]5+5[/TOOL]10, carry 1. Tens place: 3+7+1=[TOOL]3+7+1[/TOOL]11. Answer: 110
+25+34=Let me solve step by step. Ones place: 5+4=[TOOL]5+4[/TOOL]9. Tens place: 2+3=[TOOL]2+3[/TOOL]5. Answer: 59
+85+36=Let me solve step by step. Ones place: 5+6=[TOOL]5+6[/TOOL]11, carry 1. Tens place: 8+3+1=[TOOL]8+3+1[/TOOL]12. Answer: 121
+25+36=Let me solve step by step. Ones place: 5+6=[TOOL]5+6[/TOOL]11, carry 1. Tens place: 2+3+1=[TOOL]2+3+1[/TOOL]6. Answer: 61
+93+85=Let me solve step by step. Ones place: 3+5=[TOOL]3+5[/TOOL]8. Tens place: 9+8=[TOOL]9+8[/TOOL]17. Answer: 178
+55+83=Let me solve step by step. Ones place: 5+3=[TOOL]5+3[/TOOL]8. Tens place: 5+8=[TOOL]5+8[/TOOL]13. Answer: 138
+18+81=Let me solve step by step. Ones place: 8+1=[TOOL]8+1[/TOOL]9. Tens place: 1+8=[TOOL]1+8[/TOOL]9. Answer: 99
+74+81=Let me solve step by step. Ones place: 4+1=[TOOL]4+1[/TOOL]5. Tens place: 7+8=[TOOL]7+8[/TOOL]15. Answer: 155
+55+66=Let me solve step by step. Ones place: 5+6=[TOOL]5+6[/TOOL]11, carry 1. Tens place: 5+6+1=[TOOL]5+6+1[/TOOL]12. Answer: 121
+82+93=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 8+9=[TOOL]8+9[/TOOL]17. Answer: 175
+22+90=Let me solve step by step. Ones place: 2+0=[TOOL]2+0[/TOOL]2. Tens place: 2+9=[TOOL]2+9[/TOOL]11. Answer: 112
+86+51=Let me solve step by step. Ones place: 6+1=[TOOL]6+1[/TOOL]7. Tens place: 8+5=[TOOL]8+5[/TOOL]13. Answer: 137
+17+97=Let me solve step by step. Ones place: 7+7=[TOOL]7+7[/TOOL]14, carry 1. Tens place: 1+9+1=[TOOL]1+9+1[/TOOL]11. Answer: 114
+65+84=Let me solve step by step. Ones place: 5+4=[TOOL]5+4[/TOOL]9. Tens place: 6+8=[TOOL]6+8[/TOOL]14. Answer: 149
+48+19=Let me solve step by step. Ones place: 8+9=[TOOL]8+9[/TOOL]17, carry 1. Tens place: 4+1+1=[TOOL]4+1+1[/TOOL]6. Answer: 67
+93+23=Let me solve step by step. Ones place: 3+3=[TOOL]3+3[/TOOL]6. Tens place: 9+2=[TOOL]9+2[/TOOL]11. Answer: 116
+83+37=Let me solve step by step. Ones place: 3+7=[TOOL]3+7[/TOOL]10, carry 1. Tens place: 8+3+1=[TOOL]8+3+1[/TOOL]12. Answer: 120
+16+95=Let me solve step by step. Ones place: 6+5=[TOOL]6+5[/TOOL]11, carry 1. Tens place: 1+9+1=[TOOL]1+9+1[/TOOL]11. Answer: 111
+74+48=Let me solve step by step. Ones place: 4+8=[TOOL]4+8[/TOOL]12, carry 1. Tens place: 7+4+1=[TOOL]7+4+1[/TOOL]12. Answer: 122
+40+44=Let me solve step by step. Ones place: 0+4=[TOOL]0+4[/TOOL]4. Tens place: 4+4=[TOOL]4+4[/TOOL]8. Answer: 84
+94+90=Let me solve step by step. Ones place: 4+0=[TOOL]4+0[/TOOL]4. Tens place: 9+9=[TOOL]9+9[/TOOL]18. Answer: 184
+78+92=Let me solve step by step. Ones place: 8+2=[TOOL]8+2[/TOOL]10, carry 1. Tens place: 7+9+1=[TOOL]7+9+1[/TOOL]17. Answer: 170
+59+85=Let me solve step by step. Ones place: 9+5=[TOOL]9+5[/TOOL]14, carry 1. Tens place: 5+8+1=[TOOL]5+8+1[/TOOL]14. Answer: 144
+62+31=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 6+3=[TOOL]6+3[/TOOL]9. Answer: 93
+20+36=Let me solve step by step. Ones place: 0+6=[TOOL]0+6[/TOOL]6. Tens place: 2+3=[TOOL]2+3[/TOOL]5. Answer: 56
+30+10=Let me solve step by step. Ones place: 0+0=[TOOL]0+0[/TOOL]0. Tens place: 3+1=[TOOL]3+1[/TOOL]4. Answer: 40
+17+26=Let me solve step by step. Ones place: 7+6=[TOOL]7+6[/TOOL]13, carry 1. Tens place: 1+2+1=[TOOL]1+2+1[/TOOL]4. Answer: 43
+23+93=Let me solve step by step. Ones place: 3+3=[TOOL]3+3[/TOOL]6. Tens place: 2+9=[TOOL]2+9[/TOOL]11. Answer: 116
+91+31=Let me solve step by step. Ones place: 1+1=[TOOL]1+1[/TOOL]2. Tens place: 9+3=[TOOL]9+3[/TOOL]12. Answer: 122
+74+29=Let me solve step by step. Ones place: 4+9=[TOOL]4+9[/TOOL]13, carry 1. Tens place: 7+2+1=[TOOL]7+2+1[/TOOL]10. Answer: 103
+48+87=Let me solve step by step. Ones place: 8+7=[TOOL]8+7[/TOOL]15, carry 1. Tens place: 4+8+1=[TOOL]4+8+1[/TOOL]13. Answer: 135
+67+32=Let me solve step by step. Ones place: 7+2=[TOOL]7+2[/TOOL]9. Tens place: 6+3=[TOOL]6+3[/TOOL]9. Answer: 99
+40+24=Let me solve step by step. Ones place: 0+4=[TOOL]0+4[/TOOL]4. Tens place: 4+2=[TOOL]4+2[/TOOL]6. Answer: 64
+81+60=Let me solve step by step. Ones place: 1+0=[TOOL]1+0[/TOOL]1. Tens place: 8+6=[TOOL]8+6[/TOOL]14. Answer: 141
+59+17=Let me solve step by step. Ones place: 9+7=[TOOL]9+7[/TOOL]16, carry 1. Tens place: 5+1+1=[TOOL]5+1+1[/TOOL]7. Answer: 76
+67+23=Let me solve step by step. Ones place: 7+3=[TOOL]7+3[/TOOL]10, carry 1. Tens place: 6+2+1=[TOOL]6+2+1[/TOOL]9. Answer: 90
+24+45=Let me solve step by step. Ones place: 4+5=[TOOL]4+5[/TOOL]9. Tens place: 2+4=[TOOL]2+4[/TOOL]6. Answer: 69
+62+82=Let me solve step by step. Ones place: 2+2=[TOOL]2+2[/TOOL]4. Tens place: 6+8=[TOOL]6+8[/TOOL]14. Answer: 144
+12+39=Let me solve step by step. Ones place: 2+9=[TOOL]2+9[/TOOL]11, carry 1. Tens place: 1+3+1=[TOOL]1+3+1[/TOOL]5. Answer: 51
+11+98=Let me solve step by step. Ones place: 1+8=[TOOL]1+8[/TOOL]9. Tens place: 1+9=[TOOL]1+9[/TOOL]10. Answer: 109
+72+43=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 7+4=[TOOL]7+4[/TOOL]11. Answer: 115
+89+45=Let me solve step by step. Ones place: 9+5=[TOOL]9+5[/TOOL]14, carry 1. Tens place: 8+4+1=[TOOL]8+4+1[/TOOL]13. Answer: 134
+12+10=Let me solve step by step. Ones place: 2+0=[TOOL]2+0[/TOOL]2. Tens place: 1+1=[TOOL]1+1[/TOOL]2. Answer: 22
+95+17=Let me solve step by step. Ones place: 5+7=[TOOL]5+7[/TOOL]12, carry 1. Tens place: 9+1+1=[TOOL]9+1+1[/TOOL]11. Answer: 112
+27+90=Let me solve step by step. Ones place: 7+0=[TOOL]7+0[/TOOL]7. Tens place: 2+9=[TOOL]2+9[/TOOL]11. Answer: 117
+35+52=Let me solve step by step. Ones place: 5+2=[TOOL]5+2[/TOOL]7. Tens place: 3+5=[TOOL]3+5[/TOOL]8. Answer: 87
+41+62=Let me solve step by step. Ones place: 1+2=[TOOL]1+2[/TOOL]3. Tens place: 4+6=[TOOL]4+6[/TOOL]10. Answer: 103
+73+48=Let me solve step by step. Ones place: 3+8=[TOOL]3+8[/TOOL]11, carry 1. Tens place: 7+4+1=[TOOL]7+4+1[/TOOL]12. Answer: 121
+19+71=Let me solve step by step. Ones place: 9+1=[TOOL]9+1[/TOOL]10, carry 1. Tens place: 1+7+1=[TOOL]1+7+1[/TOOL]9. Answer: 90
+14+40=Let me solve step by step. Ones place: 4+0=[TOOL]4+0[/TOOL]4. Tens place: 1+4=[TOOL]1+4[/TOOL]5. Answer: 54
+66+80=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 6+8=[TOOL]6+8[/TOOL]14. Answer: 146
+20+15=Let me solve step by step. Ones place: 0+5=[TOOL]0+5[/TOOL]5. Tens place: 2+1=[TOOL]2+1[/TOOL]3. Answer: 35
+78+71=Let me solve step by step. Ones place: 8+1=[TOOL]8+1[/TOOL]9. Tens place: 7+7=[TOOL]7+7[/TOOL]14. Answer: 149
+48+96=Let me solve step by step. Ones place: 8+6=[TOOL]8+6[/TOOL]14, carry 1. Tens place: 4+9+1=[TOOL]4+9+1[/TOOL]14. Answer: 144
+31+67=Let me solve step by step. Ones place: 1+7=[TOOL]1+7[/TOOL]8. Tens place: 3+6=[TOOL]3+6[/TOOL]9. Answer: 98
+49+61=Let me solve step by step. Ones place: 9+1=[TOOL]9+1[/TOOL]10, carry 1. Tens place: 4+6+1=[TOOL]4+6+1[/TOOL]11. Answer: 110
+58+48=Let me solve step by step. Ones place: 8+8=[TOOL]8+8[/TOOL]16, carry 1. Tens place: 5+4+1=[TOOL]5+4+1[/TOOL]10. Answer: 106
+16+75=Let me solve step by step. Ones place: 6+5=[TOOL]6+5[/TOOL]11, carry 1. Tens place: 1+7+1=[TOOL]1+7+1[/TOOL]9. Answer: 91
+70+32=Let me solve step by step. Ones place: 0+2=[TOOL]0+2[/TOOL]2. Tens place: 7+3=[TOOL]7+3[/TOOL]10. Answer: 102
+59+89=Let me solve step by step. Ones place: 9+9=[TOOL]9+9[/TOOL]18, carry 1. Tens place: 5+8+1=[TOOL]5+8+1[/TOOL]14. Answer: 148
+48+27=Let me solve step by step. Ones place: 8+7=[TOOL]8+7[/TOOL]15, carry 1. Tens place: 4+2+1=[TOOL]4+2+1[/TOOL]7. Answer: 75
+73+60=Let me solve step by step. Ones place: 3+0=[TOOL]3+0[/TOOL]3. Tens place: 7+6=[TOOL]7+6[/TOOL]13. Answer: 133
+87+56=Let me solve step by step. Ones place: 7+6=[TOOL]7+6[/TOOL]13, carry 1. Tens place: 8+5+1=[TOOL]8+5+1[/TOOL]14. Answer: 143
+89+76=Let me solve step by step. Ones place: 9+6=[TOOL]9+6[/TOOL]15, carry 1. Tens place: 8+7+1=[TOOL]8+7+1[/TOOL]16. Answer: 165
+63+26=Let me solve step by step. Ones place: 3+6=[TOOL]3+6[/TOOL]9. Tens place: 6+2=[TOOL]6+2[/TOOL]8. Answer: 89
+74+21=Let me solve step by step. Ones place: 4+1=[TOOL]4+1[/TOOL]5. Tens place: 7+2=[TOOL]7+2[/TOOL]9. Answer: 95
+98+40=Let me solve step by step. Ones place: 8+0=[TOOL]8+0[/TOOL]8. Tens place: 9+4=[TOOL]9+4[/TOOL]13. Answer: 138
+98+22=Let me solve step by step. Ones place: 8+2=[TOOL]8+2[/TOOL]10, carry 1. Tens place: 9+2+1=[TOOL]9+2+1[/TOOL]12. Answer: 120
+13+39=Let me solve step by step. Ones place: 3+9=[TOOL]3+9[/TOOL]12, carry 1. Tens place: 1+3+1=[TOOL]1+3+1[/TOOL]5. Answer: 52
+42+65=Let me solve step by step. Ones place: 2+5=[TOOL]2+5[/TOOL]7. Tens place: 4+6=[TOOL]4+6[/TOOL]10. Answer: 107
+73+99=Let me solve step by step. Ones place: 3+9=[TOOL]3+9[/TOOL]12, carry 1. Tens place: 7+9+1=[TOOL]7+9+1[/TOOL]17. Answer: 172
+10+17=Let me solve step by step. Ones place: 0+7=[TOOL]0+7[/TOOL]7. Tens place: 1+1=[TOOL]1+1[/TOOL]2. Answer: 27
+28+34=Let me solve step by step. Ones place: 8+4=[TOOL]8+4[/TOOL]12, carry 1. Tens place: 2+3+1=[TOOL]2+3+1[/TOOL]6. Answer: 62
+79+63=Let me solve step by step. Ones place: 9+3=[TOOL]9+3[/TOOL]12, carry 1. Tens place: 7+6+1=[TOOL]7+6+1[/TOOL]14. Answer: 142
+82+16=Let me solve step by step. Ones place: 2+6=[TOOL]2+6[/TOOL]8. Tens place: 8+1=[TOOL]8+1[/TOOL]9. Answer: 98
+90+95=Let me solve step by step. Ones place: 0+5=[TOOL]0+5[/TOOL]5. Tens place: 9+9=[TOOL]9+9[/TOOL]18. Answer: 185
+45+74=Let me solve step by step. Ones place: 5+4=[TOOL]5+4[/TOOL]9. Tens place: 4+7=[TOOL]4+7[/TOOL]11. Answer: 119
+37+89=Let me solve step by step. Ones place: 7+9=[TOOL]7+9[/TOOL]16, carry 1. Tens place: 3+8+1=[TOOL]3+8+1[/TOOL]12. Answer: 126
+93+25=Let me solve step by step. Ones place: 3+5=[TOOL]3+5[/TOOL]8. Tens place: 9+2=[TOOL]9+2[/TOOL]11. Answer: 118
+63+74=Let me solve step by step. Ones place: 3+4=[TOOL]3+4[/TOOL]7. Tens place: 6+7=[TOOL]6+7[/TOOL]13. Answer: 137
+11+12=Let me solve step by step. Ones place: 1+2=[TOOL]1+2[/TOOL]3. Tens place: 1+1=[TOOL]1+1[/TOOL]2. Answer: 23
+64+93=Let me solve step by step. Ones place: 4+3=[TOOL]4+3[/TOOL]7. Tens place: 6+9=[TOOL]6+9[/TOOL]15. Answer: 157
+52+23=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 5+2=[TOOL]5+2[/TOOL]7. Answer: 75
+21+54=Let me solve step by step. Ones place: 1+4=[TOOL]1+4[/TOOL]5. Tens place: 2+5=[TOOL]2+5[/TOOL]7. Answer: 75
+25+58=Let me solve step by step. Ones place: 5+8=[TOOL]5+8[/TOOL]13, carry 1. Tens place: 2+5+1=[TOOL]2+5+1[/TOOL]8. Answer: 83
+47+51=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 4+5=[TOOL]4+5[/TOOL]9. Answer: 98
+99+75=Let me solve step by step. Ones place: 9+5=[TOOL]9+5[/TOOL]14, carry 1. Tens place: 9+7+1=[TOOL]9+7+1[/TOOL]17. Answer: 174
+46+91=Let me solve step by step. Ones place: 6+1=[TOOL]6+1[/TOOL]7. Tens place: 4+9=[TOOL]4+9[/TOOL]13. Answer: 137
+20+47=Let me solve step by step. Ones place: 0+7=[TOOL]0+7[/TOOL]7. Tens place: 2+4=[TOOL]2+4[/TOOL]6. Answer: 67
+30+57=Let me solve step by step. Ones place: 0+7=[TOOL]0+7[/TOOL]7. Tens place: 3+5=[TOOL]3+5[/TOOL]8. Answer: 87
+93+78=Let me solve step by step. Ones place: 3+8=[TOOL]3+8[/TOOL]11, carry 1. Tens place: 9+7+1=[TOOL]9+7+1[/TOOL]17. Answer: 171
+17+16=Let me solve step by step. Ones place: 7+6=[TOOL]7+6[/TOOL]13, carry 1. Tens place: 1+1+1=[TOOL]1+1+1[/TOOL]3. Answer: 33
+34+15=Let me solve step by step. Ones place: 4+5=[TOOL]4+5[/TOOL]9. Tens place: 3+1=[TOOL]3+1[/TOOL]4. Answer: 49
+39+62=Let me solve step by step. Ones place: 9+2=[TOOL]9+2[/TOOL]11, carry 1. Tens place: 3+6+1=[TOOL]3+6+1[/TOOL]10. Answer: 101
+86+42=Let me solve step by step. Ones place: 6+2=[TOOL]6+2[/TOOL]8. Tens place: 8+4=[TOOL]8+4[/TOOL]12. Answer: 128
+80+26=Let me solve step by step. Ones place: 0+6=[TOOL]0+6[/TOOL]6. Tens place: 8+2=[TOOL]8+2[/TOOL]10. Answer: 106
+56+94=Let me solve step by step. Ones place: 6+4=[TOOL]6+4[/TOOL]10, carry 1. Tens place: 5+9+1=[TOOL]5+9+1[/TOOL]15. Answer: 150
+49+46=Let me solve step by step. Ones place: 9+6=[TOOL]9+6[/TOOL]15, carry 1. Tens place: 4+4+1=[TOOL]4+4+1[/TOOL]9. Answer: 95
+66+15=Let me solve step by step. Ones place: 6+5=[TOOL]6+5[/TOOL]11, carry 1. Tens place: 6+1+1=[TOOL]6+1+1[/TOOL]8. Answer: 81
+61+89=Let me solve step by step. Ones place: 1+9=[TOOL]1+9[/TOOL]10, carry 1. Tens place: 6+8+1=[TOOL]6+8+1[/TOOL]15. Answer: 150
+46+41=Let me solve step by step. Ones place: 6+1=[TOOL]6+1[/TOOL]7. Tens place: 4+4=[TOOL]4+4[/TOOL]8. Answer: 87
+41+94=Let me solve step by step. Ones place: 1+4=[TOOL]1+4[/TOOL]5. Tens place: 4+9=[TOOL]4+9[/TOOL]13. Answer: 135
+63+75=Let me solve step by step. Ones place: 3+5=[TOOL]3+5[/TOOL]8. Tens place: 6+7=[TOOL]6+7[/TOOL]13. Answer: 138
+51+60=Let me solve step by step. Ones place: 1+0=[TOOL]1+0[/TOOL]1. Tens place: 5+6=[TOOL]5+6[/TOOL]11. Answer: 111
+51+25=Let me solve step by step. Ones place: 1+5=[TOOL]1+5[/TOOL]6. Tens place: 5+2=[TOOL]5+2[/TOOL]7. Answer: 76
+87+61=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 8+6=[TOOL]8+6[/TOOL]14. Answer: 148
+78+87=Let me solve step by step. Ones place: 8+7=[TOOL]8+7[/TOOL]15, carry 1. Tens place: 7+8+1=[TOOL]7+8+1[/TOOL]16. Answer: 165
+71+68=Let me solve step by step. Ones place: 1+8=[TOOL]1+8[/TOOL]9. Tens place: 7+6=[TOOL]7+6[/TOOL]13. Answer: 139
+64+82=Let me solve step by step. Ones place: 4+2=[TOOL]4+2[/TOOL]6. Tens place: 6+8=[TOOL]6+8[/TOOL]14. Answer: 146
+34+61=Let me solve step by step. Ones place: 4+1=[TOOL]4+1[/TOOL]5. Tens place: 3+6=[TOOL]3+6[/TOOL]9. Answer: 95
+37+49=Let me solve step by step. Ones place: 7+9=[TOOL]7+9[/TOOL]16, carry 1. Tens place: 3+4+1=[TOOL]3+4+1[/TOOL]8. Answer: 86
+36+10=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 3+1=[TOOL]3+1[/TOOL]4. Answer: 46
+26+95=Let me solve step by step. Ones place: 6+5=[TOOL]6+5[/TOOL]11, carry 1. Tens place: 2+9+1=[TOOL]2+9+1[/TOOL]12. Answer: 121
+18+54=Let me solve step by step. Ones place: 8+4=[TOOL]8+4[/TOOL]12, carry 1. Tens place: 1+5+1=[TOOL]1+5+1[/TOOL]7. Answer: 72
+70+35=Let me solve step by step. Ones place: 0+5=[TOOL]0+5[/TOOL]5. Tens place: 7+3=[TOOL]7+3[/TOOL]10. Answer: 105
+48+29=Let me solve step by step. Ones place: 8+9=[TOOL]8+9[/TOOL]17, carry 1. Tens place: 4+2+1=[TOOL]4+2+1[/TOOL]7. Answer: 77
+26+21=Let me solve step by step. Ones place: 6+1=[TOOL]6+1[/TOOL]7. Tens place: 2+2=[TOOL]2+2[/TOOL]4. Answer: 47
+73+15=Let me solve step by step. Ones place: 3+5=[TOOL]3+5[/TOOL]8. Tens place: 7+1=[TOOL]7+1[/TOOL]8. Answer: 88
+37+24=Let me solve step by step. Ones place: 7+4=[TOOL]7+4[/TOOL]11, carry 1. Tens place: 3+2+1=[TOOL]3+2+1[/TOOL]6. Answer: 61
+75+91=Let me solve step by step. Ones place: 5+1=[TOOL]5+1[/TOOL]6. Tens place: 7+9=[TOOL]7+9[/TOOL]16. Answer: 166
+54+16=Let me solve step by step. Ones place: 4+6=[TOOL]4+6[/TOOL]10, carry 1. Tens place: 5+1+1=[TOOL]5+1+1[/TOOL]7. Answer: 70
+56+10=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 5+1=[TOOL]5+1[/TOOL]6. Answer: 66
+62+24=Let me solve step by step. Ones place: 2+4=[TOOL]2+4[/TOOL]6. Tens place: 6+2=[TOOL]6+2[/TOOL]8. Answer: 86
+16+48=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 1+4+1=[TOOL]1+4+1[/TOOL]6. Answer: 64
+84+34=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 8+3=[TOOL]8+3[/TOOL]11. Answer: 118
+77+88=Let me solve step by step. Ones place: 7+8=[TOOL]7+8[/TOOL]15, carry 1. Tens place: 7+8+1=[TOOL]7+8+1[/TOOL]16. Answer: 165
+55+98=Let me solve step by step. Ones place: 5+8=[TOOL]5+8[/TOOL]13, carry 1. Tens place: 5+9+1=[TOOL]5+9+1[/TOOL]15. Answer: 153
+76+45=Let me solve step by step. Ones place: 6+5=[TOOL]6+5[/TOOL]11, carry 1. Tens place: 7+4+1=[TOOL]7+4+1[/TOOL]12. Answer: 121
+89+79=Let me solve step by step. Ones place: 9+9=[TOOL]9+9[/TOOL]18, carry 1. Tens place: 8+7+1=[TOOL]8+7+1[/TOOL]16. Answer: 168
+41+46=Let me solve step by step. Ones place: 1+6=[TOOL]1+6[/TOOL]7. Tens place: 4+4=[TOOL]4+4[/TOOL]8. Answer: 87
+14+23=Let me solve step by step. Ones place: 4+3=[TOOL]4+3[/TOOL]7. Tens place: 1+2=[TOOL]1+2[/TOOL]3. Answer: 37
+17+74=Let me solve step by step. Ones place: 7+4=[TOOL]7+4[/TOOL]11, carry 1. Tens place: 1+7+1=[TOOL]1+7+1[/TOOL]9. Answer: 91
+71+91=Let me solve step by step. Ones place: 1+1=[TOOL]1+1[/TOOL]2. Tens place: 7+9=[TOOL]7+9[/TOOL]16. Answer: 162
+75+28=Let me solve step by step. Ones place: 5+8=[TOOL]5+8[/TOOL]13, carry 1. Tens place: 7+2+1=[TOOL]7+2+1[/TOOL]10. Answer: 103
+69+63=Let me solve step by step. Ones place: 9+3=[TOOL]9+3[/TOOL]12, carry 1. Tens place: 6+6+1=[TOOL]6+6+1[/TOOL]13. Answer: 132
+49+36=Let me solve step by step. Ones place: 9+6=[TOOL]9+6[/TOOL]15, carry 1. Tens place: 4+3+1=[TOOL]4+3+1[/TOOL]8. Answer: 85
+24+63=Let me solve step by step. Ones place: 4+3=[TOOL]4+3[/TOOL]7. Tens place: 2+6=[TOOL]2+6[/TOOL]8. Answer: 87
+18+76=Let me solve step by step. Ones place: 8+6=[TOOL]8+6[/TOOL]14, carry 1. Tens place: 1+7+1=[TOOL]1+7+1[/TOOL]9. Answer: 94
+31+80=Let me solve step by step. Ones place: 1+0=[TOOL]1+0[/TOOL]1. Tens place: 3+8=[TOOL]3+8[/TOOL]11. Answer: 111
+81+54=Let me solve step by step. Ones place: 1+4=[TOOL]1+4[/TOOL]5. Tens place: 8+5=[TOOL]8+5[/TOOL]13. Answer: 135
+51+48=Let me solve step by step. Ones place: 1+8=[TOOL]1+8[/TOOL]9. Tens place: 5+4=[TOOL]5+4[/TOOL]9. Answer: 99
+89+99=Let me solve step by step. Ones place: 9+9=[TOOL]9+9[/TOOL]18, carry 1. Tens place: 8+9+1=[TOOL]8+9+1[/TOOL]18. Answer: 188
+76+15=Let me solve step by step. Ones place: 6+5=[TOOL]6+5[/TOOL]11, carry 1. Tens place: 7+1+1=[TOOL]7+1+1[/TOOL]9. Answer: 91
+54+73=Let me solve step by step. Ones place: 4+3=[TOOL]4+3[/TOOL]7. Tens place: 5+7=[TOOL]5+7[/TOOL]12. Answer: 127
+85+40=Let me solve step by step. Ones place: 5+0=[TOOL]5+0[/TOOL]5. Tens place: 8+4=[TOOL]8+4[/TOOL]12. Answer: 125
+33+63=Let me solve step by step. Ones place: 3+3=[TOOL]3+3[/TOOL]6. Tens place: 3+6=[TOOL]3+6[/TOOL]9. Answer: 96
+91+11=Let me solve step by step. Ones place: 1+1=[TOOL]1+1[/TOOL]2. Tens place: 9+1=[TOOL]9+1[/TOOL]10. Answer: 102
+90+17=Let me solve step by step. Ones place: 0+7=[TOOL]0+7[/TOOL]7. Tens place: 9+1=[TOOL]9+1[/TOOL]10. Answer: 107
+79+12=Let me solve step by step. Ones place: 9+2=[TOOL]9+2[/TOOL]11, carry 1. Tens place: 7+1+1=[TOOL]7+1+1[/TOOL]9. Answer: 91
+55+64=Let me solve step by step. Ones place: 5+4=[TOOL]5+4[/TOOL]9. Tens place: 5+6=[TOOL]5+6[/TOOL]11. Answer: 119
+68+45=Let me solve step by step. Ones place: 8+5=[TOOL]8+5[/TOOL]13, carry 1. Tens place: 6+4+1=[TOOL]6+4+1[/TOOL]11. Answer: 113
+77+31=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 7+3=[TOOL]7+3[/TOOL]10. Answer: 108
+92+83=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 9+8=[TOOL]9+8[/TOOL]17. Answer: 175
+98+81=Let me solve step by step. Ones place: 8+1=[TOOL]8+1[/TOOL]9. Tens place: 9+8=[TOOL]9+8[/TOOL]17. Answer: 179
+61+58=Let me solve step by step. Ones place: 1+8=[TOOL]1+8[/TOOL]9. Tens place: 6+5=[TOOL]6+5[/TOOL]11. Answer: 119
+89+56=Let me solve step by step. Ones place: 9+6=[TOOL]9+6[/TOOL]15, carry 1. Tens place: 8+5+1=[TOOL]8+5+1[/TOOL]14. Answer: 145
+99+29=Let me solve step by step. Ones place: 9+9=[TOOL]9+9[/TOOL]18, carry 1. Tens place: 9+2+1=[TOOL]9+2+1[/TOOL]12. Answer: 128
+69+72=Let me solve step by step. Ones place: 9+2=[TOOL]9+2[/TOOL]11, carry 1. Tens place: 6+7+1=[TOOL]6+7+1[/TOOL]14. Answer: 141
+83+46=Let me solve step by step. Ones place: 3+6=[TOOL]3+6[/TOOL]9. Tens place: 8+4=[TOOL]8+4[/TOOL]12. Answer: 129
+12+27=Let me solve step by step. Ones place: 2+7=[TOOL]2+7[/TOOL]9. Tens place: 1+2=[TOOL]1+2[/TOOL]3. Answer: 39
+47+41=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 4+4=[TOOL]4+4[/TOOL]8. Answer: 88
+59+95=Let me solve step by step. Ones place: 9+5=[TOOL]9+5[/TOOL]14, carry 1. Tens place: 5+9+1=[TOOL]5+9+1[/TOOL]15. Answer: 154
+32+13=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 3+1=[TOOL]3+1[/TOOL]4. Answer: 45
+25+73=Let me solve step by step. Ones place: 5+3=[TOOL]5+3[/TOOL]8. Tens place: 2+7=[TOOL]2+7[/TOOL]9. Answer: 98
+42+31=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 4+3=[TOOL]4+3[/TOOL]7. Answer: 73
+47+30=Let me solve step by step. Ones place: 7+0=[TOOL]7+0[/TOOL]7. Tens place: 4+3=[TOOL]4+3[/TOOL]7. Answer: 77
+43+20=Let me solve step by step. Ones place: 3+0=[TOOL]3+0[/TOOL]3. Tens place: 4+2=[TOOL]4+2[/TOOL]6. Answer: 63
+80+30=Let me solve step by step. Ones place: 0+0=[TOOL]0+0[/TOOL]0. Tens place: 8+3=[TOOL]8+3[/TOOL]11. Answer: 110
+97+63=Let me solve step by step. Ones place: 7+3=[TOOL]7+3[/TOOL]10, carry 1. Tens place: 9+6+1=[TOOL]9+6+1[/TOOL]16. Answer: 160
+56+34=Let me solve step by step. Ones place: 6+4=[TOOL]6+4[/TOOL]10, carry 1. Tens place: 5+3+1=[TOOL]5+3+1[/TOOL]9. Answer: 90
+11+41=Let me solve step by step. Ones place: 1+1=[TOOL]1+1[/TOOL]2. Tens place: 1+4=[TOOL]1+4[/TOOL]5. Answer: 52
+12+88=Let me solve step by step. Ones place: 2+8=[TOOL]2+8[/TOOL]10, carry 1. Tens place: 1+8+1=[TOOL]1+8+1[/TOOL]10. Answer: 100
+87+98=Let me solve step by step. Ones place: 7+8=[TOOL]7+8[/TOOL]15, carry 1. Tens place: 8+9+1=[TOOL]8+9+1[/TOOL]18. Answer: 185
+59+58=Let me solve step by step. Ones place: 9+8=[TOOL]9+8[/TOOL]17, carry 1. Tens place: 5+5+1=[TOOL]5+5+1[/TOOL]11. Answer: 117
+54+27=Let me solve step by step. Ones place: 4+7=[TOOL]4+7[/TOOL]11, carry 1. Tens place: 5+2+1=[TOOL]5+2+1[/TOOL]8. Answer: 81
+40+83=Let me solve step by step. Ones place: 0+3=[TOOL]0+3[/TOOL]3. Tens place: 4+8=[TOOL]4+8[/TOOL]12. Answer: 123
+47+26=Let me solve step by step. Ones place: 7+6=[TOOL]7+6[/TOOL]13, carry 1. Tens place: 4+2+1=[TOOL]4+2+1[/TOOL]7. Answer: 73
+22+87=Let me solve step by step. Ones place: 2+7=[TOOL]2+7[/TOOL]9. Tens place: 2+8=[TOOL]2+8[/TOOL]10. Answer: 109
+22+90=Let me solve step by step. Ones place: 2+0=[TOOL]2+0[/TOOL]2. Tens place: 2+9=[TOOL]2+9[/TOOL]11. Answer: 112
+13+11=Let me solve step by step. Ones place: 3+1=[TOOL]3+1[/TOOL]4. Tens place: 1+1=[TOOL]1+1[/TOOL]2. Answer: 24
+36+36=Let me solve step by step. Ones place: 6+6=[TOOL]6+6[/TOOL]12, carry 1. Tens place: 3+3+1=[TOOL]3+3+1[/TOOL]7. Answer: 72
+69+66=Let me solve step by step. Ones place: 9+6=[TOOL]9+6[/TOOL]15, carry 1. Tens place: 6+6+1=[TOOL]6+6+1[/TOOL]13. Answer: 135
+57+52=Let me solve step by step. Ones place: 7+2=[TOOL]7+2[/TOOL]9. Tens place: 5+5=[TOOL]5+5[/TOOL]10. Answer: 109
+16+50=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 1+5=[TOOL]1+5[/TOOL]6. Answer: 66
+60+53=Let me solve step by step. Ones place: 0+3=[TOOL]0+3[/TOOL]3. Tens place: 6+5=[TOOL]6+5[/TOOL]11. Answer: 113
+48+57=Let me solve step by step. Ones place: 8+7=[TOOL]8+7[/TOOL]15, carry 1. Tens place: 4+5+1=[TOOL]4+5+1[/TOOL]10. Answer: 105
+93+96=Let me solve step by step. Ones place: 3+6=[TOOL]3+6[/TOOL]9. Tens place: 9+9=[TOOL]9+9[/TOOL]18. Answer: 189
+80+56=Let me solve step by step. Ones place: 0+6=[TOOL]0+6[/TOOL]6. Tens place: 8+5=[TOOL]8+5[/TOOL]13. Answer: 136
+46+39=Let me solve step by step. Ones place: 6+9=[TOOL]6+9[/TOOL]15, carry 1. Tens place: 4+3+1=[TOOL]4+3+1[/TOOL]8. Answer: 85
+31+22=Let me solve step by step. Ones place: 1+2=[TOOL]1+2[/TOOL]3. Tens place: 3+2=[TOOL]3+2[/TOOL]5. Answer: 53
+85+26=Let me solve step by step. Ones place: 5+6=[TOOL]5+6[/TOOL]11, carry 1. Tens place: 8+2+1=[TOOL]8+2+1[/TOOL]11. Answer: 111
+21+93=Let me solve step by step. Ones place: 1+3=[TOOL]1+3[/TOOL]4. Tens place: 2+9=[TOOL]2+9[/TOOL]11. Answer: 114
+92+22=Let me solve step by step. Ones place: 2+2=[TOOL]2+2[/TOOL]4. Tens place: 9+2=[TOOL]9+2[/TOOL]11. Answer: 114
+94+59=Let me solve step by step. Ones place: 4+9=[TOOL]4+9[/TOOL]13, carry 1. Tens place: 9+5+1=[TOOL]9+5+1[/TOOL]15. Answer: 153
+95+53=Let me solve step by step. Ones place: 5+3=[TOOL]5+3[/TOOL]8. Tens place: 9+5=[TOOL]9+5[/TOOL]14. Answer: 148
+19+34=Let me solve step by step. Ones place: 9+4=[TOOL]9+4[/TOOL]13, carry 1. Tens place: 1+3+1=[TOOL]1+3+1[/TOOL]5. Answer: 53
+66+12=Let me solve step by step. Ones place: 6+2=[TOOL]6+2[/TOOL]8. Tens place: 6+1=[TOOL]6+1[/TOOL]7. Answer: 78
+77+18=Let me solve step by step. Ones place: 7+8=[TOOL]7+8[/TOOL]15, carry 1. Tens place: 7+1+1=[TOOL]7+1+1[/TOOL]9. Answer: 95
+50+61=Let me solve step by step. Ones place: 0+1=[TOOL]0+1[/TOOL]1. Tens place: 5+6=[TOOL]5+6[/TOOL]11. Answer: 111
+52+91=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 5+9=[TOOL]5+9[/TOOL]14. Answer: 143
+78+80=Let me solve step by step. Ones place: 8+0=[TOOL]8+0[/TOOL]8. Tens place: 7+8=[TOOL]7+8[/TOOL]15. Answer: 158
+29+67=Let me solve step by step. Ones place: 9+7=[TOOL]9+7[/TOOL]16, carry 1. Tens place: 2+6+1=[TOOL]2+6+1[/TOOL]9. Answer: 96
+22+73=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 2+7=[TOOL]2+7[/TOOL]9. Answer: 95
+70+84=Let me solve step by step. Ones place: 0+4=[TOOL]0+4[/TOOL]4. Tens place: 7+8=[TOOL]7+8[/TOOL]15. Answer: 154
+34+98=Let me solve step by step. Ones place: 4+8=[TOOL]4+8[/TOOL]12, carry 1. Tens place: 3+9+1=[TOOL]3+9+1[/TOOL]13. Answer: 132
+24+21=Let me solve step by step. Ones place: 4+1=[TOOL]4+1[/TOOL]5. Tens place: 2+2=[TOOL]2+2[/TOOL]4. Answer: 45
+33+44=Let me solve step by step. Ones place: 3+4=[TOOL]3+4[/TOOL]7. Tens place: 3+4=[TOOL]3+4[/TOOL]7. Answer: 77
+16+96=Let me solve step by step. Ones place: 6+6=[TOOL]6+6[/TOOL]12, carry 1. Tens place: 1+9+1=[TOOL]1+9+1[/TOOL]11. Answer: 112
+40+24=Let me solve step by step. Ones place: 0+4=[TOOL]0+4[/TOOL]4. Tens place: 4+2=[TOOL]4+2[/TOOL]6. Answer: 64
+76+38=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 7+3+1=[TOOL]7+3+1[/TOOL]11. Answer: 114
+29+20=Let me solve step by step. Ones place: 9+0=[TOOL]9+0[/TOOL]9. Tens place: 2+2=[TOOL]2+2[/TOOL]4. Answer: 49
+40+26=Let me solve step by step. Ones place: 0+6=[TOOL]0+6[/TOOL]6. Tens place: 4+2=[TOOL]4+2[/TOOL]6. Answer: 66
+20+24=Let me solve step by step. Ones place: 0+4=[TOOL]0+4[/TOOL]4. Tens place: 2+2=[TOOL]2+2[/TOOL]4. Answer: 44
+12+12=Let me solve step by step. Ones place: 2+2=[TOOL]2+2[/TOOL]4. Tens place: 1+1=[TOOL]1+1[/TOOL]2. Answer: 24
+57+35=Let me solve step by step. Ones place: 7+5=[TOOL]7+5[/TOOL]12, carry 1. Tens place: 5+3+1=[TOOL]5+3+1[/TOOL]9. Answer: 92
+60+31=Let me solve step by step. Ones place: 0+1=[TOOL]0+1[/TOOL]1. Tens place: 6+3=[TOOL]6+3[/TOOL]9. Answer: 91
+96+11=Let me solve step by step. Ones place: 6+1=[TOOL]6+1[/TOOL]7. Tens place: 9+1=[TOOL]9+1[/TOOL]10. Answer: 107
+63+30=Let me solve step by step. Ones place: 3+0=[TOOL]3+0[/TOOL]3. Tens place: 6+3=[TOOL]6+3[/TOOL]9. Answer: 93
+84+54=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 8+5=[TOOL]8+5[/TOOL]13. Answer: 138
+68+72=Let me solve step by step. Ones place: 8+2=[TOOL]8+2[/TOOL]10, carry 1. Tens place: 6+7+1=[TOOL]6+7+1[/TOOL]14. Answer: 140
+94+82=Let me solve step by step. Ones place: 4+2=[TOOL]4+2[/TOOL]6. Tens place: 9+8=[TOOL]9+8[/TOOL]17. Answer: 176
+31+80=Let me solve step by step. Ones place: 1+0=[TOOL]1+0[/TOOL]1. Tens place: 3+8=[TOOL]3+8[/TOOL]11. Answer: 111
+43+15=Let me solve step by step. Ones place: 3+5=[TOOL]3+5[/TOOL]8. Tens place: 4+1=[TOOL]4+1[/TOOL]5. Answer: 58
+39+28=Let me solve step by step. Ones place: 9+8=[TOOL]9+8[/TOOL]17, carry 1. Tens place: 3+2+1=[TOOL]3+2+1[/TOOL]6. Answer: 67
+11+17=Let me solve step by step. Ones place: 1+7=[TOOL]1+7[/TOOL]8. Tens place: 1+1=[TOOL]1+1[/TOOL]2. Answer: 28
+45+98=Let me solve step by step. Ones place: 5+8=[TOOL]5+8[/TOOL]13, carry 1. Tens place: 4+9+1=[TOOL]4+9+1[/TOOL]14. Answer: 143
+92+65=Let me solve step by step. Ones place: 2+5=[TOOL]2+5[/TOOL]7. Tens place: 9+6=[TOOL]9+6[/TOOL]15. Answer: 157
+41+27=Let me solve step by step. Ones place: 1+7=[TOOL]1+7[/TOOL]8. Tens place: 4+2=[TOOL]4+2[/TOOL]6. Answer: 68
+49+49=Let me solve step by step. Ones place: 9+9=[TOOL]9+9[/TOOL]18, carry 1. Tens place: 4+4+1=[TOOL]4+4+1[/TOOL]9. Answer: 98
+50+34=Let me solve step by step. Ones place: 0+4=[TOOL]0+4[/TOOL]4. Tens place: 5+3=[TOOL]5+3[/TOOL]8. Answer: 84
+27+35=Let me solve step by step. Ones place: 7+5=[TOOL]7+5[/TOOL]12, carry 1. Tens place: 2+3+1=[TOOL]2+3+1[/TOOL]6. Answer: 62
+87+58=Let me solve step by step. Ones place: 7+8=[TOOL]7+8[/TOOL]15, carry 1. Tens place: 8+5+1=[TOOL]8+5+1[/TOOL]14. Answer: 145
+24+74=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 2+7=[TOOL]2+7[/TOOL]9. Answer: 98
+76+19=Let me solve step by step. Ones place: 6+9=[TOOL]6+9[/TOOL]15, carry 1. Tens place: 7+1+1=[TOOL]7+1+1[/TOOL]9. Answer: 95
+30+79=Let me solve step by step. Ones place: 0+9=[TOOL]0+9[/TOOL]9. Tens place: 3+7=[TOOL]3+7[/TOOL]10. Answer: 109
+79+57=Let me solve step by step. Ones place: 9+7=[TOOL]9+7[/TOOL]16, carry 1. Tens place: 7+5+1=[TOOL]7+5+1[/TOOL]13. Answer: 136
+74+58=Let me solve step by step. Ones place: 4+8=[TOOL]4+8[/TOOL]12, carry 1. Tens place: 7+5+1=[TOOL]7+5+1[/TOOL]13. Answer: 132
+37+17=Let me solve step by step. Ones place: 7+7=[TOOL]7+7[/TOOL]14, carry 1. Tens place: 3+1+1=[TOOL]3+1+1[/TOOL]5. Answer: 54
+18+78=Let me solve step by step. Ones place: 8+8=[TOOL]8+8[/TOOL]16, carry 1. Tens place: 1+7+1=[TOOL]1+7+1[/TOOL]9. Answer: 96
+14+66=Let me solve step by step. Ones place: 4+6=[TOOL]4+6[/TOOL]10, carry 1. Tens place: 1+6+1=[TOOL]1+6+1[/TOOL]8. Answer: 80
+82+71=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 8+7=[TOOL]8+7[/TOOL]15. Answer: 153
+79+57=Let me solve step by step. Ones place: 9+7=[TOOL]9+7[/TOOL]16, carry 1. Tens place: 7+5+1=[TOOL]7+5+1[/TOOL]13. Answer: 136
+26+32=Let me solve step by step. Ones place: 6+2=[TOOL]6+2[/TOOL]8. Tens place: 2+3=[TOOL]2+3[/TOOL]5. Answer: 58
+21+24=Let me solve step by step. Ones place: 1+4=[TOOL]1+4[/TOOL]5. Tens place: 2+2=[TOOL]2+2[/TOOL]4. Answer: 45
+40+55=Let me solve step by step. Ones place: 0+5=[TOOL]0+5[/TOOL]5. Tens place: 4+5=[TOOL]4+5[/TOOL]9. Answer: 95
+79+56=Let me solve step by step. Ones place: 9+6=[TOOL]9+6[/TOOL]15, carry 1. Tens place: 7+5+1=[TOOL]7+5+1[/TOOL]13. Answer: 135
+55+20=Let me solve step by step. Ones place: 5+0=[TOOL]5+0[/TOOL]5. Tens place: 5+2=[TOOL]5+2[/TOOL]7. Answer: 75
+88+59=Let me solve step by step. Ones place: 8+9=[TOOL]8+9[/TOOL]17, carry 1. Tens place: 8+5+1=[TOOL]8+5+1[/TOOL]14. Answer: 147
+97+41=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 9+4=[TOOL]9+4[/TOOL]13. Answer: 138
+25+29=Let me solve step by step. Ones place: 5+9=[TOOL]5+9[/TOOL]14, carry 1. Tens place: 2+2+1=[TOOL]2+2+1[/TOOL]5. Answer: 54
+46+64=Let me solve step by step. Ones place: 6+4=[TOOL]6+4[/TOOL]10, carry 1. Tens place: 4+6+1=[TOOL]4+6+1[/TOOL]11. Answer: 110
+32+41=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 3+4=[TOOL]3+4[/TOOL]7. Answer: 73
+19+90=Let me solve step by step. Ones place: 9+0=[TOOL]9+0[/TOOL]9. Tens place: 1+9=[TOOL]1+9[/TOOL]10. Answer: 109
+57+90=Let me solve step by step. Ones place: 7+0=[TOOL]7+0[/TOOL]7. Tens place: 5+9=[TOOL]5+9[/TOOL]14. Answer: 147
+52+81=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 5+8=[TOOL]5+8[/TOOL]13. Answer: 133
+65+13=Let me solve step by step. Ones place: 5+3=[TOOL]5+3[/TOOL]8. Tens place: 6+1=[TOOL]6+1[/TOOL]7. Answer: 78
+43+40=Let me solve step by step. Ones place: 3+0=[TOOL]3+0[/TOOL]3. Tens place: 4+4=[TOOL]4+4[/TOOL]8. Answer: 83
+57+99=Let me solve step by step. Ones place: 7+9=[TOOL]7+9[/TOOL]16, carry 1. Tens place: 5+9+1=[TOOL]5+9+1[/TOOL]15. Answer: 156
+56+68=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 5+6+1=[TOOL]5+6+1[/TOOL]12. Answer: 124
+53+68=Let me solve step by step. Ones place: 3+8=[TOOL]3+8[/TOOL]11, carry 1. Tens place: 5+6+1=[TOOL]5+6+1[/TOOL]12. Answer: 121
+91+59=Let me solve step by step. Ones place: 1+9=[TOOL]1+9[/TOOL]10, carry 1. Tens place: 9+5+1=[TOOL]9+5+1[/TOOL]15. Answer: 150
+45+90=Let me solve step by step. Ones place: 5+0=[TOOL]5+0[/TOOL]5. Tens place: 4+9=[TOOL]4+9[/TOOL]13. Answer: 135
+87+21=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 8+2=[TOOL]8+2[/TOOL]10. Answer: 108
+22+65=Let me solve step by step. Ones place: 2+5=[TOOL]2+5[/TOOL]7. Tens place: 2+6=[TOOL]2+6[/TOOL]8. Answer: 87
+40+67=Let me solve step by step. Ones place: 0+7=[TOOL]0+7[/TOOL]7. Tens place: 4+6=[TOOL]4+6[/TOOL]10. Answer: 107
+77+91=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 7+9=[TOOL]7+9[/TOOL]16. Answer: 168
+48+90=Let me solve step by step. Ones place: 8+0=[TOOL]8+0[/TOOL]8. Tens place: 4+9=[TOOL]4+9[/TOOL]13. Answer: 138
+47+43=Let me solve step by step. Ones place: 7+3=[TOOL]7+3[/TOOL]10, carry 1. Tens place: 4+4+1=[TOOL]4+4+1[/TOOL]9. Answer: 90
+38+42=Let me solve step by step. Ones place: 8+2=[TOOL]8+2[/TOOL]10, carry 1. Tens place: 3+4+1=[TOOL]3+4+1[/TOOL]8. Answer: 80
+31+44=Let me solve step by step. Ones place: 1+4=[TOOL]1+4[/TOOL]5. Tens place: 3+4=[TOOL]3+4[/TOOL]7. Answer: 75
+84+24=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 8+2=[TOOL]8+2[/TOOL]10. Answer: 108
+97+37=Let me solve step by step. Ones place: 7+7=[TOOL]7+7[/TOOL]14, carry 1. Tens place: 9+3+1=[TOOL]9+3+1[/TOOL]13. Answer: 134
+84+51=Let me solve step by step. Ones place: 4+1=[TOOL]4+1[/TOOL]5. Tens place: 8+5=[TOOL]8+5[/TOOL]13. Answer: 135
+56+12=Let me solve step by step. Ones place: 6+2=[TOOL]6+2[/TOOL]8. Tens place: 5+1=[TOOL]5+1[/TOOL]6. Answer: 68
+67+76=Let me solve step by step. Ones place: 7+6=[TOOL]7+6[/TOOL]13, carry 1. Tens place: 6+7+1=[TOOL]6+7+1[/TOOL]14. Answer: 143
+91+63=Let me solve step by step. Ones place: 1+3=[TOOL]1+3[/TOOL]4. Tens place: 9+6=[TOOL]9+6[/TOOL]15. Answer: 154
+11+19=Let me solve step by step. Ones place: 1+9=[TOOL]1+9[/TOOL]10, carry 1. Tens place: 1+1+1=[TOOL]1+1+1[/TOOL]3. Answer: 30
+44+14=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 4+1=[TOOL]4+1[/TOOL]5. Answer: 58
+25+95=Let me solve step by step. Ones place: 5+5=[TOOL]5+5[/TOOL]10, carry 1. Tens place: 2+9+1=[TOOL]2+9+1[/TOOL]12. Answer: 120
+66+67=Let me solve step by step. Ones place: 6+7=[TOOL]6+7[/TOOL]13, carry 1. Tens place: 6+6+1=[TOOL]6+6+1[/TOOL]13. Answer: 133
+76+42=Let me solve step by step. Ones place: 6+2=[TOOL]6+2[/TOOL]8. Tens place: 7+4=[TOOL]7+4[/TOOL]11. Answer: 118
+64+53=Let me solve step by step. Ones place: 4+3=[TOOL]4+3[/TOOL]7. Tens place: 6+5=[TOOL]6+5[/TOOL]11. Answer: 117
+92+20=Let me solve step by step. Ones place: 2+0=[TOOL]2+0[/TOOL]2. Tens place: 9+2=[TOOL]9+2[/TOOL]11. Answer: 112
+80+85=Let me solve step by step. Ones place: 0+5=[TOOL]0+5[/TOOL]5. Tens place: 8+8=[TOOL]8+8[/TOOL]16. Answer: 165
+63+43=Let me solve step by step. Ones place: 3+3=[TOOL]3+3[/TOOL]6. Tens place: 6+4=[TOOL]6+4[/TOOL]10. Answer: 106
+69+49=Let me solve step by step. Ones place: 9+9=[TOOL]9+9[/TOOL]18, carry 1. Tens place: 6+4+1=[TOOL]6+4+1[/TOOL]11. Answer: 118
+21+65=Let me solve step by step. Ones place: 1+5=[TOOL]1+5[/TOOL]6. Tens place: 2+6=[TOOL]2+6[/TOOL]8. Answer: 86
+22+92=Let me solve step by step. Ones place: 2+2=[TOOL]2+2[/TOOL]4. Tens place: 2+9=[TOOL]2+9[/TOOL]11. Answer: 114
+27+81=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 2+8=[TOOL]2+8[/TOOL]10. Answer: 108
+68+74=Let me solve step by step. Ones place: 8+4=[TOOL]8+4[/TOOL]12, carry 1. Tens place: 6+7+1=[TOOL]6+7+1[/TOOL]14. Answer: 142
+59+63=Let me solve step by step. Ones place: 9+3=[TOOL]9+3[/TOOL]12, carry 1. Tens place: 5+6+1=[TOOL]5+6+1[/TOOL]12. Answer: 122
+52+74=Let me solve step by step. Ones place: 2+4=[TOOL]2+4[/TOOL]6. Tens place: 5+7=[TOOL]5+7[/TOOL]12. Answer: 126
+95+11=Let me solve step by step. Ones place: 5+1=[TOOL]5+1[/TOOL]6. Tens place: 9+1=[TOOL]9+1[/TOOL]10. Answer: 106
+79+84=Let me solve step by step. Ones place: 9+4=[TOOL]9+4[/TOOL]13, carry 1. Tens place: 7+8+1=[TOOL]7+8+1[/TOOL]16. Answer: 163
+83+96=Let me solve step by step. Ones place: 3+6=[TOOL]3+6[/TOOL]9. Tens place: 8+9=[TOOL]8+9[/TOOL]17. Answer: 179
+81+57=Let me solve step by step. Ones place: 1+7=[TOOL]1+7[/TOOL]8. Tens place: 8+5=[TOOL]8+5[/TOOL]13. Answer: 138
+24+61=Let me solve step by step. Ones place: 4+1=[TOOL]4+1[/TOOL]5. Tens place: 2+6=[TOOL]2+6[/TOOL]8. Answer: 85
+64+94=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 6+9=[TOOL]6+9[/TOOL]15. Answer: 158
+99+79=Let me solve step by step. Ones place: 9+9=[TOOL]9+9[/TOOL]18, carry 1. Tens place: 9+7+1=[TOOL]9+7+1[/TOOL]17. Answer: 178
+44+98=Let me solve step by step. Ones place: 4+8=[TOOL]4+8[/TOOL]12, carry 1. Tens place: 4+9+1=[TOOL]4+9+1[/TOOL]14. Answer: 142
+90+98=Let me solve step by step. Ones place: 0+8=[TOOL]0+8[/TOOL]8. Tens place: 9+9=[TOOL]9+9[/TOOL]18. Answer: 188
+24+42=Let me solve step by step. Ones place: 4+2=[TOOL]4+2[/TOOL]6. Tens place: 2+4=[TOOL]2+4[/TOOL]6. Answer: 66
+61+60=Let me solve step by step. Ones place: 1+0=[TOOL]1+0[/TOOL]1. Tens place: 6+6=[TOOL]6+6[/TOOL]12. Answer: 121
+17+11=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 1+1=[TOOL]1+1[/TOOL]2. Answer: 28
+68+54=Let me solve step by step. Ones place: 8+4=[TOOL]8+4[/TOOL]12, carry 1. Tens place: 6+5+1=[TOOL]6+5+1[/TOOL]12. Answer: 122
+48+81=Let me solve step by step. Ones place: 8+1=[TOOL]8+1[/TOOL]9. Tens place: 4+8=[TOOL]4+8[/TOOL]12. Answer: 129
+44+61=Let me solve step by step. Ones place: 4+1=[TOOL]4+1[/TOOL]5. Tens place: 4+6=[TOOL]4+6[/TOOL]10. Answer: 105
+69+91=Let me solve step by step. Ones place: 9+1=[TOOL]9+1[/TOOL]10, carry 1. Tens place: 6+9+1=[TOOL]6+9+1[/TOOL]16. Answer: 160
+70+86=Let me solve step by step. Ones place: 0+6=[TOOL]0+6[/TOOL]6. Tens place: 7+8=[TOOL]7+8[/TOOL]15. Answer: 156
+21+90=Let me solve step by step. Ones place: 1+0=[TOOL]1+0[/TOOL]1. Tens place: 2+9=[TOOL]2+9[/TOOL]11. Answer: 111
+52+18=Let me solve step by step. Ones place: 2+8=[TOOL]2+8[/TOOL]10, carry 1. Tens place: 5+1+1=[TOOL]5+1+1[/TOOL]7. Answer: 70
+83+56=Let me solve step by step. Ones place: 3+6=[TOOL]3+6[/TOOL]9. Tens place: 8+5=[TOOL]8+5[/TOOL]13. Answer: 139
+60+55=Let me solve step by step. Ones place: 0+5=[TOOL]0+5[/TOOL]5. Tens place: 6+5=[TOOL]6+5[/TOOL]11. Answer: 115
+77+24=Let me solve step by step. Ones place: 7+4=[TOOL]7+4[/TOOL]11, carry 1. Tens place: 7+2+1=[TOOL]7+2+1[/TOOL]10. Answer: 101
+11+27=Let me solve step by step. Ones place: 1+7=[TOOL]1+7[/TOOL]8. Tens place: 1+2=[TOOL]1+2[/TOOL]3. Answer: 38
+63+57=Let me solve step by step. Ones place: 3+7=[TOOL]3+7[/TOOL]10, carry 1. Tens place: 6+5+1=[TOOL]6+5+1[/TOOL]12. Answer: 120
+44+11=Let me solve step by step. Ones place: 4+1=[TOOL]4+1[/TOOL]5. Tens place: 4+1=[TOOL]4+1[/TOOL]5. Answer: 55
+86+56=Let me solve step by step. Ones place: 6+6=[TOOL]6+6[/TOOL]12, carry 1. Tens place: 8+5+1=[TOOL]8+5+1[/TOOL]14. Answer: 142
+67+51=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 6+5=[TOOL]6+5[/TOOL]11. Answer: 118
+76+93=Let me solve step by step. Ones place: 6+3=[TOOL]6+3[/TOOL]9. Tens place: 7+9=[TOOL]7+9[/TOOL]16. Answer: 169
+97+84=Let me solve step by step. Ones place: 7+4=[TOOL]7+4[/TOOL]11, carry 1. Tens place: 9+8+1=[TOOL]9+8+1[/TOOL]18. Answer: 181
+40+30=Let me solve step by step. Ones place: 0+0=[TOOL]0+0[/TOOL]0. Tens place: 4+3=[TOOL]4+3[/TOOL]7. Answer: 70
+72+24=Let me solve step by step. Ones place: 2+4=[TOOL]2+4[/TOOL]6. Tens place: 7+2=[TOOL]7+2[/TOOL]9. Answer: 96
+53+76=Let me solve step by step. Ones place: 3+6=[TOOL]3+6[/TOOL]9. Tens place: 5+7=[TOOL]5+7[/TOOL]12. Answer: 129
+16+51=Let me solve step by step. Ones place: 6+1=[TOOL]6+1[/TOOL]7. Tens place: 1+5=[TOOL]1+5[/TOOL]6. Answer: 67
+97+42=Let me solve step by step. Ones place: 7+2=[TOOL]7+2[/TOOL]9. Tens place: 9+4=[TOOL]9+4[/TOOL]13. Answer: 139
+90+29=Let me solve step by step. Ones place: 0+9=[TOOL]0+9[/TOOL]9. Tens place: 9+2=[TOOL]9+2[/TOOL]11. Answer: 119
+99+90=Let me solve step by step. Ones place: 9+0=[TOOL]9+0[/TOOL]9. Tens place: 9+9=[TOOL]9+9[/TOOL]18. Answer: 189
+41+82=Let me solve step by step. Ones place: 1+2=[TOOL]1+2[/TOOL]3. Tens place: 4+8=[TOOL]4+8[/TOOL]12. Answer: 123
+29+20=Let me solve step by step. Ones place: 9+0=[TOOL]9+0[/TOOL]9. Tens place: 2+2=[TOOL]2+2[/TOOL]4. Answer: 49
+84+69=Let me solve step by step. Ones place: 4+9=[TOOL]4+9[/TOOL]13, carry 1. Tens place: 8+6+1=[TOOL]8+6+1[/TOOL]15. Answer: 153
+23+64=Let me solve step by step. Ones place: 3+4=[TOOL]3+4[/TOOL]7. Tens place: 2+6=[TOOL]2+6[/TOOL]8. Answer: 87
+35+74=Let me solve step by step. Ones place: 5+4=[TOOL]5+4[/TOOL]9. Tens place: 3+7=[TOOL]3+7[/TOOL]10. Answer: 109
+72+30=Let me solve step by step. Ones place: 2+0=[TOOL]2+0[/TOOL]2. Tens place: 7+3=[TOOL]7+3[/TOOL]10. Answer: 102
+80+84=Let me solve step by step. Ones place: 0+4=[TOOL]0+4[/TOOL]4. Tens place: 8+8=[TOOL]8+8[/TOOL]16. Answer: 164
+41+53=Let me solve step by step. Ones place: 1+3=[TOOL]1+3[/TOOL]4. Tens place: 4+5=[TOOL]4+5[/TOOL]9. Answer: 94
+12+36=Let me solve step by step. Ones place: 2+6=[TOOL]2+6[/TOOL]8. Tens place: 1+3=[TOOL]1+3[/TOOL]4. Answer: 48
+95+68=Let me solve step by step. Ones place: 5+8=[TOOL]5+8[/TOOL]13, carry 1. Tens place: 9+6+1=[TOOL]9+6+1[/TOOL]16. Answer: 163
+50+71=Let me solve step by step. Ones place: 0+1=[TOOL]0+1[/TOOL]1. Tens place: 5+7=[TOOL]5+7[/TOOL]12. Answer: 121
+80+18=Let me solve step by step. Ones place: 0+8=[TOOL]0+8[/TOOL]8. Tens place: 8+1=[TOOL]8+1[/TOOL]9. Answer: 98
+99+98=Let me solve step by step. Ones place: 9+8=[TOOL]9+8[/TOOL]17, carry 1. Tens place: 9+9+1=[TOOL]9+9+1[/TOOL]19. Answer: 197
+25+79=Let me solve step by step. Ones place: 5+9=[TOOL]5+9[/TOOL]14, carry 1. Tens place: 2+7+1=[TOOL]2+7+1[/TOOL]10. Answer: 104
+89+79=Let me solve step by step. Ones place: 9+9=[TOOL]9+9[/TOOL]18, carry 1. Tens place: 8+7+1=[TOOL]8+7+1[/TOOL]16. Answer: 168
+13+32=Let me solve step by step. Ones place: 3+2=[TOOL]3+2[/TOOL]5. Tens place: 1+3=[TOOL]1+3[/TOOL]4. Answer: 45
+18+94=Let me solve step by step. Ones place: 8+4=[TOOL]8+4[/TOOL]12, carry 1. Tens place: 1+9+1=[TOOL]1+9+1[/TOOL]11. Answer: 112
+87+86=Let me solve step by step. Ones place: 7+6=[TOOL]7+6[/TOOL]13, carry 1. Tens place: 8+8+1=[TOOL]8+8+1[/TOOL]17. Answer: 173
+95+42=Let me solve step by step. Ones place: 5+2=[TOOL]5+2[/TOOL]7. Tens place: 9+4=[TOOL]9+4[/TOOL]13. Answer: 137
+92+71=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 9+7=[TOOL]9+7[/TOOL]16. Answer: 163
+53+49=Let me solve step by step. Ones place: 3+9=[TOOL]3+9[/TOOL]12, carry 1. Tens place: 5+4+1=[TOOL]5+4+1[/TOOL]10. Answer: 102
+78+84=Let me solve step by step. Ones place: 8+4=[TOOL]8+4[/TOOL]12, carry 1. Tens place: 7+8+1=[TOOL]7+8+1[/TOOL]16. Answer: 162
+11+86=Let me solve step by step. Ones place: 1+6=[TOOL]1+6[/TOOL]7. Tens place: 1+8=[TOOL]1+8[/TOOL]9. Answer: 97
+23+45=Let me solve step by step. Ones place: 3+5=[TOOL]3+5[/TOOL]8. Tens place: 2+4=[TOOL]2+4[/TOOL]6. Answer: 68
+56+15=Let me solve step by step. Ones place: 6+5=[TOOL]6+5[/TOOL]11, carry 1. Tens place: 5+1+1=[TOOL]5+1+1[/TOOL]7. Answer: 71
+82+33=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 8+3=[TOOL]8+3[/TOOL]11. Answer: 115
+56+10=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 5+1=[TOOL]5+1[/TOOL]6. Answer: 66
+26+96=Let me solve step by step. Ones place: 6+6=[TOOL]6+6[/TOOL]12, carry 1. Tens place: 2+9+1=[TOOL]2+9+1[/TOOL]12. Answer: 122
+51+19=Let me solve step by step. Ones place: 1+9=[TOOL]1+9[/TOOL]10, carry 1. Tens place: 5+1+1=[TOOL]5+1+1[/TOOL]7. Answer: 70
+90+40=Let me solve step by step. Ones place: 0+0=[TOOL]0+0[/TOOL]0. Tens place: 9+4=[TOOL]9+4[/TOOL]13. Answer: 130
+93+54=Let me solve step by step. Ones place: 3+4=[TOOL]3+4[/TOOL]7. Tens place: 9+5=[TOOL]9+5[/TOOL]14. Answer: 147
+92+13=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 9+1=[TOOL]9+1[/TOOL]10. Answer: 105
+45+83=Let me solve step by step. Ones place: 5+3=[TOOL]5+3[/TOOL]8. Tens place: 4+8=[TOOL]4+8[/TOOL]12. Answer: 128
+12+25=Let me solve step by step. Ones place: 2+5=[TOOL]2+5[/TOOL]7. Tens place: 1+2=[TOOL]1+2[/TOOL]3. Answer: 37
+12+12=Let me solve step by step. Ones place: 2+2=[TOOL]2+2[/TOOL]4. Tens place: 1+1=[TOOL]1+1[/TOOL]2. Answer: 24
+51+44=Let me solve step by step. Ones place: 1+4=[TOOL]1+4[/TOOL]5. Tens place: 5+4=[TOOL]5+4[/TOOL]9. Answer: 95
+38+75=Let me solve step by step. Ones place: 8+5=[TOOL]8+5[/TOOL]13, carry 1. Tens place: 3+7+1=[TOOL]3+7+1[/TOOL]11. Answer: 113
+29+95=Let me solve step by step. Ones place: 9+5=[TOOL]9+5[/TOOL]14, carry 1. Tens place: 2+9+1=[TOOL]2+9+1[/TOOL]12. Answer: 124
+80+66=Let me solve step by step. Ones place: 0+6=[TOOL]0+6[/TOOL]6. Tens place: 8+6=[TOOL]8+6[/TOOL]14. Answer: 146
+89+41=Let me solve step by step. Ones place: 9+1=[TOOL]9+1[/TOOL]10, carry 1. Tens place: 8+4+1=[TOOL]8+4+1[/TOOL]13. Answer: 130
+63+76=Let me solve step by step. Ones place: 3+6=[TOOL]3+6[/TOOL]9. Tens place: 6+7=[TOOL]6+7[/TOOL]13. Answer: 139
+73+25=Let me solve step by step. Ones place: 3+5=[TOOL]3+5[/TOOL]8. Tens place: 7+2=[TOOL]7+2[/TOOL]9. Answer: 98
+49+45=Let me solve step by step. Ones place: 9+5=[TOOL]9+5[/TOOL]14, carry 1. Tens place: 4+4+1=[TOOL]4+4+1[/TOOL]9. Answer: 94
+13+23=Let me solve step by step. Ones place: 3+3=[TOOL]3+3[/TOOL]6. Tens place: 1+2=[TOOL]1+2[/TOOL]3. Answer: 36
+77+98=Let me solve step by step. Ones place: 7+8=[TOOL]7+8[/TOOL]15, carry 1. Tens place: 7+9+1=[TOOL]7+9+1[/TOOL]17. Answer: 175
+88+51=Let me solve step by step. Ones place: 8+1=[TOOL]8+1[/TOOL]9. Tens place: 8+5=[TOOL]8+5[/TOOL]13. Answer: 139
+56+47=Let me solve step by step. Ones place: 6+7=[TOOL]6+7[/TOOL]13, carry 1. Tens place: 5+4+1=[TOOL]5+4+1[/TOOL]10. Answer: 103
+26+17=Let me solve step by step. Ones place: 6+7=[TOOL]6+7[/TOOL]13, carry 1. Tens place: 2+1+1=[TOOL]2+1+1[/TOOL]4. Answer: 43
+23+47=Let me solve step by step. Ones place: 3+7=[TOOL]3+7[/TOOL]10, carry 1. Tens place: 2+4+1=[TOOL]2+4+1[/TOOL]7. Answer: 70
+72+36=Let me solve step by step. Ones place: 2+6=[TOOL]2+6[/TOOL]8. Tens place: 7+3=[TOOL]7+3[/TOOL]10. Answer: 108
+18+79=Let me solve step by step. Ones place: 8+9=[TOOL]8+9[/TOOL]17, carry 1. Tens place: 1+7+1=[TOOL]1+7+1[/TOOL]9. Answer: 97
+48+14=Let me solve step by step. Ones place: 8+4=[TOOL]8+4[/TOOL]12, carry 1. Tens place: 4+1+1=[TOOL]4+1+1[/TOOL]6. Answer: 62
+52+82=Let me solve step by step. Ones place: 2+2=[TOOL]2+2[/TOOL]4. Tens place: 5+8=[TOOL]5+8[/TOOL]13. Answer: 134
+86+28=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 8+2+1=[TOOL]8+2+1[/TOOL]11. Answer: 114
+74+40=Let me solve step by step. Ones place: 4+0=[TOOL]4+0[/TOOL]4. Tens place: 7+4=[TOOL]7+4[/TOOL]11. Answer: 114
+93+21=Let me solve step by step. Ones place: 3+1=[TOOL]3+1[/TOOL]4. Tens place: 9+2=[TOOL]9+2[/TOOL]11. Answer: 114
+10+59=Let me solve step by step. Ones place: 0+9=[TOOL]0+9[/TOOL]9. Tens place: 1+5=[TOOL]1+5[/TOOL]6. Answer: 69
+88+12=Let me solve step by step. Ones place: 8+2=[TOOL]8+2[/TOOL]10, carry 1. Tens place: 8+1+1=[TOOL]8+1+1[/TOOL]10. Answer: 100
+76+13=Let me solve step by step. Ones place: 6+3=[TOOL]6+3[/TOOL]9. Tens place: 7+1=[TOOL]7+1[/TOOL]8. Answer: 89
+92+91=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 9+9=[TOOL]9+9[/TOOL]18. Answer: 183
+88+81=Let me solve step by step. Ones place: 8+1=[TOOL]8+1[/TOOL]9. Tens place: 8+8=[TOOL]8+8[/TOOL]16. Answer: 169
+34+27=Let me solve step by step. Ones place: 4+7=[TOOL]4+7[/TOOL]11, carry 1. Tens place: 3+2+1=[TOOL]3+2+1[/TOOL]6. Answer: 61
+85+68=Let me solve step by step. Ones place: 5+8=[TOOL]5+8[/TOOL]13, carry 1. Tens place: 8+6+1=[TOOL]8+6+1[/TOOL]15. Answer: 153
+72+27=Let me solve step by step. Ones place: 2+7=[TOOL]2+7[/TOOL]9. Tens place: 7+2=[TOOL]7+2[/TOOL]9. Answer: 99
+12+95=Let me solve step by step. Ones place: 2+5=[TOOL]2+5[/TOOL]7. Tens place: 1+9=[TOOL]1+9[/TOOL]10. Answer: 107
+32+17=Let me solve step by step. Ones place: 2+7=[TOOL]2+7[/TOOL]9. Tens place: 3+1=[TOOL]3+1[/TOOL]4. Answer: 49
+26+28=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 2+2+1=[TOOL]2+2+1[/TOOL]5. Answer: 54
+63+74=Let me solve step by step. Ones place: 3+4=[TOOL]3+4[/TOOL]7. Tens place: 6+7=[TOOL]6+7[/TOOL]13. Answer: 137
+32+55=Let me solve step by step. Ones place: 2+5=[TOOL]2+5[/TOOL]7. Tens place: 3+5=[TOOL]3+5[/TOOL]8. Answer: 87
+13+27=Let me solve step by step. Ones place: 3+7=[TOOL]3+7[/TOOL]10, carry 1. Tens place: 1+2+1=[TOOL]1+2+1[/TOOL]4. Answer: 40
+43+88=Let me solve step by step. Ones place: 3+8=[TOOL]3+8[/TOOL]11, carry 1. Tens place: 4+8+1=[TOOL]4+8+1[/TOOL]13. Answer: 131
+63+88=Let me solve step by step. Ones place: 3+8=[TOOL]3+8[/TOOL]11, carry 1. Tens place: 6+8+1=[TOOL]6+8+1[/TOOL]15. Answer: 151
+73+12=Let me solve step by step. Ones place: 3+2=[TOOL]3+2[/TOOL]5. Tens place: 7+1=[TOOL]7+1[/TOOL]8. Answer: 85
+32+99=Let me solve step by step. Ones place: 2+9=[TOOL]2+9[/TOOL]11, carry 1. Tens place: 3+9+1=[TOOL]3+9+1[/TOOL]13. Answer: 131
+67+90=Let me solve step by step. Ones place: 7+0=[TOOL]7+0[/TOOL]7. Tens place: 6+9=[TOOL]6+9[/TOOL]15. Answer: 157
+39+22=Let me solve step by step. Ones place: 9+2=[TOOL]9+2[/TOOL]11, carry 1. Tens place: 3+2+1=[TOOL]3+2+1[/TOOL]6. Answer: 61
+44+10=Let me solve step by step. Ones place: 4+0=[TOOL]4+0[/TOOL]4. Tens place: 4+1=[TOOL]4+1[/TOOL]5. Answer: 54
+96+60=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 9+6=[TOOL]9+6[/TOOL]15. Answer: 156
+24+79=Let me solve step by step. Ones place: 4+9=[TOOL]4+9[/TOOL]13, carry 1. Tens place: 2+7+1=[TOOL]2+7+1[/TOOL]10. Answer: 103
+73+24=Let me solve step by step. Ones place: 3+4=[TOOL]3+4[/TOOL]7. Tens place: 7+2=[TOOL]7+2[/TOOL]9. Answer: 97
+21+61=Let me solve step by step. Ones place: 1+1=[TOOL]1+1[/TOOL]2. Tens place: 2+6=[TOOL]2+6[/TOOL]8. Answer: 82
+27+37=Let me solve step by step. Ones place: 7+7=[TOOL]7+7[/TOOL]14, carry 1. Tens place: 2+3+1=[TOOL]2+3+1[/TOOL]6. Answer: 64
+16+98=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 1+9+1=[TOOL]1+9+1[/TOOL]11. Answer: 114
+71+86=Let me solve step by step. Ones place: 1+6=[TOOL]1+6[/TOOL]7. Tens place: 7+8=[TOOL]7+8[/TOOL]15. Answer: 157
+49+96=Let me solve step by step. Ones place: 9+6=[TOOL]9+6[/TOOL]15, carry 1. Tens place: 4+9+1=[TOOL]4+9+1[/TOOL]14. Answer: 145
+40+60=Let me solve step by step. Ones place: 0+0=[TOOL]0+0[/TOOL]0. Tens place: 4+6=[TOOL]4+6[/TOOL]10. Answer: 100
+19+66=Let me solve step by step. Ones place: 9+6=[TOOL]9+6[/TOOL]15, carry 1. Tens place: 1+6+1=[TOOL]1+6+1[/TOOL]8. Answer: 85
+89+95=Let me solve step by step. Ones place: 9+5=[TOOL]9+5[/TOOL]14, carry 1. Tens place: 8+9+1=[TOOL]8+9+1[/TOOL]18. Answer: 184
+94+96=Let me solve step by step. Ones place: 4+6=[TOOL]4+6[/TOOL]10, carry 1. Tens place: 9+9+1=[TOOL]9+9+1[/TOOL]19. Answer: 190
+29+56=Let me solve step by step. Ones place: 9+6=[TOOL]9+6[/TOOL]15, carry 1. Tens place: 2+5+1=[TOOL]2+5+1[/TOOL]8. Answer: 85
+37+33=Let me solve step by step. Ones place: 7+3=[TOOL]7+3[/TOOL]10, carry 1. Tens place: 3+3+1=[TOOL]3+3+1[/TOOL]7. Answer: 70
+21+77=Let me solve step by step. Ones place: 1+7=[TOOL]1+7[/TOOL]8. Tens place: 2+7=[TOOL]2+7[/TOOL]9. Answer: 98
+95+60=Let me solve step by step. Ones place: 5+0=[TOOL]5+0[/TOOL]5. Tens place: 9+6=[TOOL]9+6[/TOOL]15. Answer: 155
+24+48=Let me solve step by step. Ones place: 4+8=[TOOL]4+8[/TOOL]12, carry 1. Tens place: 2+4+1=[TOOL]2+4+1[/TOOL]7. Answer: 72
+50+10=Let me solve step by step. Ones place: 0+0=[TOOL]0+0[/TOOL]0. Tens place: 5+1=[TOOL]5+1[/TOOL]6. Answer: 60
+93+21=Let me solve step by step. Ones place: 3+1=[TOOL]3+1[/TOOL]4. Tens place: 9+2=[TOOL]9+2[/TOOL]11. Answer: 114
+96+60=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 9+6=[TOOL]9+6[/TOOL]15. Answer: 156
+33+40=Let me solve step by step. Ones place: 3+0=[TOOL]3+0[/TOOL]3. Tens place: 3+4=[TOOL]3+4[/TOOL]7. Answer: 73
+35+45=Let me solve step by step. Ones place: 5+5=[TOOL]5+5[/TOOL]10, carry 1. Tens place: 3+4+1=[TOOL]3+4+1[/TOOL]8. Answer: 80
+27+60=Let me solve step by step. Ones place: 7+0=[TOOL]7+0[/TOOL]7. Tens place: 2+6=[TOOL]2+6[/TOOL]8. Answer: 87
+64+35=Let me solve step by step. Ones place: 4+5=[TOOL]4+5[/TOOL]9. Tens place: 6+3=[TOOL]6+3[/TOOL]9. Answer: 99
+40+46=Let me solve step by step. Ones place: 0+6=[TOOL]0+6[/TOOL]6. Tens place: 4+4=[TOOL]4+4[/TOOL]8. Answer: 86
+46+94=Let me solve step by step. Ones place: 6+4=[TOOL]6+4[/TOOL]10, carry 1. Tens place: 4+9+1=[TOOL]4+9+1[/TOOL]14. Answer: 140
+66+88=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 6+8+1=[TOOL]6+8+1[/TOOL]15. Answer: 154
+18+25=Let me solve step by step. Ones place: 8+5=[TOOL]8+5[/TOOL]13, carry 1. Tens place: 1+2+1=[TOOL]1+2+1[/TOOL]4. Answer: 43
+39+49=Let me solve step by step. Ones place: 9+9=[TOOL]9+9[/TOOL]18, carry 1. Tens place: 3+4+1=[TOOL]3+4+1[/TOOL]8. Answer: 88
+57+66=Let me solve step by step. Ones place: 7+6=[TOOL]7+6[/TOOL]13, carry 1. Tens place: 5+6+1=[TOOL]5+6+1[/TOOL]12. Answer: 123
+61+38=Let me solve step by step. Ones place: 1+8=[TOOL]1+8[/TOOL]9. Tens place: 6+3=[TOOL]6+3[/TOOL]9. Answer: 99
+42+99=Let me solve step by step. Ones place: 2+9=[TOOL]2+9[/TOOL]11, carry 1. Tens place: 4+9+1=[TOOL]4+9+1[/TOOL]14. Answer: 141
+21+55=Let me solve step by step. Ones place: 1+5=[TOOL]1+5[/TOOL]6. Tens place: 2+5=[TOOL]2+5[/TOOL]7. Answer: 76
+52+51=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 5+5=[TOOL]5+5[/TOOL]10. Answer: 103
+79+68=Let me solve step by step. Ones place: 9+8=[TOOL]9+8[/TOOL]17, carry 1. Tens place: 7+6+1=[TOOL]7+6+1[/TOOL]14. Answer: 147
+85+44=Let me solve step by step. Ones place: 5+4=[TOOL]5+4[/TOOL]9. Tens place: 8+4=[TOOL]8+4[/TOOL]12. Answer: 129
+31+43=Let me solve step by step. Ones place: 1+3=[TOOL]1+3[/TOOL]4. Tens place: 3+4=[TOOL]3+4[/TOOL]7. Answer: 74
+63+35=Let me solve step by step. Ones place: 3+5=[TOOL]3+5[/TOOL]8. Tens place: 6+3=[TOOL]6+3[/TOOL]9. Answer: 98
+45+81=Let me solve step by step. Ones place: 5+1=[TOOL]5+1[/TOOL]6. Tens place: 4+8=[TOOL]4+8[/TOOL]12. Answer: 126
+66+20=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 6+2=[TOOL]6+2[/TOOL]8. Answer: 86
+50+42=Let me solve step by step. Ones place: 0+2=[TOOL]0+2[/TOOL]2. Tens place: 5+4=[TOOL]5+4[/TOOL]9. Answer: 92
+83+20=Let me solve step by step. Ones place: 3+0=[TOOL]3+0[/TOOL]3. Tens place: 8+2=[TOOL]8+2[/TOOL]10. Answer: 103
+76+18=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 7+1+1=[TOOL]7+1+1[/TOOL]9. Answer: 94
+54+54=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 5+5=[TOOL]5+5[/TOOL]10. Answer: 108
+76+60=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 7+6=[TOOL]7+6[/TOOL]13. Answer: 136
+85+42=Let me solve step by step. Ones place: 5+2=[TOOL]5+2[/TOOL]7. Tens place: 8+4=[TOOL]8+4[/TOOL]12. Answer: 127
+98+19=Let me solve step by step. Ones place: 8+9=[TOOL]8+9[/TOOL]17, carry 1. Tens place: 9+1+1=[TOOL]9+1+1[/TOOL]11. Answer: 117
+65+65=Let me solve step by step. Ones place: 5+5=[TOOL]5+5[/TOOL]10, carry 1. Tens place: 6+6+1=[TOOL]6+6+1[/TOOL]13. Answer: 130
+10+88=Let me solve step by step. Ones place: 0+8=[TOOL]0+8[/TOOL]8. Tens place: 1+8=[TOOL]1+8[/TOOL]9. Answer: 98
+75+74=Let me solve step by step. Ones place: 5+4=[TOOL]5+4[/TOOL]9. Tens place: 7+7=[TOOL]7+7[/TOOL]14. Answer: 149
+17+99=Let me solve step by step. Ones place: 7+9=[TOOL]7+9[/TOOL]16, carry 1. Tens place: 1+9+1=[TOOL]1+9+1[/TOOL]11. Answer: 116
+79+94=Let me solve step by step. Ones place: 9+4=[TOOL]9+4[/TOOL]13, carry 1. Tens place: 7+9+1=[TOOL]7+9+1[/TOOL]17. Answer: 173
+91+26=Let me solve step by step. Ones place: 1+6=[TOOL]1+6[/TOOL]7. Tens place: 9+2=[TOOL]9+2[/TOOL]11. Answer: 117
+15+53=Let me solve step by step. Ones place: 5+3=[TOOL]5+3[/TOOL]8. Tens place: 1+5=[TOOL]1+5[/TOOL]6. Answer: 68
+11+29=Let me solve step by step. Ones place: 1+9=[TOOL]1+9[/TOOL]10, carry 1. Tens place: 1+2+1=[TOOL]1+2+1[/TOOL]4. Answer: 40
+55+91=Let me solve step by step. Ones place: 5+1=[TOOL]5+1[/TOOL]6. Tens place: 5+9=[TOOL]5+9[/TOOL]14. Answer: 146
+11+38=Let me solve step by step. Ones place: 1+8=[TOOL]1+8[/TOOL]9. Tens place: 1+3=[TOOL]1+3[/TOOL]4. Answer: 49
+33+46=Let me solve step by step. Ones place: 3+6=[TOOL]3+6[/TOOL]9. Tens place: 3+4=[TOOL]3+4[/TOOL]7. Answer: 79
+34+78=Let me solve step by step. Ones place: 4+8=[TOOL]4+8[/TOOL]12, carry 1. Tens place: 3+7+1=[TOOL]3+7+1[/TOOL]11. Answer: 112
+94+95=Let me solve step by step. Ones place: 4+5=[TOOL]4+5[/TOOL]9. Tens place: 9+9=[TOOL]9+9[/TOOL]18. Answer: 189
+86+24=Let me solve step by step. Ones place: 6+4=[TOOL]6+4[/TOOL]10, carry 1. Tens place: 8+2+1=[TOOL]8+2+1[/TOOL]11. Answer: 110
+44+70=Let me solve step by step. Ones place: 4+0=[TOOL]4+0[/TOOL]4. Tens place: 4+7=[TOOL]4+7[/TOOL]11. Answer: 114
+65+45=Let me solve step by step. Ones place: 5+5=[TOOL]5+5[/TOOL]10, carry 1. Tens place: 6+4+1=[TOOL]6+4+1[/TOOL]11. Answer: 110
+24+47=Let me solve step by step. Ones place: 4+7=[TOOL]4+7[/TOOL]11, carry 1. Tens place: 2+4+1=[TOOL]2+4+1[/TOOL]7. Answer: 71
+79+36=Let me solve step by step. Ones place: 9+6=[TOOL]9+6[/TOOL]15, carry 1. Tens place: 7+3+1=[TOOL]7+3+1[/TOOL]11. Answer: 115
+31+56=Let me solve step by step. Ones place: 1+6=[TOOL]1+6[/TOOL]7. Tens place: 3+5=[TOOL]3+5[/TOOL]8. Answer: 87
+36+38=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 3+3+1=[TOOL]3+3+1[/TOOL]7. Answer: 74
+23+47=Let me solve step by step. Ones place: 3+7=[TOOL]3+7[/TOOL]10, carry 1. Tens place: 2+4+1=[TOOL]2+4+1[/TOOL]7. Answer: 70
+62+36=Let me solve step by step. Ones place: 2+6=[TOOL]2+6[/TOOL]8. Tens place: 6+3=[TOOL]6+3[/TOOL]9. Answer: 98
+55+58=Let me solve step by step. Ones place: 5+8=[TOOL]5+8[/TOOL]13, carry 1. Tens place: 5+5+1=[TOOL]5+5+1[/TOOL]11. Answer: 113
+20+76=Let me solve step by step. Ones place: 0+6=[TOOL]0+6[/TOOL]6. Tens place: 2+7=[TOOL]2+7[/TOOL]9. Answer: 96
+78+21=Let me solve step by step. Ones place: 8+1=[TOOL]8+1[/TOOL]9. Tens place: 7+2=[TOOL]7+2[/TOOL]9. Answer: 99
+30+98=Let me solve step by step. Ones place: 0+8=[TOOL]0+8[/TOOL]8. Tens place: 3+9=[TOOL]3+9[/TOOL]12. Answer: 128
+24+42=Let me solve step by step. Ones place: 4+2=[TOOL]4+2[/TOOL]6. Tens place: 2+4=[TOOL]2+4[/TOOL]6. Answer: 66
+63+37=Let me solve step by step. Ones place: 3+7=[TOOL]3+7[/TOOL]10, carry 1. Tens place: 6+3+1=[TOOL]6+3+1[/TOOL]10. Answer: 100
+49+56=Let me solve step by step. Ones place: 9+6=[TOOL]9+6[/TOOL]15, carry 1. Tens place: 4+5+1=[TOOL]4+5+1[/TOOL]10. Answer: 105
+77+67=Let me solve step by step. Ones place: 7+7=[TOOL]7+7[/TOOL]14, carry 1. Tens place: 7+6+1=[TOOL]7+6+1[/TOOL]14. Answer: 144
+85+19=Let me solve step by step. Ones place: 5+9=[TOOL]5+9[/TOOL]14, carry 1. Tens place: 8+1+1=[TOOL]8+1+1[/TOOL]10. Answer: 104
+48+24=Let me solve step by step. Ones place: 8+4=[TOOL]8+4[/TOOL]12, carry 1. Tens place: 4+2+1=[TOOL]4+2+1[/TOOL]7. Answer: 72
+78+38=Let me solve step by step. Ones place: 8+8=[TOOL]8+8[/TOOL]16, carry 1. Tens place: 7+3+1=[TOOL]7+3+1[/TOOL]11. Answer: 116
+25+38=Let me solve step by step. Ones place: 5+8=[TOOL]5+8[/TOOL]13, carry 1. Tens place: 2+3+1=[TOOL]2+3+1[/TOOL]6. Answer: 63
+72+19=Let me solve step by step. Ones place: 2+9=[TOOL]2+9[/TOOL]11, carry 1. Tens place: 7+1+1=[TOOL]7+1+1[/TOOL]9. Answer: 91
+77+71=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 7+7=[TOOL]7+7[/TOOL]14. Answer: 148
+31+58=Let me solve step by step. Ones place: 1+8=[TOOL]1+8[/TOOL]9. Tens place: 3+5=[TOOL]3+5[/TOOL]8. Answer: 89
+59+27=Let me solve step by step. Ones place: 9+7=[TOOL]9+7[/TOOL]16, carry 1. Tens place: 5+2+1=[TOOL]5+2+1[/TOOL]8. Answer: 86
+38+15=Let me solve step by step. Ones place: 8+5=[TOOL]8+5[/TOOL]13, carry 1. Tens place: 3+1+1=[TOOL]3+1+1[/TOOL]5. Answer: 53
+34+75=Let me solve step by step. Ones place: 4+5=[TOOL]4+5[/TOOL]9. Tens place: 3+7=[TOOL]3+7[/TOOL]10. Answer: 109
+46+96=Let me solve step by step. Ones place: 6+6=[TOOL]6+6[/TOOL]12, carry 1. Tens place: 4+9+1=[TOOL]4+9+1[/TOOL]14. Answer: 142
+14+26=Let me solve step by step. Ones place: 4+6=[TOOL]4+6[/TOOL]10, carry 1. Tens place: 1+2+1=[TOOL]1+2+1[/TOOL]4. Answer: 40
+67+66=Let me solve step by step. Ones place: 7+6=[TOOL]7+6[/TOOL]13, carry 1. Tens place: 6+6+1=[TOOL]6+6+1[/TOOL]13. Answer: 133
+36+21=Let me solve step by step. Ones place: 6+1=[TOOL]6+1[/TOOL]7. Tens place: 3+2=[TOOL]3+2[/TOOL]5. Answer: 57
+16+52=Let me solve step by step. Ones place: 6+2=[TOOL]6+2[/TOOL]8. Tens place: 1+5=[TOOL]1+5[/TOOL]6. Answer: 68
+66+45=Let me solve step by step. Ones place: 6+5=[TOOL]6+5[/TOOL]11, carry 1. Tens place: 6+4+1=[TOOL]6+4+1[/TOOL]11. Answer: 111
+82+59=Let me solve step by step. Ones place: 2+9=[TOOL]2+9[/TOOL]11, carry 1. Tens place: 8+5+1=[TOOL]8+5+1[/TOOL]14. Answer: 141
+80+74=Let me solve step by step. Ones place: 0+4=[TOOL]0+4[/TOOL]4. Tens place: 8+7=[TOOL]8+7[/TOOL]15. Answer: 154
+73+40=Let me solve step by step. Ones place: 3+0=[TOOL]3+0[/TOOL]3. Tens place: 7+4=[TOOL]7+4[/TOOL]11. Answer: 113
+62+77=Let me solve step by step. Ones place: 2+7=[TOOL]2+7[/TOOL]9. Tens place: 6+7=[TOOL]6+7[/TOOL]13. Answer: 139
+25+70=Let me solve step by step. Ones place: 5+0=[TOOL]5+0[/TOOL]5. Tens place: 2+7=[TOOL]2+7[/TOOL]9. Answer: 95
+74+41=Let me solve step by step. Ones place: 4+1=[TOOL]4+1[/TOOL]5. Tens place: 7+4=[TOOL]7+4[/TOOL]11. Answer: 115
+21+75=Let me solve step by step. Ones place: 1+5=[TOOL]1+5[/TOOL]6. Tens place: 2+7=[TOOL]2+7[/TOOL]9. Answer: 96
+18+35=Let me solve step by step. Ones place: 8+5=[TOOL]8+5[/TOOL]13, carry 1. Tens place: 1+3+1=[TOOL]1+3+1[/TOOL]5. Answer: 53
+76+92=Let me solve step by step. Ones place: 6+2=[TOOL]6+2[/TOOL]8. Tens place: 7+9=[TOOL]7+9[/TOOL]16. Answer: 168
+36+42=Let me solve step by step. Ones place: 6+2=[TOOL]6+2[/TOOL]8. Tens place: 3+4=[TOOL]3+4[/TOOL]7. Answer: 78
+64+42=Let me solve step by step. Ones place: 4+2=[TOOL]4+2[/TOOL]6. Tens place: 6+4=[TOOL]6+4[/TOOL]10. Answer: 106
+29+57=Let me solve step by step. Ones place: 9+7=[TOOL]9+7[/TOOL]16, carry 1. Tens place: 2+5+1=[TOOL]2+5+1[/TOOL]8. Answer: 86
+15+30=Let me solve step by step. Ones place: 5+0=[TOOL]5+0[/TOOL]5. Tens place: 1+3=[TOOL]1+3[/TOOL]4. Answer: 45
+10+78=Let me solve step by step. Ones place: 0+8=[TOOL]0+8[/TOOL]8. Tens place: 1+7=[TOOL]1+7[/TOOL]8. Answer: 88
+41+76=Let me solve step by step. Ones place: 1+6=[TOOL]1+6[/TOOL]7. Tens place: 4+7=[TOOL]4+7[/TOOL]11. Answer: 117
+89+37=Let me solve step by step. Ones place: 9+7=[TOOL]9+7[/TOOL]16, carry 1. Tens place: 8+3+1=[TOOL]8+3+1[/TOOL]12. Answer: 126
+36+79=Let me solve step by step. Ones place: 6+9=[TOOL]6+9[/TOOL]15, carry 1. Tens place: 3+7+1=[TOOL]3+7+1[/TOOL]11. Answer: 115
+91+10=Let me solve step by step. Ones place: 1+0=[TOOL]1+0[/TOOL]1. Tens place: 9+1=[TOOL]9+1[/TOOL]10. Answer: 101
+19+96=Let me solve step by step. Ones place: 9+6=[TOOL]9+6[/TOOL]15, carry 1. Tens place: 1+9+1=[TOOL]1+9+1[/TOOL]11. Answer: 115
+45+75=Let me solve step by step. Ones place: 5+5=[TOOL]5+5[/TOOL]10, carry 1. Tens place: 4+7+1=[TOOL]4+7+1[/TOOL]12. Answer: 120
+45+81=Let me solve step by step. Ones place: 5+1=[TOOL]5+1[/TOOL]6. Tens place: 4+8=[TOOL]4+8[/TOOL]12. Answer: 126
+49+50=Let me solve step by step. Ones place: 9+0=[TOOL]9+0[/TOOL]9. Tens place: 4+5=[TOOL]4+5[/TOOL]9. Answer: 99
+13+81=Let me solve step by step. Ones place: 3+1=[TOOL]3+1[/TOOL]4. Tens place: 1+8=[TOOL]1+8[/TOOL]9. Answer: 94
+57+87=Let me solve step by step. Ones place: 7+7=[TOOL]7+7[/TOOL]14, carry 1. Tens place: 5+8+1=[TOOL]5+8+1[/TOOL]14. Answer: 144
+94+74=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 9+7=[TOOL]9+7[/TOOL]16. Answer: 168
+92+87=Let me solve step by step. Ones place: 2+7=[TOOL]2+7[/TOOL]9. Tens place: 9+8=[TOOL]9+8[/TOOL]17. Answer: 179
+53+86=Let me solve step by step. Ones place: 3+6=[TOOL]3+6[/TOOL]9. Tens place: 5+8=[TOOL]5+8[/TOOL]13. Answer: 139
+20+30=Let me solve step by step. Ones place: 0+0=[TOOL]0+0[/TOOL]0. Tens place: 2+3=[TOOL]2+3[/TOOL]5. Answer: 50
+76+68=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 7+6+1=[TOOL]7+6+1[/TOOL]14. Answer: 144
+61+14=Let me solve step by step. Ones place: 1+4=[TOOL]1+4[/TOOL]5. Tens place: 6+1=[TOOL]6+1[/TOOL]7. Answer: 75
+43+45=Let me solve step by step. Ones place: 3+5=[TOOL]3+5[/TOOL]8. Tens place: 4+4=[TOOL]4+4[/TOOL]8. Answer: 88
+44+97=Let me solve step by step. Ones place: 4+7=[TOOL]4+7[/TOOL]11, carry 1. Tens place: 4+9+1=[TOOL]4+9+1[/TOOL]14. Answer: 141
+62+67=Let me solve step by step. Ones place: 2+7=[TOOL]2+7[/TOOL]9. Tens place: 6+6=[TOOL]6+6[/TOOL]12. Answer: 129
+64+66=Let me solve step by step. Ones place: 4+6=[TOOL]4+6[/TOOL]10, carry 1. Tens place: 6+6+1=[TOOL]6+6+1[/TOOL]13. Answer: 130
+18+86=Let me solve step by step. Ones place: 8+6=[TOOL]8+6[/TOOL]14, carry 1. Tens place: 1+8+1=[TOOL]1+8+1[/TOOL]10. Answer: 104
+91+33=Let me solve step by step. Ones place: 1+3=[TOOL]1+3[/TOOL]4. Tens place: 9+3=[TOOL]9+3[/TOOL]12. Answer: 124
+52+98=Let me solve step by step. Ones place: 2+8=[TOOL]2+8[/TOOL]10, carry 1. Tens place: 5+9+1=[TOOL]5+9+1[/TOOL]15. Answer: 150
+38+82=Let me solve step by step. Ones place: 8+2=[TOOL]8+2[/TOOL]10, carry 1. Tens place: 3+8+1=[TOOL]3+8+1[/TOOL]12. Answer: 120
+70+89=Let me solve step by step. Ones place: 0+9=[TOOL]0+9[/TOOL]9. Tens place: 7+8=[TOOL]7+8[/TOOL]15. Answer: 159
+87+42=Let me solve step by step. Ones place: 7+2=[TOOL]7+2[/TOOL]9. Tens place: 8+4=[TOOL]8+4[/TOOL]12. Answer: 129
+12+33=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 1+3=[TOOL]1+3[/TOOL]4. Answer: 45
+93+22=Let me solve step by step. Ones place: 3+2=[TOOL]3+2[/TOOL]5. Tens place: 9+2=[TOOL]9+2[/TOOL]11. Answer: 115
+70+82=Let me solve step by step. Ones place: 0+2=[TOOL]0+2[/TOOL]2. Tens place: 7+8=[TOOL]7+8[/TOOL]15. Answer: 152
+72+13=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 7+1=[TOOL]7+1[/TOOL]8. Answer: 85
+60+29=Let me solve step by step. Ones place: 0+9=[TOOL]0+9[/TOOL]9. Tens place: 6+2=[TOOL]6+2[/TOOL]8. Answer: 89
+67+18=Let me solve step by step. Ones place: 7+8=[TOOL]7+8[/TOOL]15, carry 1. Tens place: 6+1+1=[TOOL]6+1+1[/TOOL]8. Answer: 85
+22+31=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 2+3=[TOOL]2+3[/TOOL]5. Answer: 53
+27+27=Let me solve step by step. Ones place: 7+7=[TOOL]7+7[/TOOL]14, carry 1. Tens place: 2+2+1=[TOOL]2+2+1[/TOOL]5. Answer: 54
+56+17=Let me solve step by step. Ones place: 6+7=[TOOL]6+7[/TOOL]13, carry 1. Tens place: 5+1+1=[TOOL]5+1+1[/TOOL]7. Answer: 73
+17+66=Let me solve step by step. Ones place: 7+6=[TOOL]7+6[/TOOL]13, carry 1. Tens place: 1+6+1=[TOOL]1+6+1[/TOOL]8. Answer: 83
+33+73=Let me solve step by step. Ones place: 3+3=[TOOL]3+3[/TOOL]6. Tens place: 3+7=[TOOL]3+7[/TOOL]10. Answer: 106
+53+65=Let me solve step by step. Ones place: 3+5=[TOOL]3+5[/TOOL]8. Tens place: 5+6=[TOOL]5+6[/TOOL]11. Answer: 118
+56+35=Let me solve step by step. Ones place: 6+5=[TOOL]6+5[/TOOL]11, carry 1. Tens place: 5+3+1=[TOOL]5+3+1[/TOOL]9. Answer: 91
+83+57=Let me solve step by step. Ones place: 3+7=[TOOL]3+7[/TOOL]10, carry 1. Tens place: 8+5+1=[TOOL]8+5+1[/TOOL]14. Answer: 140
+76+92=Let me solve step by step. Ones place: 6+2=[TOOL]6+2[/TOOL]8. Tens place: 7+9=[TOOL]7+9[/TOOL]16. Answer: 168
+53+44=Let me solve step by step. Ones place: 3+4=[TOOL]3+4[/TOOL]7. Tens place: 5+4=[TOOL]5+4[/TOOL]9. Answer: 97
+55+93=Let me solve step by step. Ones place: 5+3=[TOOL]5+3[/TOOL]8. Tens place: 5+9=[TOOL]5+9[/TOOL]14. Answer: 148
+85+46=Let me solve step by step. Ones place: 5+6=[TOOL]5+6[/TOOL]11, carry 1. Tens place: 8+4+1=[TOOL]8+4+1[/TOOL]13. Answer: 131
+68+75=Let me solve step by step. Ones place: 8+5=[TOOL]8+5[/TOOL]13, carry 1. Tens place: 6+7+1=[TOOL]6+7+1[/TOOL]14. Answer: 143
+53+27=Let me solve step by step. Ones place: 3+7=[TOOL]3+7[/TOOL]10, carry 1. Tens place: 5+2+1=[TOOL]5+2+1[/TOOL]8. Answer: 80
+45+60=Let me solve step by step. Ones place: 5+0=[TOOL]5+0[/TOOL]5. Tens place: 4+6=[TOOL]4+6[/TOOL]10. Answer: 105
+27+77=Let me solve step by step. Ones place: 7+7=[TOOL]7+7[/TOOL]14, carry 1. Tens place: 2+7+1=[TOOL]2+7+1[/TOOL]10. Answer: 104
+45+81=Let me solve step by step. Ones place: 5+1=[TOOL]5+1[/TOOL]6. Tens place: 4+8=[TOOL]4+8[/TOOL]12. Answer: 126
+72+13=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 7+1=[TOOL]7+1[/TOOL]8. Answer: 85
+79+32=Let me solve step by step. Ones place: 9+2=[TOOL]9+2[/TOOL]11, carry 1. Tens place: 7+3+1=[TOOL]7+3+1[/TOOL]11. Answer: 111
+41+33=Let me solve step by step. Ones place: 1+3=[TOOL]1+3[/TOOL]4. Tens place: 4+3=[TOOL]4+3[/TOOL]7. Answer: 74
+40+83=Let me solve step by step. Ones place: 0+3=[TOOL]0+3[/TOOL]3. Tens place: 4+8=[TOOL]4+8[/TOOL]12. Answer: 123
+11+63=Let me solve step by step. Ones place: 1+3=[TOOL]1+3[/TOOL]4. Tens place: 1+6=[TOOL]1+6[/TOOL]7. Answer: 74
+50+23=Let me solve step by step. Ones place: 0+3=[TOOL]0+3[/TOOL]3. Tens place: 5+2=[TOOL]5+2[/TOOL]7. Answer: 73
+67+39=Let me solve step by step. Ones place: 7+9=[TOOL]7+9[/TOOL]16, carry 1. Tens place: 6+3+1=[TOOL]6+3+1[/TOOL]10. Answer: 106
+22+81=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 2+8=[TOOL]2+8[/TOOL]10. Answer: 103
+81+16=Let me solve step by step. Ones place: 1+6=[TOOL]1+6[/TOOL]7. Tens place: 8+1=[TOOL]8+1[/TOOL]9. Answer: 97
+76+58=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 7+5+1=[TOOL]7+5+1[/TOOL]13. Answer: 134
+72+82=Let me solve step by step. Ones place: 2+2=[TOOL]2+2[/TOOL]4. Tens place: 7+8=[TOOL]7+8[/TOOL]15. Answer: 154
+61+77=Let me solve step by step. Ones place: 1+7=[TOOL]1+7[/TOOL]8. Tens place: 6+7=[TOOL]6+7[/TOOL]13. Answer: 138
+55+42=Let me solve step by step. Ones place: 5+2=[TOOL]5+2[/TOOL]7. Tens place: 5+4=[TOOL]5+4[/TOOL]9. Answer: 97
+13+67=Let me solve step by step. Ones place: 3+7=[TOOL]3+7[/TOOL]10, carry 1. Tens place: 1+6+1=[TOOL]1+6+1[/TOOL]8. Answer: 80
+68+94=Let me solve step by step. Ones place: 8+4=[TOOL]8+4[/TOOL]12, carry 1. Tens place: 6+9+1=[TOOL]6+9+1[/TOOL]16. Answer: 162
+10+76=Let me solve step by step. Ones place: 0+6=[TOOL]0+6[/TOOL]6. Tens place: 1+7=[TOOL]1+7[/TOOL]8. Answer: 86
+85+40=Let me solve step by step. Ones place: 5+0=[TOOL]5+0[/TOOL]5. Tens place: 8+4=[TOOL]8+4[/TOOL]12. Answer: 125
+44+80=Let me solve step by step. Ones place: 4+0=[TOOL]4+0[/TOOL]4. Tens place: 4+8=[TOOL]4+8[/TOOL]12. Answer: 124
+75+67=Let me solve step by step. Ones place: 5+7=[TOOL]5+7[/TOOL]12, carry 1. Tens place: 7+6+1=[TOOL]7+6+1[/TOOL]14. Answer: 142
+76+60=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 7+6=[TOOL]7+6[/TOOL]13. Answer: 136
+25+71=Let me solve step by step. Ones place: 5+1=[TOOL]5+1[/TOOL]6. Tens place: 2+7=[TOOL]2+7[/TOOL]9. Answer: 96
+96+25=Let me solve step by step. Ones place: 6+5=[TOOL]6+5[/TOOL]11, carry 1. Tens place: 9+2+1=[TOOL]9+2+1[/TOOL]12. Answer: 121
+24+71=Let me solve step by step. Ones place: 4+1=[TOOL]4+1[/TOOL]5. Tens place: 2+7=[TOOL]2+7[/TOOL]9. Answer: 95
+27+17=Let me solve step by step. Ones place: 7+7=[TOOL]7+7[/TOOL]14, carry 1. Tens place: 2+1+1=[TOOL]2+1+1[/TOOL]4. Answer: 44
+24+97=Let me solve step by step. Ones place: 4+7=[TOOL]4+7[/TOOL]11, carry 1. Tens place: 2+9+1=[TOOL]2+9+1[/TOOL]12. Answer: 121
+48+68=Let me solve step by step. Ones place: 8+8=[TOOL]8+8[/TOOL]16, carry 1. Tens place: 4+6+1=[TOOL]4+6+1[/TOOL]11. Answer: 116
+68+94=Let me solve step by step. Ones place: 8+4=[TOOL]8+4[/TOOL]12, carry 1. Tens place: 6+9+1=[TOOL]6+9+1[/TOOL]16. Answer: 162
+44+38=Let me solve step by step. Ones place: 4+8=[TOOL]4+8[/TOOL]12, carry 1. Tens place: 4+3+1=[TOOL]4+3+1[/TOOL]8. Answer: 82
+44+21=Let me solve step by step. Ones place: 4+1=[TOOL]4+1[/TOOL]5. Tens place: 4+2=[TOOL]4+2[/TOOL]6. Answer: 65
+59+65=Let me solve step by step. Ones place: 9+5=[TOOL]9+5[/TOOL]14, carry 1. Tens place: 5+6+1=[TOOL]5+6+1[/TOOL]12. Answer: 124
+20+96=Let me solve step by step. Ones place: 0+6=[TOOL]0+6[/TOOL]6. Tens place: 2+9=[TOOL]2+9[/TOOL]11. Answer: 116
+46+40=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 4+4=[TOOL]4+4[/TOOL]8. Answer: 86
+12+84=Let me solve step by step. Ones place: 2+4=[TOOL]2+4[/TOOL]6. Tens place: 1+8=[TOOL]1+8[/TOOL]9. Answer: 96
+79+73=Let me solve step by step. Ones place: 9+3=[TOOL]9+3[/TOOL]12, carry 1. Tens place: 7+7+1=[TOOL]7+7+1[/TOOL]15. Answer: 152
+90+47=Let me solve step by step. Ones place: 0+7=[TOOL]0+7[/TOOL]7. Tens place: 9+4=[TOOL]9+4[/TOOL]13. Answer: 137
+20+12=Let me solve step by step. Ones place: 0+2=[TOOL]0+2[/TOOL]2. Tens place: 2+1=[TOOL]2+1[/TOOL]3. Answer: 32
+88+25=Let me solve step by step. Ones place: 8+5=[TOOL]8+5[/TOOL]13, carry 1. Tens place: 8+2+1=[TOOL]8+2+1[/TOOL]11. Answer: 113
+16+45=Let me solve step by step. Ones place: 6+5=[TOOL]6+5[/TOOL]11, carry 1. Tens place: 1+4+1=[TOOL]1+4+1[/TOOL]6. Answer: 61
+15+20=Let me solve step by step. Ones place: 5+0=[TOOL]5+0[/TOOL]5. Tens place: 1+2=[TOOL]1+2[/TOOL]3. Answer: 35
+53+71=Let me solve step by step. Ones place: 3+1=[TOOL]3+1[/TOOL]4. Tens place: 5+7=[TOOL]5+7[/TOOL]12. Answer: 124
+35+91=Let me solve step by step. Ones place: 5+1=[TOOL]5+1[/TOOL]6. Tens place: 3+9=[TOOL]3+9[/TOOL]12. Answer: 126
+86+35=Let me solve step by step. Ones place: 6+5=[TOOL]6+5[/TOOL]11, carry 1. Tens place: 8+3+1=[TOOL]8+3+1[/TOOL]12. Answer: 121
+26+70=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 2+7=[TOOL]2+7[/TOOL]9. Answer: 96
+91+25=Let me solve step by step. Ones place: 1+5=[TOOL]1+5[/TOOL]6. Tens place: 9+2=[TOOL]9+2[/TOOL]11. Answer: 116
+73+18=Let me solve step by step. Ones place: 3+8=[TOOL]3+8[/TOOL]11, carry 1. Tens place: 7+1+1=[TOOL]7+1+1[/TOOL]9. Answer: 91
+73+15=Let me solve step by step. Ones place: 3+5=[TOOL]3+5[/TOOL]8. Tens place: 7+1=[TOOL]7+1[/TOOL]8. Answer: 88
+38+45=Let me solve step by step. Ones place: 8+5=[TOOL]8+5[/TOOL]13, carry 1. Tens place: 3+4+1=[TOOL]3+4+1[/TOOL]8. Answer: 83
+50+25=Let me solve step by step. Ones place: 0+5=[TOOL]0+5[/TOOL]5. Tens place: 5+2=[TOOL]5+2[/TOOL]7. Answer: 75
+53+30=Let me solve step by step. Ones place: 3+0=[TOOL]3+0[/TOOL]3. Tens place: 5+3=[TOOL]5+3[/TOOL]8. Answer: 83
+69+93=Let me solve step by step. Ones place: 9+3=[TOOL]9+3[/TOOL]12, carry 1. Tens place: 6+9+1=[TOOL]6+9+1[/TOOL]16. Answer: 162
+95+17=Let me solve step by step. Ones place: 5+7=[TOOL]5+7[/TOOL]12, carry 1. Tens place: 9+1+1=[TOOL]9+1+1[/TOOL]11. Answer: 112
+91+44=Let me solve step by step. Ones place: 1+4=[TOOL]1+4[/TOOL]5. Tens place: 9+4=[TOOL]9+4[/TOOL]13. Answer: 135
+72+27=Let me solve step by step. Ones place: 2+7=[TOOL]2+7[/TOOL]9. Tens place: 7+2=[TOOL]7+2[/TOOL]9. Answer: 99
+71+74=Let me solve step by step. Ones place: 1+4=[TOOL]1+4[/TOOL]5. Tens place: 7+7=[TOOL]7+7[/TOOL]14. Answer: 145
+49+11=Let me solve step by step. Ones place: 9+1=[TOOL]9+1[/TOOL]10, carry 1. Tens place: 4+1+1=[TOOL]4+1+1[/TOOL]6. Answer: 60
+75+30=Let me solve step by step. Ones place: 5+0=[TOOL]5+0[/TOOL]5. Tens place: 7+3=[TOOL]7+3[/TOOL]10. Answer: 105
+41+98=Let me solve step by step. Ones place: 1+8=[TOOL]1+8[/TOOL]9. Tens place: 4+9=[TOOL]4+9[/TOOL]13. Answer: 139
+60+35=Let me solve step by step. Ones place: 0+5=[TOOL]0+5[/TOOL]5. Tens place: 6+3=[TOOL]6+3[/TOOL]9. Answer: 95
+24+12=Let me solve step by step. Ones place: 4+2=[TOOL]4+2[/TOOL]6. Tens place: 2+1=[TOOL]2+1[/TOOL]3. Answer: 36
+63+26=Let me solve step by step. Ones place: 3+6=[TOOL]3+6[/TOOL]9. Tens place: 6+2=[TOOL]6+2[/TOOL]8. Answer: 89
+62+46=Let me solve step by step. Ones place: 2+6=[TOOL]2+6[/TOOL]8. Tens place: 6+4=[TOOL]6+4[/TOOL]10. Answer: 108
+32+28=Let me solve step by step. Ones place: 2+8=[TOOL]2+8[/TOOL]10, carry 1. Tens place: 3+2+1=[TOOL]3+2+1[/TOOL]6. Answer: 60
+97+28=Let me solve step by step. Ones place: 7+8=[TOOL]7+8[/TOOL]15, carry 1. Tens place: 9+2+1=[TOOL]9+2+1[/TOOL]12. Answer: 125
+84+33=Let me solve step by step. Ones place: 4+3=[TOOL]4+3[/TOOL]7. Tens place: 8+3=[TOOL]8+3[/TOOL]11. Answer: 117
+84+45=Let me solve step by step. Ones place: 4+5=[TOOL]4+5[/TOOL]9. Tens place: 8+4=[TOOL]8+4[/TOOL]12. Answer: 129
+39+36=Let me solve step by step. Ones place: 9+6=[TOOL]9+6[/TOOL]15, carry 1. Tens place: 3+3+1=[TOOL]3+3+1[/TOOL]7. Answer: 75
+36+54=Let me solve step by step. Ones place: 6+4=[TOOL]6+4[/TOOL]10, carry 1. Tens place: 3+5+1=[TOOL]3+5+1[/TOOL]9. Answer: 90
+34+66=Let me solve step by step. Ones place: 4+6=[TOOL]4+6[/TOOL]10, carry 1. Tens place: 3+6+1=[TOOL]3+6+1[/TOOL]10. Answer: 100
+96+48=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 9+4+1=[TOOL]9+4+1[/TOOL]14. Answer: 144
+72+11=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 7+1=[TOOL]7+1[/TOOL]8. Answer: 83
+78+92=Let me solve step by step. Ones place: 8+2=[TOOL]8+2[/TOOL]10, carry 1. Tens place: 7+9+1=[TOOL]7+9+1[/TOOL]17. Answer: 170
+71+98=Let me solve step by step. Ones place: 1+8=[TOOL]1+8[/TOOL]9. Tens place: 7+9=[TOOL]7+9[/TOOL]16. Answer: 169
+12+69=Let me solve step by step. Ones place: 2+9=[TOOL]2+9[/TOOL]11, carry 1. Tens place: 1+6+1=[TOOL]1+6+1[/TOOL]8. Answer: 81
+51+95=Let me solve step by step. Ones place: 1+5=[TOOL]1+5[/TOOL]6. Tens place: 5+9=[TOOL]5+9[/TOOL]14. Answer: 146
+82+58=Let me solve step by step. Ones place: 2+8=[TOOL]2+8[/TOOL]10, carry 1. Tens place: 8+5+1=[TOOL]8+5+1[/TOOL]14. Answer: 140
+13+59=Let me solve step by step. Ones place: 3+9=[TOOL]3+9[/TOOL]12, carry 1. Tens place: 1+5+1=[TOOL]1+5+1[/TOOL]7. Answer: 72
+97+97=Let me solve step by step. Ones place: 7+7=[TOOL]7+7[/TOOL]14, carry 1. Tens place: 9+9+1=[TOOL]9+9+1[/TOOL]19. Answer: 194
+69+52=Let me solve step by step. Ones place: 9+2=[TOOL]9+2[/TOOL]11, carry 1. Tens place: 6+5+1=[TOOL]6+5+1[/TOOL]12. Answer: 121
+42+68=Let me solve step by step. Ones place: 2+8=[TOOL]2+8[/TOOL]10, carry 1. Tens place: 4+6+1=[TOOL]4+6+1[/TOOL]11. Answer: 110
+75+39=Let me solve step by step. Ones place: 5+9=[TOOL]5+9[/TOOL]14, carry 1. Tens place: 7+3+1=[TOOL]7+3+1[/TOOL]11. Answer: 114
+33+40=Let me solve step by step. Ones place: 3+0=[TOOL]3+0[/TOOL]3. Tens place: 3+4=[TOOL]3+4[/TOOL]7. Answer: 73
+64+38=Let me solve step by step. Ones place: 4+8=[TOOL]4+8[/TOOL]12, carry 1. Tens place: 6+3+1=[TOOL]6+3+1[/TOOL]10. Answer: 102
+99+86=Let me solve step by step. Ones place: 9+6=[TOOL]9+6[/TOOL]15, carry 1. Tens place: 9+8+1=[TOOL]9+8+1[/TOOL]18. Answer: 185
+54+94=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 5+9=[TOOL]5+9[/TOOL]14. Answer: 148
+23+91=Let me solve step by step. Ones place: 3+1=[TOOL]3+1[/TOOL]4. Tens place: 2+9=[TOOL]2+9[/TOOL]11. Answer: 114
+95+55=Let me solve step by step. Ones place: 5+5=[TOOL]5+5[/TOOL]10, carry 1. Tens place: 9+5+1=[TOOL]9+5+1[/TOOL]15. Answer: 150
+86+71=Let me solve step by step. Ones place: 6+1=[TOOL]6+1[/TOOL]7. Tens place: 8+7=[TOOL]8+7[/TOOL]15. Answer: 157
+83+23=Let me solve step by step. Ones place: 3+3=[TOOL]3+3[/TOOL]6. Tens place: 8+2=[TOOL]8+2[/TOOL]10. Answer: 106
+19+39=Let me solve step by step. Ones place: 9+9=[TOOL]9+9[/TOOL]18, carry 1. Tens place: 1+3+1=[TOOL]1+3+1[/TOOL]5. Answer: 58
+93+26=Let me solve step by step. Ones place: 3+6=[TOOL]3+6[/TOOL]9. Tens place: 9+2=[TOOL]9+2[/TOOL]11. Answer: 119
+87+49=Let me solve step by step. Ones place: 7+9=[TOOL]7+9[/TOOL]16, carry 1. Tens place: 8+4+1=[TOOL]8+4+1[/TOOL]13. Answer: 136
+36+67=Let me solve step by step. Ones place: 6+7=[TOOL]6+7[/TOOL]13, carry 1. Tens place: 3+6+1=[TOOL]3+6+1[/TOOL]10. Answer: 103
+83+81=Let me solve step by step. Ones place: 3+1=[TOOL]3+1[/TOOL]4. Tens place: 8+8=[TOOL]8+8[/TOOL]16. Answer: 164
+23+68=Let me solve step by step. Ones place: 3+8=[TOOL]3+8[/TOOL]11, carry 1. Tens place: 2+6+1=[TOOL]2+6+1[/TOOL]9. Answer: 91
+11+51=Let me solve step by step. Ones place: 1+1=[TOOL]1+1[/TOOL]2. Tens place: 1+5=[TOOL]1+5[/TOOL]6. Answer: 62
+31+79=Let me solve step by step. Ones place: 1+9=[TOOL]1+9[/TOOL]10, carry 1. Tens place: 3+7+1=[TOOL]3+7+1[/TOOL]11. Answer: 110
+74+54=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 7+5=[TOOL]7+5[/TOOL]12. Answer: 128
+93+42=Let me solve step by step. Ones place: 3+2=[TOOL]3+2[/TOOL]5. Tens place: 9+4=[TOOL]9+4[/TOOL]13. Answer: 135
+97+31=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 9+3=[TOOL]9+3[/TOOL]12. Answer: 128
+64+78=Let me solve step by step. Ones place: 4+8=[TOOL]4+8[/TOOL]12, carry 1. Tens place: 6+7+1=[TOOL]6+7+1[/TOOL]14. Answer: 142
+78+94=Let me solve step by step. Ones place: 8+4=[TOOL]8+4[/TOOL]12, carry 1. Tens place: 7+9+1=[TOOL]7+9+1[/TOOL]17. Answer: 172
+29+84=Let me solve step by step. Ones place: 9+4=[TOOL]9+4[/TOOL]13, carry 1. Tens place: 2+8+1=[TOOL]2+8+1[/TOOL]11. Answer: 113
+46+76=Let me solve step by step. Ones place: 6+6=[TOOL]6+6[/TOOL]12, carry 1. Tens place: 4+7+1=[TOOL]4+7+1[/TOOL]12. Answer: 122
+19+22=Let me solve step by step. Ones place: 9+2=[TOOL]9+2[/TOOL]11, carry 1. Tens place: 1+2+1=[TOOL]1+2+1[/TOOL]4. Answer: 41
+97+13=Let me solve step by step. Ones place: 7+3=[TOOL]7+3[/TOOL]10, carry 1. Tens place: 9+1+1=[TOOL]9+1+1[/TOOL]11. Answer: 110
+36+20=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 3+2=[TOOL]3+2[/TOOL]5. Answer: 56
+77+34=Let me solve step by step. Ones place: 7+4=[TOOL]7+4[/TOOL]11, carry 1. Tens place: 7+3+1=[TOOL]7+3+1[/TOOL]11. Answer: 111
+32+25=Let me solve step by step. Ones place: 2+5=[TOOL]2+5[/TOOL]7. Tens place: 3+2=[TOOL]3+2[/TOOL]5. Answer: 57
+29+51=Let me solve step by step. Ones place: 9+1=[TOOL]9+1[/TOOL]10, carry 1. Tens place: 2+5+1=[TOOL]2+5+1[/TOOL]8. Answer: 80
+95+13=Let me solve step by step. Ones place: 5+3=[TOOL]5+3[/TOOL]8. Tens place: 9+1=[TOOL]9+1[/TOOL]10. Answer: 108
+37+94=Let me solve step by step. Ones place: 7+4=[TOOL]7+4[/TOOL]11, carry 1. Tens place: 3+9+1=[TOOL]3+9+1[/TOOL]13. Answer: 131
+95+87=Let me solve step by step. Ones place: 5+7=[TOOL]5+7[/TOOL]12, carry 1. Tens place: 9+8+1=[TOOL]9+8+1[/TOOL]18. Answer: 182
+28+43=Let me solve step by step. Ones place: 8+3=[TOOL]8+3[/TOOL]11, carry 1. Tens place: 2+4+1=[TOOL]2+4+1[/TOOL]7. Answer: 71
+37+64=Let me solve step by step. Ones place: 7+4=[TOOL]7+4[/TOOL]11, carry 1. Tens place: 3+6+1=[TOOL]3+6+1[/TOOL]10. Answer: 101
+16+97=Let me solve step by step. Ones place: 6+7=[TOOL]6+7[/TOOL]13, carry 1. Tens place: 1+9+1=[TOOL]1+9+1[/TOOL]11. Answer: 113
+32+70=Let me solve step by step. Ones place: 2+0=[TOOL]2+0[/TOOL]2. Tens place: 3+7=[TOOL]3+7[/TOOL]10. Answer: 102
+81+49=Let me solve step by step. Ones place: 1+9=[TOOL]1+9[/TOOL]10, carry 1. Tens place: 8+4+1=[TOOL]8+4+1[/TOOL]13. Answer: 130
+38+45=Let me solve step by step. Ones place: 8+5=[TOOL]8+5[/TOOL]13, carry 1. Tens place: 3+4+1=[TOOL]3+4+1[/TOOL]8. Answer: 83
+15+76=Let me solve step by step. Ones place: 5+6=[TOOL]5+6[/TOOL]11, carry 1. Tens place: 1+7+1=[TOOL]1+7+1[/TOOL]9. Answer: 91
+76+24=Let me solve step by step. Ones place: 6+4=[TOOL]6+4[/TOOL]10, carry 1. Tens place: 7+2+1=[TOOL]7+2+1[/TOOL]10. Answer: 100
+33+82=Let me solve step by step. Ones place: 3+2=[TOOL]3+2[/TOOL]5. Tens place: 3+8=[TOOL]3+8[/TOOL]11. Answer: 115
+88+78=Let me solve step by step. Ones place: 8+8=[TOOL]8+8[/TOOL]16, carry 1. Tens place: 8+7+1=[TOOL]8+7+1[/TOOL]16. Answer: 166
+22+10=Let me solve step by step. Ones place: 2+0=[TOOL]2+0[/TOOL]2. Tens place: 2+1=[TOOL]2+1[/TOOL]3. Answer: 32
+32+74=Let me solve step by step. Ones place: 2+4=[TOOL]2+4[/TOOL]6. Tens place: 3+7=[TOOL]3+7[/TOOL]10. Answer: 106
+74+30=Let me solve step by step. Ones place: 4+0=[TOOL]4+0[/TOOL]4. Tens place: 7+3=[TOOL]7+3[/TOOL]10. Answer: 104
+96+30=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 9+3=[TOOL]9+3[/TOOL]12. Answer: 126
+79+67=Let me solve step by step. Ones place: 9+7=[TOOL]9+7[/TOOL]16, carry 1. Tens place: 7+6+1=[TOOL]7+6+1[/TOOL]14. Answer: 146
+15+68=Let me solve step by step. Ones place: 5+8=[TOOL]5+8[/TOOL]13, carry 1. Tens place: 1+6+1=[TOOL]1+6+1[/TOOL]8. Answer: 83
+55+49=Let me solve step by step. Ones place: 5+9=[TOOL]5+9[/TOOL]14, carry 1. Tens place: 5+4+1=[TOOL]5+4+1[/TOOL]10. Answer: 104
+99+62=Let me solve step by step. Ones place: 9+2=[TOOL]9+2[/TOOL]11, carry 1. Tens place: 9+6+1=[TOOL]9+6+1[/TOOL]16. Answer: 161
+69+72=Let me solve step by step. Ones place: 9+2=[TOOL]9+2[/TOOL]11, carry 1. Tens place: 6+7+1=[TOOL]6+7+1[/TOOL]14. Answer: 141
+67+22=Let me solve step by step. Ones place: 7+2=[TOOL]7+2[/TOOL]9. Tens place: 6+2=[TOOL]6+2[/TOOL]8. Answer: 89
+85+14=Let me solve step by step. Ones place: 5+4=[TOOL]5+4[/TOOL]9. Tens place: 8+1=[TOOL]8+1[/TOOL]9. Answer: 99
+10+65=Let me solve step by step. Ones place: 0+5=[TOOL]0+5[/TOOL]5. Tens place: 1+6=[TOOL]1+6[/TOOL]7. Answer: 75
+74+54=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 7+5=[TOOL]7+5[/TOOL]12. Answer: 128
+62+37=Let me solve step by step. Ones place: 2+7=[TOOL]2+7[/TOOL]9. Tens place: 6+3=[TOOL]6+3[/TOOL]9. Answer: 99
+52+10=Let me solve step by step. Ones place: 2+0=[TOOL]2+0[/TOOL]2. Tens place: 5+1=[TOOL]5+1[/TOOL]6. Answer: 62
+26+32=Let me solve step by step. Ones place: 6+2=[TOOL]6+2[/TOOL]8. Tens place: 2+3=[TOOL]2+3[/TOOL]5. Answer: 58
+43+44=Let me solve step by step. Ones place: 3+4=[TOOL]3+4[/TOOL]7. Tens place: 4+4=[TOOL]4+4[/TOOL]8. Answer: 87
+49+73=Let me solve step by step. Ones place: 9+3=[TOOL]9+3[/TOOL]12, carry 1. Tens place: 4+7+1=[TOOL]4+7+1[/TOOL]12. Answer: 122
+89+53=Let me solve step by step. Ones place: 9+3=[TOOL]9+3[/TOOL]12, carry 1. Tens place: 8+5+1=[TOOL]8+5+1[/TOOL]14. Answer: 142
+42+35=Let me solve step by step. Ones place: 2+5=[TOOL]2+5[/TOOL]7. Tens place: 4+3=[TOOL]4+3[/TOOL]7. Answer: 77
+29+13=Let me solve step by step. Ones place: 9+3=[TOOL]9+3[/TOOL]12, carry 1. Tens place: 2+1+1=[TOOL]2+1+1[/TOOL]4. Answer: 42
+89+52=Let me solve step by step. Ones place: 9+2=[TOOL]9+2[/TOOL]11, carry 1. Tens place: 8+5+1=[TOOL]8+5+1[/TOOL]14. Answer: 141
+37+71=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 3+7=[TOOL]3+7[/TOOL]10. Answer: 108
+78+72=Let me solve step by step. Ones place: 8+2=[TOOL]8+2[/TOOL]10, carry 1. Tens place: 7+7+1=[TOOL]7+7+1[/TOOL]15. Answer: 150
+23+91=Let me solve step by step. Ones place: 3+1=[TOOL]3+1[/TOOL]4. Tens place: 2+9=[TOOL]2+9[/TOOL]11. Answer: 114
+48+52=Let me solve step by step. Ones place: 8+2=[TOOL]8+2[/TOOL]10, carry 1. Tens place: 4+5+1=[TOOL]4+5+1[/TOOL]10. Answer: 100
+63+67=Let me solve step by step. Ones place: 3+7=[TOOL]3+7[/TOOL]10, carry 1. Tens place: 6+6+1=[TOOL]6+6+1[/TOOL]13. Answer: 130
+81+84=Let me solve step by step. Ones place: 1+4=[TOOL]1+4[/TOOL]5. Tens place: 8+8=[TOOL]8+8[/TOOL]16. Answer: 165
+82+91=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 8+9=[TOOL]8+9[/TOOL]17. Answer: 173
+81+92=Let me solve step by step. Ones place: 1+2=[TOOL]1+2[/TOOL]3. Tens place: 8+9=[TOOL]8+9[/TOOL]17. Answer: 173
+29+41=Let me solve step by step. Ones place: 9+1=[TOOL]9+1[/TOOL]10, carry 1. Tens place: 2+4+1=[TOOL]2+4+1[/TOOL]7. Answer: 70
+21+86=Let me solve step by step. Ones place: 1+6=[TOOL]1+6[/TOOL]7. Tens place: 2+8=[TOOL]2+8[/TOOL]10. Answer: 107
+55+19=Let me solve step by step. Ones place: 5+9=[TOOL]5+9[/TOOL]14, carry 1. Tens place: 5+1+1=[TOOL]5+1+1[/TOOL]7. Answer: 74
+91+61=Let me solve step by step. Ones place: 1+1=[TOOL]1+1[/TOOL]2. Tens place: 9+6=[TOOL]9+6[/TOOL]15. Answer: 152
+91+41=Let me solve step by step. Ones place: 1+1=[TOOL]1+1[/TOOL]2. Tens place: 9+4=[TOOL]9+4[/TOOL]13. Answer: 132
+42+37=Let me solve step by step. Ones place: 2+7=[TOOL]2+7[/TOOL]9. Tens place: 4+3=[TOOL]4+3[/TOOL]7. Answer: 79
+18+36=Let me solve step by step. Ones place: 8+6=[TOOL]8+6[/TOOL]14, carry 1. Tens place: 1+3+1=[TOOL]1+3+1[/TOOL]5. Answer: 54
+10+75=Let me solve step by step. Ones place: 0+5=[TOOL]0+5[/TOOL]5. Tens place: 1+7=[TOOL]1+7[/TOOL]8. Answer: 85
+19+68=Let me solve step by step. Ones place: 9+8=[TOOL]9+8[/TOOL]17, carry 1. Tens place: 1+6+1=[TOOL]1+6+1[/TOOL]8. Answer: 87
+65+73=Let me solve step by step. Ones place: 5+3=[TOOL]5+3[/TOOL]8. Tens place: 6+7=[TOOL]6+7[/TOOL]13. Answer: 138
+68+67=Let me solve step by step. Ones place: 8+7=[TOOL]8+7[/TOOL]15, carry 1. Tens place: 6+6+1=[TOOL]6+6+1[/TOOL]13. Answer: 135
+92+43=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 9+4=[TOOL]9+4[/TOOL]13. Answer: 135
+30+31=Let me solve step by step. Ones place: 0+1=[TOOL]0+1[/TOOL]1. Tens place: 3+3=[TOOL]3+3[/TOOL]6. Answer: 61
+21+36=Let me solve step by step. Ones place: 1+6=[TOOL]1+6[/TOOL]7. Tens place: 2+3=[TOOL]2+3[/TOOL]5. Answer: 57
+22+67=Let me solve step by step. Ones place: 2+7=[TOOL]2+7[/TOOL]9. Tens place: 2+6=[TOOL]2+6[/TOOL]8. Answer: 89
+92+11=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 9+1=[TOOL]9+1[/TOOL]10. Answer: 103
+47+34=Let me solve step by step. Ones place: 7+4=[TOOL]7+4[/TOOL]11, carry 1. Tens place: 4+3+1=[TOOL]4+3+1[/TOOL]8. Answer: 81
+88+60=Let me solve step by step. Ones place: 8+0=[TOOL]8+0[/TOOL]8. Tens place: 8+6=[TOOL]8+6[/TOOL]14. Answer: 148
+45+72=Let me solve step by step. Ones place: 5+2=[TOOL]5+2[/TOOL]7. Tens place: 4+7=[TOOL]4+7[/TOOL]11. Answer: 117
+50+90=Let me solve step by step. Ones place: 0+0=[TOOL]0+0[/TOOL]0. Tens place: 5+9=[TOOL]5+9[/TOOL]14. Answer: 140
+91+17=Let me solve step by step. Ones place: 1+7=[TOOL]1+7[/TOOL]8. Tens place: 9+1=[TOOL]9+1[/TOOL]10. Answer: 108
+92+26=Let me solve step by step. Ones place: 2+6=[TOOL]2+6[/TOOL]8. Tens place: 9+2=[TOOL]9+2[/TOOL]11. Answer: 118
+68+48=Let me solve step by step. Ones place: 8+8=[TOOL]8+8[/TOOL]16, carry 1. Tens place: 6+4+1=[TOOL]6+4+1[/TOOL]11. Answer: 116
+43+98=Let me solve step by step. Ones place: 3+8=[TOOL]3+8[/TOOL]11, carry 1. Tens place: 4+9+1=[TOOL]4+9+1[/TOOL]14. Answer: 141
+21+48=Let me solve step by step. Ones place: 1+8=[TOOL]1+8[/TOOL]9. Tens place: 2+4=[TOOL]2+4[/TOOL]6. Answer: 69
+47+99=Let me solve step by step. Ones place: 7+9=[TOOL]7+9[/TOOL]16, carry 1. Tens place: 4+9+1=[TOOL]4+9+1[/TOOL]14. Answer: 146
+95+62=Let me solve step by step. Ones place: 5+2=[TOOL]5+2[/TOOL]7. Tens place: 9+6=[TOOL]9+6[/TOOL]15. Answer: 157
+41+84=Let me solve step by step. Ones place: 1+4=[TOOL]1+4[/TOOL]5. Tens place: 4+8=[TOOL]4+8[/TOOL]12. Answer: 125
+61+80=Let me solve step by step. Ones place: 1+0=[TOOL]1+0[/TOOL]1. Tens place: 6+8=[TOOL]6+8[/TOOL]14. Answer: 141
+58+87=Let me solve step by step. Ones place: 8+7=[TOOL]8+7[/TOOL]15, carry 1. Tens place: 5+8+1=[TOOL]5+8+1[/TOOL]14. Answer: 145
+36+33=Let me solve step by step. Ones place: 6+3=[TOOL]6+3[/TOOL]9. Tens place: 3+3=[TOOL]3+3[/TOOL]6. Answer: 69
+11+93=Let me solve step by step. Ones place: 1+3=[TOOL]1+3[/TOOL]4. Tens place: 1+9=[TOOL]1+9[/TOOL]10. Answer: 104
+49+65=Let me solve step by step. Ones place: 9+5=[TOOL]9+5[/TOOL]14, carry 1. Tens place: 4+6+1=[TOOL]4+6+1[/TOOL]11. Answer: 114
+50+78=Let me solve step by step. Ones place: 0+8=[TOOL]0+8[/TOOL]8. Tens place: 5+7=[TOOL]5+7[/TOOL]12. Answer: 128
+62+68=Let me solve step by step. Ones place: 2+8=[TOOL]2+8[/TOOL]10, carry 1. Tens place: 6+6+1=[TOOL]6+6+1[/TOOL]13. Answer: 130
+60+51=Let me solve step by step. Ones place: 0+1=[TOOL]0+1[/TOOL]1. Tens place: 6+5=[TOOL]6+5[/TOOL]11. Answer: 111
+21+14=Let me solve step by step. Ones place: 1+4=[TOOL]1+4[/TOOL]5. Tens place: 2+1=[TOOL]2+1[/TOOL]3. Answer: 35
+57+20=Let me solve step by step. Ones place: 7+0=[TOOL]7+0[/TOOL]7. Tens place: 5+2=[TOOL]5+2[/TOOL]7. Answer: 77
+42+47=Let me solve step by step. Ones place: 2+7=[TOOL]2+7[/TOOL]9. Tens place: 4+4=[TOOL]4+4[/TOOL]8. Answer: 89
+67+91=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 6+9=[TOOL]6+9[/TOOL]15. Answer: 158
+26+11=Let me solve step by step. Ones place: 6+1=[TOOL]6+1[/TOOL]7. Tens place: 2+1=[TOOL]2+1[/TOOL]3. Answer: 37
+60+12=Let me solve step by step. Ones place: 0+2=[TOOL]0+2[/TOOL]2. Tens place: 6+1=[TOOL]6+1[/TOOL]7. Answer: 72
+71+30=Let me solve step by step. Ones place: 1+0=[TOOL]1+0[/TOOL]1. Tens place: 7+3=[TOOL]7+3[/TOOL]10. Answer: 101
+74+71=Let me solve step by step. Ones place: 4+1=[TOOL]4+1[/TOOL]5. Tens place: 7+7=[TOOL]7+7[/TOOL]14. Answer: 145
+83+44=Let me solve step by step. Ones place: 3+4=[TOOL]3+4[/TOOL]7. Tens place: 8+4=[TOOL]8+4[/TOOL]12. Answer: 127
+32+38=Let me solve step by step. Ones place: 2+8=[TOOL]2+8[/TOOL]10, carry 1. Tens place: 3+3+1=[TOOL]3+3+1[/TOOL]7. Answer: 70
+67+81=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 6+8=[TOOL]6+8[/TOOL]14. Answer: 148
+26+11=Let me solve step by step. Ones place: 6+1=[TOOL]6+1[/TOOL]7. Tens place: 2+1=[TOOL]2+1[/TOOL]3. Answer: 37
+64+16=Let me solve step by step. Ones place: 4+6=[TOOL]4+6[/TOOL]10, carry 1. Tens place: 6+1+1=[TOOL]6+1+1[/TOOL]8. Answer: 80
+47+95=Let me solve step by step. Ones place: 7+5=[TOOL]7+5[/TOOL]12, carry 1. Tens place: 4+9+1=[TOOL]4+9+1[/TOOL]14. Answer: 142
+90+13=Let me solve step by step. Ones place: 0+3=[TOOL]0+3[/TOOL]3. Tens place: 9+1=[TOOL]9+1[/TOOL]10. Answer: 103
+47+19=Let me solve step by step. Ones place: 7+9=[TOOL]7+9[/TOOL]16, carry 1. Tens place: 4+1+1=[TOOL]4+1+1[/TOOL]6. Answer: 66
+68+77=Let me solve step by step. Ones place: 8+7=[TOOL]8+7[/TOOL]15, carry 1. Tens place: 6+7+1=[TOOL]6+7+1[/TOOL]14. Answer: 145
+61+72=Let me solve step by step. Ones place: 1+2=[TOOL]1+2[/TOOL]3. Tens place: 6+7=[TOOL]6+7[/TOOL]13. Answer: 133
+86+60=Let me solve step by step. Ones place: 6+0=[TOOL]6+0[/TOOL]6. Tens place: 8+6=[TOOL]8+6[/TOOL]14. Answer: 146
+32+70=Let me solve step by step. Ones place: 2+0=[TOOL]2+0[/TOOL]2. Tens place: 3+7=[TOOL]3+7[/TOOL]10. Answer: 102
+52+79=Let me solve step by step. Ones place: 2+9=[TOOL]2+9[/TOOL]11, carry 1. Tens place: 5+7+1=[TOOL]5+7+1[/TOOL]13. Answer: 131
+64+92=Let me solve step by step. Ones place: 4+2=[TOOL]4+2[/TOOL]6. Tens place: 6+9=[TOOL]6+9[/TOOL]15. Answer: 156
+62+33=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 6+3=[TOOL]6+3[/TOOL]9. Answer: 95
+50+75=Let me solve step by step. Ones place: 0+5=[TOOL]0+5[/TOOL]5. Tens place: 5+7=[TOOL]5+7[/TOOL]12. Answer: 125
+24+96=Let me solve step by step. Ones place: 4+6=[TOOL]4+6[/TOOL]10, carry 1. Tens place: 2+9+1=[TOOL]2+9+1[/TOOL]12. Answer: 120
+67+67=Let me solve step by step. Ones place: 7+7=[TOOL]7+7[/TOOL]14, carry 1. Tens place: 6+6+1=[TOOL]6+6+1[/TOOL]13. Answer: 134
+55+83=Let me solve step by step. Ones place: 5+3=[TOOL]5+3[/TOOL]8. Tens place: 5+8=[TOOL]5+8[/TOOL]13. Answer: 138
+73+52=Let me solve step by step. Ones place: 3+2=[TOOL]3+2[/TOOL]5. Tens place: 7+5=[TOOL]7+5[/TOOL]12. Answer: 125
+34+75=Let me solve step by step. Ones place: 4+5=[TOOL]4+5[/TOOL]9. Tens place: 3+7=[TOOL]3+7[/TOOL]10. Answer: 109
+82+45=Let me solve step by step. Ones place: 2+5=[TOOL]2+5[/TOOL]7. Tens place: 8+4=[TOOL]8+4[/TOOL]12. Answer: 127
+70+89=Let me solve step by step. Ones place: 0+9=[TOOL]0+9[/TOOL]9. Tens place: 7+8=[TOOL]7+8[/TOOL]15. Answer: 159
+95+27=Let me solve step by step. Ones place: 5+7=[TOOL]5+7[/TOOL]12, carry 1. Tens place: 9+2+1=[TOOL]9+2+1[/TOOL]12. Answer: 122
+87+43=Let me solve step by step. Ones place: 7+3=[TOOL]7+3[/TOOL]10, carry 1. Tens place: 8+4+1=[TOOL]8+4+1[/TOOL]13. Answer: 130
+87+23=Let me solve step by step. Ones place: 7+3=[TOOL]7+3[/TOOL]10, carry 1. Tens place: 8+2+1=[TOOL]8+2+1[/TOOL]11. Answer: 110
+44+74=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 4+7=[TOOL]4+7[/TOOL]11. Answer: 118
+80+26=Let me solve step by step. Ones place: 0+6=[TOOL]0+6[/TOOL]6. Tens place: 8+2=[TOOL]8+2[/TOOL]10. Answer: 106
+69+55=Let me solve step by step. Ones place: 9+5=[TOOL]9+5[/TOOL]14, carry 1. Tens place: 6+5+1=[TOOL]6+5+1[/TOOL]12. Answer: 124
+76+32=Let me solve step by step. Ones place: 6+2=[TOOL]6+2[/TOOL]8. Tens place: 7+3=[TOOL]7+3[/TOOL]10. Answer: 108
+36+98=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 3+9+1=[TOOL]3+9+1[/TOOL]13. Answer: 134
+36+96=Let me solve step by step. Ones place: 6+6=[TOOL]6+6[/TOOL]12, carry 1. Tens place: 3+9+1=[TOOL]3+9+1[/TOOL]13. Answer: 132
+32+45=Let me solve step by step. Ones place: 2+5=[TOOL]2+5[/TOOL]7. Tens place: 3+4=[TOOL]3+4[/TOOL]7. Answer: 77
+26+24=Let me solve step by step. Ones place: 6+4=[TOOL]6+4[/TOOL]10, carry 1. Tens place: 2+2+1=[TOOL]2+2+1[/TOOL]5. Answer: 50
+58+39=Let me solve step by step. Ones place: 8+9=[TOOL]8+9[/TOOL]17, carry 1. Tens place: 5+3+1=[TOOL]5+3+1[/TOOL]9. Answer: 97
+39+95=Let me solve step by step. Ones place: 9+5=[TOOL]9+5[/TOOL]14, carry 1. Tens place: 3+9+1=[TOOL]3+9+1[/TOOL]13. Answer: 134
+27+81=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 2+8=[TOOL]2+8[/TOOL]10. Answer: 108
+76+26=Let me solve step by step. Ones place: 6+6=[TOOL]6+6[/TOOL]12, carry 1. Tens place: 7+2+1=[TOOL]7+2+1[/TOOL]10. Answer: 102
+11+15=Let me solve step by step. Ones place: 1+5=[TOOL]1+5[/TOOL]6. Tens place: 1+1=[TOOL]1+1[/TOOL]2. Answer: 26
+87+75=Let me solve step by step. Ones place: 7+5=[TOOL]7+5[/TOOL]12, carry 1. Tens place: 8+7+1=[TOOL]8+7+1[/TOOL]16. Answer: 162
+24+42=Let me solve step by step. Ones place: 4+2=[TOOL]4+2[/TOOL]6. Tens place: 2+4=[TOOL]2+4[/TOOL]6. Answer: 66
+26+34=Let me solve step by step. Ones place: 6+4=[TOOL]6+4[/TOOL]10, carry 1. Tens place: 2+3+1=[TOOL]2+3+1[/TOOL]6. Answer: 60
+59+49=Let me solve step by step. Ones place: 9+9=[TOOL]9+9[/TOOL]18, carry 1. Tens place: 5+4+1=[TOOL]5+4+1[/TOOL]10. Answer: 108
+83+61=Let me solve step by step. Ones place: 3+1=[TOOL]3+1[/TOOL]4. Tens place: 8+6=[TOOL]8+6[/TOOL]14. Answer: 144
+52+28=Let me solve step by step. Ones place: 2+8=[TOOL]2+8[/TOOL]10, carry 1. Tens place: 5+2+1=[TOOL]5+2+1[/TOOL]8. Answer: 80
+55+30=Let me solve step by step. Ones place: 5+0=[TOOL]5+0[/TOOL]5. Tens place: 5+3=[TOOL]5+3[/TOOL]8. Answer: 85
+60+21=Let me solve step by step. Ones place: 0+1=[TOOL]0+1[/TOOL]1. Tens place: 6+2=[TOOL]6+2[/TOOL]8. Answer: 81
+74+60=Let me solve step by step. Ones place: 4+0=[TOOL]4+0[/TOOL]4. Tens place: 7+6=[TOOL]7+6[/TOOL]13. Answer: 134
+42+32=Let me solve step by step. Ones place: 2+2=[TOOL]2+2[/TOOL]4. Tens place: 4+3=[TOOL]4+3[/TOOL]7. Answer: 74
+79+84=Let me solve step by step. Ones place: 9+4=[TOOL]9+4[/TOOL]13, carry 1. Tens place: 7+8+1=[TOOL]7+8+1[/TOOL]16. Answer: 163
+80+29=Let me solve step by step. Ones place: 0+9=[TOOL]0+9[/TOOL]9. Tens place: 8+2=[TOOL]8+2[/TOOL]10. Answer: 109
+51+78=Let me solve step by step. Ones place: 1+8=[TOOL]1+8[/TOOL]9. Tens place: 5+7=[TOOL]5+7[/TOOL]12. Answer: 129
+15+98=Let me solve step by step. Ones place: 5+8=[TOOL]5+8[/TOOL]13, carry 1. Tens place: 1+9+1=[TOOL]1+9+1[/TOOL]11. Answer: 113
+47+89=Let me solve step by step. Ones place: 7+9=[TOOL]7+9[/TOOL]16, carry 1. Tens place: 4+8+1=[TOOL]4+8+1[/TOOL]13. Answer: 136
+10+96=Let me solve step by step. Ones place: 0+6=[TOOL]0+6[/TOOL]6. Tens place: 1+9=[TOOL]1+9[/TOOL]10. Answer: 106
+39+52=Let me solve step by step. Ones place: 9+2=[TOOL]9+2[/TOOL]11, carry 1. Tens place: 3+5+1=[TOOL]3+5+1[/TOOL]9. Answer: 91
+38+55=Let me solve step by step. Ones place: 8+5=[TOOL]8+5[/TOOL]13, carry 1. Tens place: 3+5+1=[TOOL]3+5+1[/TOOL]9. Answer: 93
+67+30=Let me solve step by step. Ones place: 7+0=[TOOL]7+0[/TOOL]7. Tens place: 6+3=[TOOL]6+3[/TOOL]9. Answer: 97
+49+15=Let me solve step by step. Ones place: 9+5=[TOOL]9+5[/TOOL]14, carry 1. Tens place: 4+1+1=[TOOL]4+1+1[/TOOL]6. Answer: 64
+26+54=Let me solve step by step. Ones place: 6+4=[TOOL]6+4[/TOOL]10, carry 1. Tens place: 2+5+1=[TOOL]2+5+1[/TOOL]8. Answer: 80
+88+76=Let me solve step by step. Ones place: 8+6=[TOOL]8+6[/TOOL]14, carry 1. Tens place: 8+7+1=[TOOL]8+7+1[/TOOL]16. Answer: 164
+17+73=Let me solve step by step. Ones place: 7+3=[TOOL]7+3[/TOOL]10, carry 1. Tens place: 1+7+1=[TOOL]1+7+1[/TOOL]9. Answer: 90
+33+68=Let me solve step by step. Ones place: 3+8=[TOOL]3+8[/TOOL]11, carry 1. Tens place: 3+6+1=[TOOL]3+6+1[/TOOL]10. Answer: 101
+85+50=Let me solve step by step. Ones place: 5+0=[TOOL]5+0[/TOOL]5. Tens place: 8+5=[TOOL]8+5[/TOOL]13. Answer: 135
+71+15=Let me solve step by step. Ones place: 1+5=[TOOL]1+5[/TOOL]6. Tens place: 7+1=[TOOL]7+1[/TOOL]8. Answer: 86
+11+79=Let me solve step by step. Ones place: 1+9=[TOOL]1+9[/TOOL]10, carry 1. Tens place: 1+7+1=[TOOL]1+7+1[/TOOL]9. Answer: 90
+10+42=Let me solve step by step. Ones place: 0+2=[TOOL]0+2[/TOOL]2. Tens place: 1+4=[TOOL]1+4[/TOOL]5. Answer: 52
+60+64=Let me solve step by step. Ones place: 0+4=[TOOL]0+4[/TOOL]4. Tens place: 6+6=[TOOL]6+6[/TOOL]12. Answer: 124
+16+46=Let me solve step by step. Ones place: 6+6=[TOOL]6+6[/TOOL]12, carry 1. Tens place: 1+4+1=[TOOL]1+4+1[/TOOL]6. Answer: 62
+84+74=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 8+7=[TOOL]8+7[/TOOL]15. Answer: 158
+60+32=Let me solve step by step. Ones place: 0+2=[TOOL]0+2[/TOOL]2. Tens place: 6+3=[TOOL]6+3[/TOOL]9. Answer: 92
+44+53=Let me solve step by step. Ones place: 4+3=[TOOL]4+3[/TOOL]7. Tens place: 4+5=[TOOL]4+5[/TOOL]9. Answer: 97
+40+28=Let me solve step by step. Ones place: 0+8=[TOOL]0+8[/TOOL]8. Tens place: 4+2=[TOOL]4+2[/TOOL]6. Answer: 68
+99+72=Let me solve step by step. Ones place: 9+2=[TOOL]9+2[/TOOL]11, carry 1. Tens place: 9+7+1=[TOOL]9+7+1[/TOOL]17. Answer: 171
+19+47=Let me solve step by step. Ones place: 9+7=[TOOL]9+7[/TOOL]16, carry 1. Tens place: 1+4+1=[TOOL]1+4+1[/TOOL]6. Answer: 66
+37+34=Let me solve step by step. Ones place: 7+4=[TOOL]7+4[/TOOL]11, carry 1. Tens place: 3+3+1=[TOOL]3+3+1[/TOOL]7. Answer: 71
+71+44=Let me solve step by step. Ones place: 1+4=[TOOL]1+4[/TOOL]5. Tens place: 7+4=[TOOL]7+4[/TOOL]11. Answer: 115
+11+59=Let me solve step by step. Ones place: 1+9=[TOOL]1+9[/TOOL]10, carry 1. Tens place: 1+5+1=[TOOL]1+5+1[/TOOL]7. Answer: 70
+46+48=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 4+4+1=[TOOL]4+4+1[/TOOL]9. Answer: 94
+92+22=Let me solve step by step. Ones place: 2+2=[TOOL]2+2[/TOOL]4. Tens place: 9+2=[TOOL]9+2[/TOOL]11. Answer: 114
+46+83=Let me solve step by step. Ones place: 6+3=[TOOL]6+3[/TOOL]9. Tens place: 4+8=[TOOL]4+8[/TOOL]12. Answer: 129
+57+34=Let me solve step by step. Ones place: 7+4=[TOOL]7+4[/TOOL]11, carry 1. Tens place: 5+3+1=[TOOL]5+3+1[/TOOL]9. Answer: 91
+67+48=Let me solve step by step. Ones place: 7+8=[TOOL]7+8[/TOOL]15, carry 1. Tens place: 6+4+1=[TOOL]6+4+1[/TOOL]11. Answer: 115
+80+96=Let me solve step by step. Ones place: 0+6=[TOOL]0+6[/TOOL]6. Tens place: 8+9=[TOOL]8+9[/TOOL]17. Answer: 176
+30+89=Let me solve step by step. Ones place: 0+9=[TOOL]0+9[/TOOL]9. Tens place: 3+8=[TOOL]3+8[/TOOL]11. Answer: 119
+26+24=Let me solve step by step. Ones place: 6+4=[TOOL]6+4[/TOOL]10, carry 1. Tens place: 2+2+1=[TOOL]2+2+1[/TOOL]5. Answer: 50
+30+50=Let me solve step by step. Ones place: 0+0=[TOOL]0+0[/TOOL]0. Tens place: 3+5=[TOOL]3+5[/TOOL]8. Answer: 80
+33+48=Let me solve step by step. Ones place: 3+8=[TOOL]3+8[/TOOL]11, carry 1. Tens place: 3+4+1=[TOOL]3+4+1[/TOOL]8. Answer: 81
+48+46=Let me solve step by step. Ones place: 8+6=[TOOL]8+6[/TOOL]14, carry 1. Tens place: 4+4+1=[TOOL]4+4+1[/TOOL]9. Answer: 94
+25+84=Let me solve step by step. Ones place: 5+4=[TOOL]5+4[/TOOL]9. Tens place: 2+8=[TOOL]2+8[/TOOL]10. Answer: 109
+36+41=Let me solve step by step. Ones place: 6+1=[TOOL]6+1[/TOOL]7. Tens place: 3+4=[TOOL]3+4[/TOOL]7. Answer: 77
+42+52=Let me solve step by step. Ones place: 2+2=[TOOL]2+2[/TOOL]4. Tens place: 4+5=[TOOL]4+5[/TOOL]9. Answer: 94
+11+16=Let me solve step by step. Ones place: 1+6=[TOOL]1+6[/TOOL]7. Tens place: 1+1=[TOOL]1+1[/TOOL]2. Answer: 27
+12+31=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 1+3=[TOOL]1+3[/TOOL]4. Answer: 43
+47+94=Let me solve step by step. Ones place: 7+4=[TOOL]7+4[/TOOL]11, carry 1. Tens place: 4+9+1=[TOOL]4+9+1[/TOOL]14. Answer: 141
+56+48=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 5+4+1=[TOOL]5+4+1[/TOOL]10. Answer: 104
+87+68=Let me solve step by step. Ones place: 7+8=[TOOL]7+8[/TOOL]15, carry 1. Tens place: 8+6+1=[TOOL]8+6+1[/TOOL]15. Answer: 155
+86+12=Let me solve step by step. Ones place: 6+2=[TOOL]6+2[/TOOL]8. Tens place: 8+1=[TOOL]8+1[/TOOL]9. Answer: 98
+90+32=Let me solve step by step. Ones place: 0+2=[TOOL]0+2[/TOOL]2. Tens place: 9+3=[TOOL]9+3[/TOOL]12. Answer: 122
+49+81=Let me solve step by step. Ones place: 9+1=[TOOL]9+1[/TOOL]10, carry 1. Tens place: 4+8+1=[TOOL]4+8+1[/TOOL]13. Answer: 130
+26+61=Let me solve step by step. Ones place: 6+1=[TOOL]6+1[/TOOL]7. Tens place: 2+6=[TOOL]2+6[/TOOL]8. Answer: 87
+89+41=Let me solve step by step. Ones place: 9+1=[TOOL]9+1[/TOOL]10, carry 1. Tens place: 8+4+1=[TOOL]8+4+1[/TOOL]13. Answer: 130
+64+95=Let me solve step by step. Ones place: 4+5=[TOOL]4+5[/TOOL]9. Tens place: 6+9=[TOOL]6+9[/TOOL]15. Answer: 159
+10+47=Let me solve step by step. Ones place: 0+7=[TOOL]0+7[/TOOL]7. Tens place: 1+4=[TOOL]1+4[/TOOL]5. Answer: 57
+48+95=Let me solve step by step. Ones place: 8+5=[TOOL]8+5[/TOOL]13, carry 1. Tens place: 4+9+1=[TOOL]4+9+1[/TOOL]14. Answer: 143
+18+31=Let me solve step by step. Ones place: 8+1=[TOOL]8+1[/TOOL]9. Tens place: 1+3=[TOOL]1+3[/TOOL]4. Answer: 49
+68+11=Let me solve step by step. Ones place: 8+1=[TOOL]8+1[/TOOL]9. Tens place: 6+1=[TOOL]6+1[/TOOL]7. Answer: 79
+59+64=Let me solve step by step. Ones place: 9+4=[TOOL]9+4[/TOOL]13, carry 1. Tens place: 5+6+1=[TOOL]5+6+1[/TOOL]12. Answer: 123
+60+90=Let me solve step by step. Ones place: 0+0=[TOOL]0+0[/TOOL]0. Tens place: 6+9=[TOOL]6+9[/TOOL]15. Answer: 150
+22+12=Let me solve step by step. Ones place: 2+2=[TOOL]2+2[/TOOL]4. Tens place: 2+1=[TOOL]2+1[/TOOL]3. Answer: 34
+18+47=Let me solve step by step. Ones place: 8+7=[TOOL]8+7[/TOOL]15, carry 1. Tens place: 1+4+1=[TOOL]1+4+1[/TOOL]6. Answer: 65
+52+99=Let me solve step by step. Ones place: 2+9=[TOOL]2+9[/TOOL]11, carry 1. Tens place: 5+9+1=[TOOL]5+9+1[/TOOL]15. Answer: 151
+35+44=Let me solve step by step. Ones place: 5+4=[TOOL]5+4[/TOOL]9. Tens place: 3+4=[TOOL]3+4[/TOOL]7. Answer: 79
+94+94=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 9+9=[TOOL]9+9[/TOOL]18. Answer: 188
+12+24=Let me solve step by step. Ones place: 2+4=[TOOL]2+4[/TOOL]6. Tens place: 1+2=[TOOL]1+2[/TOOL]3. Answer: 36
+60+28=Let me solve step by step. Ones place: 0+8=[TOOL]0+8[/TOOL]8. Tens place: 6+2=[TOOL]6+2[/TOOL]8. Answer: 88
+63+51=Let me solve step by step. Ones place: 3+1=[TOOL]3+1[/TOOL]4. Tens place: 6+5=[TOOL]6+5[/TOOL]11. Answer: 114
+65+15=Let me solve step by step. Ones place: 5+5=[TOOL]5+5[/TOOL]10, carry 1. Tens place: 6+1+1=[TOOL]6+1+1[/TOOL]8. Answer: 80
+14+54=Let me solve step by step. Ones place: 4+4=[TOOL]4+4[/TOOL]8. Tens place: 1+5=[TOOL]1+5[/TOOL]6. Answer: 68
+21+11=Let me solve step by step. Ones place: 1+1=[TOOL]1+1[/TOOL]2. Tens place: 2+1=[TOOL]2+1[/TOOL]3. Answer: 32
+74+38=Let me solve step by step. Ones place: 4+8=[TOOL]4+8[/TOOL]12, carry 1. Tens place: 7+3+1=[TOOL]7+3+1[/TOOL]11. Answer: 112
+92+31=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 9+3=[TOOL]9+3[/TOOL]12. Answer: 123
+86+74=Let me solve step by step. Ones place: 6+4=[TOOL]6+4[/TOOL]10, carry 1. Tens place: 8+7+1=[TOOL]8+7+1[/TOOL]16. Answer: 160
+22+86=Let me solve step by step. Ones place: 2+6=[TOOL]2+6[/TOOL]8. Tens place: 2+8=[TOOL]2+8[/TOOL]10. Answer: 108
+91+27=Let me solve step by step. Ones place: 1+7=[TOOL]1+7[/TOOL]8. Tens place: 9+2=[TOOL]9+2[/TOOL]11. Answer: 118
+32+18=Let me solve step by step. Ones place: 2+8=[TOOL]2+8[/TOOL]10, carry 1. Tens place: 3+1+1=[TOOL]3+1+1[/TOOL]5. Answer: 50
+35+50=Let me solve step by step. Ones place: 5+0=[TOOL]5+0[/TOOL]5. Tens place: 3+5=[TOOL]3+5[/TOOL]8. Answer: 85
+58+52=Let me solve step by step. Ones place: 8+2=[TOOL]8+2[/TOOL]10, carry 1. Tens place: 5+5+1=[TOOL]5+5+1[/TOOL]11. Answer: 110
+85+65=Let me solve step by step. Ones place: 5+5=[TOOL]5+5[/TOOL]10, carry 1. Tens place: 8+6+1=[TOOL]8+6+1[/TOOL]15. Answer: 150
+62+41=Let me solve step by step. Ones place: 2+1=[TOOL]2+1[/TOOL]3. Tens place: 6+4=[TOOL]6+4[/TOOL]10. Answer: 103
+37+81=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 3+8=[TOOL]3+8[/TOOL]11. Answer: 118
+30+94=Let me solve step by step. Ones place: 0+4=[TOOL]0+4[/TOOL]4. Tens place: 3+9=[TOOL]3+9[/TOOL]12. Answer: 124
+30+90=Let me solve step by step. Ones place: 0+0=[TOOL]0+0[/TOOL]0. Tens place: 3+9=[TOOL]3+9[/TOOL]12. Answer: 120
+15+71=Let me solve step by step. Ones place: 5+1=[TOOL]5+1[/TOOL]6. Tens place: 1+7=[TOOL]1+7[/TOOL]8. Answer: 86
+22+46=Let me solve step by step. Ones place: 2+6=[TOOL]2+6[/TOOL]8. Tens place: 2+4=[TOOL]2+4[/TOOL]6. Answer: 68
+98+47=Let me solve step by step. Ones place: 8+7=[TOOL]8+7[/TOOL]15, carry 1. Tens place: 9+4+1=[TOOL]9+4+1[/TOOL]14. Answer: 145
+78+80=Let me solve step by step. Ones place: 8+0=[TOOL]8+0[/TOOL]8. Tens place: 7+8=[TOOL]7+8[/TOOL]15. Answer: 158
+97+58=Let me solve step by step. Ones place: 7+8=[TOOL]7+8[/TOOL]15, carry 1. Tens place: 9+5+1=[TOOL]9+5+1[/TOOL]15. Answer: 155
+41+54=Let me solve step by step. Ones place: 1+4=[TOOL]1+4[/TOOL]5. Tens place: 4+5=[TOOL]4+5[/TOOL]9. Answer: 95
+22+70=Let me solve step by step. Ones place: 2+0=[TOOL]2+0[/TOOL]2. Tens place: 2+7=[TOOL]2+7[/TOOL]9. Answer: 92
+16+78=Let me solve step by step. Ones place: 6+8=[TOOL]6+8[/TOOL]14, carry 1. Tens place: 1+7+1=[TOOL]1+7+1[/TOOL]9. Answer: 94
+77+31=Let me solve step by step. Ones place: 7+1=[TOOL]7+1[/TOOL]8. Tens place: 7+3=[TOOL]7+3[/TOOL]10. Answer: 108
+65+54=Let me solve step by step. Ones place: 5+4=[TOOL]5+4[/TOOL]9. Tens place: 6+5=[TOOL]6+5[/TOOL]11. Answer: 119
+50+93=Let me solve step by step. Ones place: 0+3=[TOOL]0+3[/TOOL]3. Tens place: 5+9=[TOOL]5+9[/TOOL]14. Answer: 143
+88+55=Let me solve step by step. Ones place: 8+5=[TOOL]8+5[/TOOL]13, carry 1. Tens place: 8+5+1=[TOOL]8+5+1[/TOOL]14. Answer: 143
+95+67=Let me solve step by step. Ones place: 5+7=[TOOL]5+7[/TOOL]12, carry 1. Tens place: 9+6+1=[TOOL]9+6+1[/TOOL]16. Answer: 162
+20+84=Let me solve step by step. Ones place: 0+4=[TOOL]0+4[/TOOL]4. Tens place: 2+8=[TOOL]2+8[/TOOL]10. Answer: 104
+90+17=Let me solve step by step. Ones place: 0+7=[TOOL]0+7[/TOOL]7. Tens place: 9+1=[TOOL]9+1[/TOOL]10. Answer: 107
+82+77=Let me solve step by step. Ones place: 2+7=[TOOL]2+7[/TOOL]9. Tens place: 8+7=[TOOL]8+7[/TOOL]15. Answer: 159
+95+94=Let me solve step by step. Ones place: 5+4=[TOOL]5+4[/TOOL]9. Tens place: 9+9=[TOOL]9+9[/TOOL]18. Answer: 189
+60+69=Let me solve step by step. Ones place: 0+9=[TOOL]0+9[/TOOL]9. Tens place: 6+6=[TOOL]6+6[/TOOL]12. Answer: 129
+27+63=Let me solve step by step. Ones place: 7+3=[TOOL]7+3[/TOOL]10, carry 1. Tens place: 2+6+1=[TOOL]2+6+1[/TOOL]9. Answer: 90
+59+95=Let me solve step by step. Ones place: 9+5=[TOOL]9+5[/TOOL]14, carry 1. Tens place: 5+9+1=[TOOL]5+9+1[/TOOL]15. Answer: 154
+37+63=Let me solve step by step. Ones place: 7+3=[TOOL]7+3[/TOOL]10, carry 1. Tens place: 3+6+1=[TOOL]3+6+1[/TOOL]10. Answer: 100
+29+22=Let me solve step by step. Ones place: 9+2=[TOOL]9+2[/TOOL]11, carry 1. Tens place: 2+2+1=[TOOL]2+2+1[/TOOL]5. Answer: 51
+85+64=Let me solve step by step. Ones place: 5+4=[TOOL]5+4[/TOOL]9. Tens place: 8+6=[TOOL]8+6[/TOOL]14. Answer: 149
+23+89=Let me solve step by step. Ones place: 3+9=[TOOL]3+9[/TOOL]12, carry 1. Tens place: 2+8+1=[TOOL]2+8+1[/TOOL]11. Answer: 112
+71+67=Let me solve step by step. Ones place: 1+7=[TOOL]1+7[/TOOL]8. Tens place: 7+6=[TOOL]7+6[/TOOL]13. Answer: 138
+35+84=Let me solve step by step. Ones place: 5+4=[TOOL]5+4[/TOOL]9. Tens place: 3+8=[TOOL]3+8[/TOOL]11. Answer: 119
+32+43=Let me solve step by step. Ones place: 2+3=[TOOL]2+3[/TOOL]5. Tens place: 3+4=[TOOL]3+4[/TOOL]7. Answer: 75
+55+81=Let me solve step by step. Ones place: 5+1=[TOOL]5+1[/TOOL]6. Tens place: 5+8=[TOOL]5+8[/TOOL]13. Answer: 136
+31+67=Let me solve step by step. Ones place: 1+7=[TOOL]1+7[/TOOL]8. Tens place: 3+6=[TOOL]3+6[/TOOL]9. Answer: 98
+47+12=Let me solve step by step. Ones place: 7+2=[TOOL]7+2[/TOOL]9. Tens place: 4+1=[TOOL]4+1[/TOOL]5. Answer: 59
+53+95=Let me solve step by step. Ones place: 3+5=[TOOL]3+5[/TOOL]8. Tens place: 5+9=[TOOL]5+9[/TOOL]14. Answer: 148
+48+84=Let me solve step by step. Ones place: 8+4=[TOOL]8+4[/TOOL]12, carry 1. Tens place: 4+8+1=[TOOL]4+8+1[/TOOL]13. Answer: 132
+34+11=Let me solve step by step. Ones place: 4+1=[TOOL]4+1[/TOOL]5. Tens place: 3+1=[TOOL]3+1[/TOOL]4. Answer: 45
+57+66=Let me solve step by step. Ones place: 7+6=[TOOL]7+6[/TOOL]13, carry 1. Tens place: 5+6+1=[TOOL]5+6+1[/TOOL]12. Answer: 123
