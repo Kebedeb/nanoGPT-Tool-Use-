@@ -1,0 +1,100 @@
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 88 and 65\nModel: <tool:calc>88 + 65</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 37 + 74?\nModel: <tool:calc>37 + 74</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 9 and 26\nModel: <tool:calc>9 + 26</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 27 and 2\nModel: <tool:calc>27 + 2</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 29 + 8\nModel: <tool:calc>29 + 8</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 69 + 81\nModel: <tool:calc>69 + 81</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['16 * 4 = 64']\nModel: The first calculation resulted in 64."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['10 * 6 = 60']\nModel: The first calculation resulted in 60."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['20 * 10 = 200']\nModel: The first calculation resulted in 200."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['16 * 6 = 96']\nModel: The first calculation resulted in 96."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['15 * 13 = 195']\nModel: The first calculation resulted in 195."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 39 + 80\nModel: <tool:calc>39 + 80</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 86 + 63\nModel: <tool:calc>86 + 63</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 28 and 52\nModel: <tool:calc>28 + 52</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['4 * 4 = 16']\nModel: The first calculation resulted in 16."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['20 * 2 = 40']\nModel: The first calculation resulted in 40."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['1 * 12 = 12']\nModel: The first calculation resulted in 12."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['7 * 16 = 112']\nModel: The first calculation resulted in 112."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 89 + 84\nModel: <tool:calc>89 + 84</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['1 * 3 = 3']\nModel: The first calculation resulted in 3."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['15 * 19 = 285']\nModel: The first calculation resulted in 285."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 30 and 16\nModel: <tool:calc>30 + 16</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['3 * 4 = 12']\nModel: The first calculation resulted in 12."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['19 * 7 = 133']\nModel: The first calculation resulted in 133."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['18 * 1 = 18']\nModel: The first calculation resulted in 18."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 98 + 28?\nModel: <tool:calc>98 + 28</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 5 + 31?\nModel: <tool:calc>5 + 31</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['13 * 15 = 195']\nModel: The first calculation resulted in 195."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['7 * 8 = 56']\nModel: The first calculation resulted in 56."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['12 * 17 = 204']\nModel: The first calculation resulted in 204."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 78 + 78?\nModel: <tool:calc>78 + 78</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['18 * 12 = 216']\nModel: The first calculation resulted in 216."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['7 * 2 = 14']\nModel: The first calculation resulted in 14."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['18 * 18 = 324']\nModel: The first calculation resulted in 324."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['17 * 6 = 102']\nModel: The first calculation resulted in 102."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['17 * 13 = 221']\nModel: The first calculation resulted in 221."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 78 + 98?\nModel: <tool:calc>78 + 98</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 68 + 81\nModel: <tool:calc>68 + 81</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['8 * 19 = 152']\nModel: The first calculation resulted in 152."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['17 * 20 = 340']\nModel: The first calculation resulted in 340."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 90 + 44\nModel: <tool:calc>90 + 44</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 39 + 40?\nModel: <tool:calc>39 + 40</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['4 * 16 = 64']\nModel: The first calculation resulted in 64."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['2 * 14 = 28']\nModel: The first calculation resulted in 28."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['1 * 14 = 14']\nModel: The first calculation resulted in 14."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['12 * 7 = 84']\nModel: The first calculation resulted in 84."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['8 * 12 = 96']\nModel: The first calculation resulted in 96."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 97 and 99\nModel: <tool:calc>97 + 99</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 27 and 84\nModel: <tool:calc>27 + 84</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 69 + 34\nModel: <tool:calc>69 + 34</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['3 * 4 = 12']\nModel: The first calculation resulted in 12."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 87 + 78\nModel: <tool:calc>87 + 78</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 77 and 47\nModel: <tool:calc>77 + 47</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['16 * 2 = 32']\nModel: The first calculation resulted in 32."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['19 * 3 = 57']\nModel: The first calculation resulted in 57."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 45 + 39?\nModel: <tool:calc>45 + 39</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['10 * 15 = 150']\nModel: The first calculation resulted in 150."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 94 + 54?\nModel: <tool:calc>94 + 54</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 3 + 40\nModel: <tool:calc>3 + 40</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['2 * 17 = 34']\nModel: The first calculation resulted in 34."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['8 * 12 = 96']\nModel: The first calculation resulted in 96."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 57 + 16?\nModel: <tool:calc>57 + 16</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 96 + 6?\nModel: <tool:calc>96 + 6</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 91 + 27?\nModel: <tool:calc>91 + 27</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 8 + 85\nModel: <tool:calc>8 + 85</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 40 + 83\nModel: <tool:calc>40 + 83</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['17 * 16 = 272']\nModel: The first calculation resulted in 272."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['3 * 5 = 15']\nModel: The first calculation resulted in 15."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['15 * 17 = 255']\nModel: The first calculation resulted in 255."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['13 * 8 = 104']\nModel: The first calculation resulted in 104."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 55 + 85?\nModel: <tool:calc>55 + 85</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 85 and 61\nModel: <tool:calc>85 + 61</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 91 and 37\nModel: <tool:calc>91 + 37</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 95 and 38\nModel: <tool:calc>95 + 38</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 22 + 73?\nModel: <tool:calc>22 + 73</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 49 + 7?\nModel: <tool:calc>49 + 7</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 57 + 24\nModel: <tool:calc>57 + 24</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 61 + 28\nModel: <tool:calc>61 + 28</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 53 and 82\nModel: <tool:calc>53 + 82</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 48 and 91\nModel: <tool:calc>48 + 91</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 12 + 44\nModel: <tool:calc>12 + 44</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 62 and 21\nModel: <tool:calc>62 + 21</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 15 + 34\nModel: <tool:calc>15 + 34</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 37 + 24?\nModel: <tool:calc>37 + 24</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['20 * 17 = 340']\nModel: The first calculation resulted in 340."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['7 * 11 = 77']\nModel: The first calculation resulted in 77."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What did that first equation equal?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['20 * 1 = 20']\nModel: The first calculation resulted in 20."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 87 + 37\nModel: <tool:calc>87 + 37</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['8 * 5 = 40']\nModel: The first calculation resulted in 40."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['1 * 14 = 14']\nModel: The first calculation resulted in 14."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['14 * 9 = 126']\nModel: The first calculation resulted in 126."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['3 * 7 = 21']\nModel: The first calculation resulted in 21."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['8 * 7 = 56']\nModel: The first calculation resulted in 56."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['19 * 8 = 152']\nModel: The first calculation resulted in 152."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 69 and 82\nModel: <tool:calc>69 + 82</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Add 26 and 56\nModel: <tool:calc>26 + 56</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: What is 4 + 34?\nModel: <tool:calc>4 + 34</tool:calc>"}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: What was the result of our first calculation?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['19 * 2 = 38']\nModel: The first calculation resulted in 38."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (1 items)\n[END TABLE OF CONTENTS]\nUser: Do you remember the first math problem we did?\nModel: <lookup:calculations>\n[CALCULATIONS CONTENT]: ['19 * 20 = 380']\nModel: The first calculation resulted in 380."}
+{"text": "[TABLE OF CONTENTS]\n - calculations (0 items)\n[END TABLE OF CONTENTS]\nUser: Calculate 51 + 79\nModel: <tool:calc>51 + 79</tool:calc>"}

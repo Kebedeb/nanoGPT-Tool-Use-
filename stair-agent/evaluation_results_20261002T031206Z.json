@@ -1,0 +1,2724 @@
+{
+  "timestamp_utc": "2026-10-02T03:12:06.502310+00:00",
+  "model": "C:\\Users\\Rayya\\cs_proj\\addition-tool\\tool-call\\stair-agent\\stair_agent_model",
+  "device": "cuda",
+  "case_count": 300,
+  "metrics": {
+    "new_memory_layouts_leaf_exact_match": 1.0,
+    "new_phrasings_leaf_exact_match": 0.98,
+    "familiar_phrasing_1_to_3_digits_tool_format_rate": 1.0,
+    "familiar_phrasing_1_to_3_digits_expression_exact_match": 0.98,
+    "familiar_phrasing_1_to_3_digits_result_exact_match": 0.98,
+    "familiar_phrasing_4_digits_tool_format_rate": 1.0,
+    "familiar_phrasing_4_digits_expression_exact_match": 0.86,
+    "familiar_phrasing_4_digits_result_exact_match": 0.86,
+    "new_phrasing_1_to_3_digits_tool_format_rate": 1.0,
+    "new_phrasing_1_to_3_digits_expression_exact_match": 0.92,
+    "new_phrasing_1_to_3_digits_result_exact_match": 0.92,
+    "new_phrasing_4_digits_tool_format_rate": 1.0,
+    "new_phrasing_4_digits_expression_exact_match": 0.84,
+    "new_phrasing_4_digits_result_exact_match": 0.84
+  },
+  "cases": [
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Add 309 and 417.",
+      "action": "<tool:calc>309+417</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 792 plus 310?",
+      "action": "<tool:calc>792+310</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 880 plus 384?",
+      "action": "<tool:calc>880+384</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What's the sum of 697 and 482?",
+      "action": "<tool:calc>697+482</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 515 plus 939?",
+      "action": "<tool:calc>515+939</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 547 plus 589?",
+      "action": "<tool:calc>547+589</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What is 93 plus 616?",
+      "action": "<tool:calc>93+616</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What is 381 plus 44?",
+      "action": "<tool:calc>381+44</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 608 plus 230?",
+      "action": "<tool:calc>608+230</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Add 783 and 769.",
+      "action": "<tool:calc>783+769</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 407 plus 899?",
+      "action": "<tool:calc>407+899</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Add 94 and 49.",
+      "action": "<tool:calc>94+49</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Please compute 634+709.",
+      "action": "<tool:calc>634+709</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 826 plus 206?",
+      "action": "<tool:calc>826+206</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Calculate 14 + 455.",
+      "action": "<tool:calc>14+455</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What's the sum of 344 and 691?",
+      "action": "<tool:calc>344+691</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What is 228 plus 838?",
+      "action": "<tool:calc>228+838</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What is 849 plus 870?",
+      "action": "<tool:calc>849+870</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 523 plus 880?",
+      "action": "<tool:calc>523+880</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What's the sum of 932 and 276?",
+      "action": "<tool:calc>932+276</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What's the sum of 27 and 259?",
+      "action": "<tool:calc>27+259</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What's the sum of 35 and 174?",
+      "action": "<tool:calc>35+174</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Please compute 40+737.",
+      "action": "<tool:calc>40+737</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Please compute 892+596.",
+      "action": "<tool:calc>892+596</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Calculate 634 + 388.",
+      "action": "<tool:calc>634+388</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 300 plus 810?",
+      "action": "<tool:calc>300+810</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 973 plus 655?",
+      "action": "<tool:calc>973+655</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Add 815 and 171.",
+      "action": "<tool:calc>815+171</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What is 842 plus 430?",
+      "action": "<tool:calc>842+430</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What is 348 plus 336?",
+      "action": "<tool:calc>348+336</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Please compute 732+993.",
+      "action": "<tool:calc>732+993</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What's the sum of 900 and 951?",
+      "action": "<tool:calc>900+951</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Add 159 and 130.",
+      "action": "<tool:calc>159+130</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 123 plus 601?",
+      "action": "<tool:calc>123+601</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Add 924 and 875.",
+      "action": "<tool:calc>924+875</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Please compute 13+134.",
+      "action": "<tool:calc>13+134</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Add 253 and 977.",
+      "action": "<tool:calc>253+977</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 24 plus 998?",
+      "action": "<tool:calc>24+998</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Calculate 320 + 110.",
+      "action": "<tool:calc>320+110</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 702 plus 721?",
+      "action": "<tool:calc>702+721</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Please compute 535+367.",
+      "action": "<tool:calc>535+367</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Add 935 and 582.",
+      "action": "<tool:calc>935+582</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What's the sum of 998 and 629?",
+      "action": "<tool:calc>989+629</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Please compute 107+426.",
+      "action": "<tool:calc>107+426</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 219 plus 599?",
+      "action": "<tool:calc>219+599</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What is 362 plus 368?",
+      "action": "<tool:calc>362+368</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Add 230 and 540.",
+      "action": "<tool:calc>230+540</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "What is 477 plus 255?",
+      "action": "<tool:calc>477+255</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "How much is 704 plus 775?",
+      "action": "<tool:calc>704+775</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_1_to_3_digits",
+      "query": "Calculate 870 + 345.",
+      "action": "<tool:calc>870+345</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Add 5146 and 2963.",
+      "action": "<tool:calc>5146+2963</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "How much is 6456 plus 9482?",
+      "action": "<tool:calc>6554+9482</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "How much is 3067 plus 3751?",
+      "action": "<tool:calc>3067+3751</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "What is 9588 plus 9901?",
+      "action": "<tool:calc>9588+9901</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "What's the sum of 5302 and 8670?",
+      "action": "<tool:calc>5302+8670</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Add 1126 and 2662.",
+      "action": "<tool:calc>1126+2662</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Please compute 9067+2357.",
+      "action": "<tool:calc>9067+2357</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "How much is 3131 plus 9014?",
+      "action": "<tool:calc>3131+9014</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Calculate 7514 + 8421.",
+      "action": "<tool:calc>7514+8421</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "How much is 8007 plus 3369?",
+      "action": "<tool:calc>8007+3369</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Calculate 1699 + 4190.",
+      "action": "<tool:calc>1699+4190</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "How much is 6189 plus 2979?",
+      "action": "<tool:calc>6189+2979</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Add 2639 and 8256.",
+      "action": "<tool:calc>2639+8256</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Please compute 8832+5097.",
+      "action": "<tool:calc>8832+5097</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Please compute 5763+2345.",
+      "action": "<tool:calc>5563+2345</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "What's the sum of 1086 and 2388?",
+      "action": "<tool:calc>1086+2388</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Add 6887 and 6293.",
+      "action": "<tool:calc>6787+6293</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Add 1216 and 8239.",
+      "action": "<tool:calc>1216+8239</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "How much is 9442 plus 8870?",
+      "action": "<tool:calc>9442+8870</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Please compute 8272+4542.",
+      "action": "<tool:calc>8272+4542</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Add 5096 and 8883.",
+      "action": "<tool:calc>50696+8883</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "What is 1462 plus 6357?",
+      "action": "<tool:calc>1462+6357</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Please compute 4291+6017.",
+      "action": "<tool:calc>4291+6017</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "How much is 6612 plus 1701?",
+      "action": "<tool:calc>6612+1701</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "What is 5950 plus 1208?",
+      "action": "<tool:calc>5950+1208</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "How much is 3674 plus 5662?",
+      "action": "<tool:calc>3784+5662</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "What's the sum of 5187 and 8496?",
+      "action": "<tool:calc>5187+8496</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "How much is 7190 plus 2937?",
+      "action": "<tool:calc>7190+2937</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Add 6743 and 2819.",
+      "action": "<tool:calc>6743+2819</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Please compute 1490+4720.",
+      "action": "<tool:calc>1490+4720</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "What is 7342 plus 6419?",
+      "action": "<tool:calc>7342+6419</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "What is 2903 plus 4900?",
+      "action": "<tool:calc>2903+4900</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "What's the sum of 1856 and 9007?",
+      "action": "<tool:calc>1856+9007</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "What is 7212 plus 4963?",
+      "action": "<tool:calc>7212+4996</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "What is 6323 plus 8097?",
+      "action": "<tool:calc>6323+8097</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "What is 5458 plus 2638?",
+      "action": "<tool:calc>5458+2638</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Calculate 3278 + 5682.",
+      "action": "<tool:calc>3278+5682</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Add 9478 and 1454.",
+      "action": "<tool:calc>9478+1454</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Calculate 2561 + 8970.",
+      "action": "<tool:calc>2561+8970</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "How much is 1161 plus 2206?",
+      "action": "<tool:calc>1161+2206</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Calculate 5876 + 7211.",
+      "action": "<tool:calc>5876+7211</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "How much is 5275 plus 5037?",
+      "action": "<tool:calc>575+5037</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Add 5179 and 7332.",
+      "action": "<tool:calc>5179+7332</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "How much is 1728 plus 6281?",
+      "action": "<tool:calc>1728+6281</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "How much is 9978 plus 3290?",
+      "action": "<tool:calc>9978+3290</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Add 9590 and 3855.",
+      "action": "<tool:calc>9590+3855</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "What is 9819 plus 1993?",
+      "action": "<tool:calc>9819+1993</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Add 5657 and 9767.",
+      "action": "<tool:calc>5657+9767</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "How much is 4623 plus 9580?",
+      "action": "<tool:calc>4623+9580</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "familiar_phrasing_4_digits",
+      "query": "Calculate 3113 + 9356.",
+      "action": "<tool:calc>3113+9356</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Tell me 914 plus 321.",
+      "action": "<tool:calc>914+321</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "What do 374 and 165 add up to?",
+      "action": "<tool:calc>374+165</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Can you total 421 and 593?",
+      "action": "<tool:calc>421+593</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "What do 243 and 351 add up to?",
+      "action": "<tool:calc>243+351</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 977 to 552.",
+      "action": "<tool:calc>977+552</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 920 to 703.",
+      "action": "<tool:calc>920+603</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "What do 725 and 576 add up to?",
+      "action": "<tool:calc>725+576</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "What do 733 and 979 add up to?",
+      "action": "<tool:calc>733+979</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 679 to 678.",
+      "action": "<tool:calc>679+678</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Tell me 801 plus 37.",
+      "action": "<tool:calc>801+37</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 917 to 498.",
+      "action": "<tool:calc>917+498</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Find the sum of 29 and 467.",
+      "action": "<tool:calc>29+467</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "What do 903 and 811 add up to?",
+      "action": "<tool:calc>903+811</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Tell me 337 plus 359.",
+      "action": "<tool:calc>337+359</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Can you total 902 and 708?",
+      "action": "<tool:calc>902+708</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Can you total 679 and 541?",
+      "action": "<tool:calc>679+541</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Can you total 326 and 622?",
+      "action": "<tool:calc>326+522</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Find the sum of 109 and 181.",
+      "action": "<tool:calc>109+181</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "What do 902 and 940 add up to?",
+      "action": "<tool:calc>902+940</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 428 to 877.",
+      "action": "<tool:calc>428+877</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Can you total 232 and 101?",
+      "action": "<tool:calc>232+101</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Can you total 174 and 936?",
+      "action": "<tool:calc>174+936</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 254 to 839.",
+      "action": "<tool:calc>254+839</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 5 to 370.",
+      "action": "<tool:calc>5+370</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Find the sum of 469 and 325.",
+      "action": "<tool:calc>469+325</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Can you total 925 and 632?",
+      "action": "<tool:calc>925+632</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 749 to 449.",
+      "action": "<tool:calc>749+449</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Find the sum of 807 and 19.",
+      "action": "<tool:calc>807+19</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 776 to 162.",
+      "action": "<tool:calc>776+162</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Can you total 858 and 229?",
+      "action": "<tool:calc>858+229</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Find the sum of 402 and 180.",
+      "action": "<tool:calc>402+180</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Can you total 199 and 336?",
+      "action": "<tool:calc>199+336</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Find the sum of 667 and 521.",
+      "action": "<tool:calc>667+521</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Can you total 596 and 622?",
+      "action": "<tool:calc>596+522</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Tell me 482 plus 464.",
+      "action": "<tool:calc>482+464</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 865 to 730.",
+      "action": "<tool:calc>865+730</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Can you total 114 and 807?",
+      "action": "<tool:calc>114+807</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Can you total 654 and 730?",
+      "action": "<tool:calc>654+730</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "What do 821 and 720 add up to?",
+      "action": "<tool:calc>821+720</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "What do 255 and 272 add up to?",
+      "action": "<tool:calc>255+272</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 226 to 793.",
+      "action": "<tool:calc>226+793</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Can you total 222 and 530?",
+      "action": "<tool:calc>222+530</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 765 to 69.",
+      "action": "<tool:calc>765+69</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 452 to 378.",
+      "action": "<tool:calc>452+2</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "What do 669 and 22 add up to?",
+      "action": "<tool:calc>669+22</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 245 to 216.",
+      "action": "<tool:calc>245+216</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Please add 199 to 614.",
+      "action": "<tool:calc>199+614</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Find the sum of 679 and 193.",
+      "action": "<tool:calc>679+193</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Tell me 198 plus 938.",
+      "action": "<tool:calc>198+938</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_1_to_3_digits",
+      "query": "Find the sum of 319 and 972.",
+      "action": "<tool:calc>319+972</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 3399 to 3901.",
+      "action": "<tool:calc>3399+3901</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 4264 to 8536.",
+      "action": "<tool:calc>4264+8536</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Can you total 7216 and 5298?",
+      "action": "<tool:calc>7216+5298</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 8388 to 3066.",
+      "action": "<tool:calc>8388+3066</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Can you total 1045 and 5485?",
+      "action": "<tool:calc>1045+5485</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 2488 to 9326.",
+      "action": "<tool:calc>2488+9326</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Tell me 1334 plus 4175.",
+      "action": "<tool:calc>1334+4175</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Find the sum of 5388 and 9372.",
+      "action": "<tool:calc>5388+9372</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 5235 to 9122.",
+      "action": "<tool:calc>5235+9122</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Tell me 4658 plus 6597.",
+      "action": "<tool:calc>4658+65597</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "What do 6341 and 2927 add up to?",
+      "action": "<tool:calc>6341+2927</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "What do 9853 and 4541 add up to?",
+      "action": "<tool:calc>9853+4541</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Can you total 9871 and 8936?",
+      "action": "<tool:calc>9871+8936</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 4119 to 4832.",
+      "action": "<tool:calc>4119+4832</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Tell me 7600 plus 3117.",
+      "action": "<tool:calc>7600+3117</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Can you total 2350 and 2648?",
+      "action": "<tool:calc>2350+2648</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 9428 to 1158.",
+      "action": "<tool:calc>9428+1198</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 1683 to 5301.",
+      "action": "<tool:calc>1683+5301</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Find the sum of 2474 and 4793.",
+      "action": "<tool:calc>2474+4573</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "What do 4041 and 8703 add up to?",
+      "action": "<tool:calc>4041+8703</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "What do 4376 and 5186 add up to?",
+      "action": "<tool:calc>4376+5186</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Can you total 7837 and 2060?",
+      "action": "<tool:calc>7837+2060</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Can you total 3994 and 7687?",
+      "action": "<tool:calc>3994+7687</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "What do 2360 and 3312 add up to?",
+      "action": "<tool:calc>2360+3312</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Find the sum of 6027 and 6780.",
+      "action": "<tool:calc>6027+6780</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Can you total 4202 and 5915?",
+      "action": "<tool:calc>4202+5915</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 1286 to 8027.",
+      "action": "<tool:calc>1286+8027</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 6294 to 5652.",
+      "action": "<tool:calc>6294+6552</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 5661 to 5442.",
+      "action": "<tool:calc>5661+5442</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Find the sum of 5745 and 2586.",
+      "action": "<tool:calc>5745+2586</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Find the sum of 3138 and 5241.",
+      "action": "<tool:calc>3138+5241</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Can you total 1981 and 7741?",
+      "action": "<tool:calc>1981+7741</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 8431 to 7368.",
+      "action": "<tool:calc>8431+7368</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Can you total 5536 and 5358?",
+      "action": "<tool:calc>5536+5358</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Tell me 7530 plus 4317.",
+      "action": "<tool:calc>7530+4317</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Find the sum of 1619 and 7504.",
+      "action": "<tool:calc>1619+7504</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Can you total 5834 and 5006?",
+      "action": "<tool:calc>5834+5006</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Tell me 3714 plus 3133.",
+      "action": "<tool:calc>3714+3133</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 4302 to 5058.",
+      "action": "<tool:calc>4302+5058</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Tell me 4491 plus 8061.",
+      "action": "<tool:calc>4949+8056</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 1147 to 7970.",
+      "action": "<tool:calc>1147+7970</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Can you total 4332 and 5374?",
+      "action": "<tool:calc>4332+5374</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "What do 9866 and 5772 add up to?",
+      "action": "<tool:calc>9866+5752</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 5502 to 5753.",
+      "action": "<tool:calc>5502+5553</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 6978 to 6906.",
+      "action": "<tool:calc>6978+06</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 4910 to 7289.",
+      "action": "<tool:calc>4910+7289</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Tell me 2498 plus 9552.",
+      "action": "<tool:calc>2498+9552</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Please add 5081 to 8613.",
+      "action": "<tool:calc>5081+8613</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "What do 4123 and 7497 add up to?",
+      "action": "<tool:calc>4123+7497</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "new_phrasing_4_digits",
+      "query": "Tell me 7711 plus 1616.",
+      "action": "<tool:calc>7711+1616</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 2?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the fifth sum?",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the second sum?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 1?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 7?",
+      "action": "leaf calculation_7",
+      "expected_leaf": 7,
+      "predicted_leaf": 7,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the last sum?",
+      "action": "leaf calculation_8",
+      "expected_leaf": 8,
+      "predicted_leaf": 8,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 5?",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the first sum?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my second calculation?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 3?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the fourth sum?",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my fourth calculation.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 6?",
+      "action": "leaf calculation_6",
+      "expected_leaf": 6,
+      "predicted_leaf": 6,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my third calculation?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my last calculation.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my first calculation.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my fourth calculation.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the third sum?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my second calculation.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 4?",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my last calculation.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my third calculation.",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my fifth calculation?",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the third sum?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my second calculation.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my fourth calculation?",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my first calculation.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 4?",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 6?",
+      "action": "leaf calculation_6",
+      "expected_leaf": 6,
+      "predicted_leaf": 6,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my first calculation.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 3?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my first calculation.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the first sum?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 1?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my third calculation.",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the first sum?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 3?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my third calculation?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my first calculation.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 1?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 2?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my sixth calculation.",
+      "action": "leaf calculation_6",
+      "expected_leaf": 6,
+      "predicted_leaf": 6,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the first sum?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 1?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 2?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my first result was?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my second result was?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which saved calculation was my fourth one?",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my first result was?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 5 in my calculations.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Return the result from calculation #4.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my fourth result was?",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Return the result from calculation #1.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 5 in my calculations.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my second result was?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my first result was?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which saved calculation was my third one?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 2 in my calculations.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 3 in my calculations.",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which saved calculation was my second one?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Return the result from calculation #7.",
+      "action": "leaf calculation_7",
+      "expected_leaf": 7,
+      "predicted_leaf": 7,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which saved calculation was my first one?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Return the result from calculation #2.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 8 in my calculations.",
+      "action": "leaf calculation_8",
+      "expected_leaf": 8,
+      "predicted_leaf": 8,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my second result was?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 1 in my calculations.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 1 in my calculations.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my fourth result was?",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Return the result from calculation #2.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which saved calculation was my sixth one?",
+      "action": "leaf calculation_6",
+      "expected_leaf": 6,
+      "predicted_leaf": 6,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my second result was?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my second result was?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Return the result from calculation #1.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my third result was?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my fifth result was?",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 2 in my calculations.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my third result was?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 4 in my calculations.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my second result was?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 2 in my calculations.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 1 in my calculations.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my second result was?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Return the result from calculation #1.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which saved calculation was my first one?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Return the result from calculation #3.",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which saved calculation was my first one?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Can you remind me what my third result was?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 4 in my calculations.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 5 in my calculations.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Return the result from calculation #2.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 3 in my calculations.",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Return the result from calculation #4.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which saved calculation was my fourth one?",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Look up entry number 5 in my calculations.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Return the result from calculation #6.",
+      "action": "leaf calculation_8",
+      "expected_leaf": 6,
+      "predicted_leaf": 8,
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,4165 @@
+{
+  "timestamp_utc": "2026-10-02T03:51:41.192264+00:00",
+  "model": "C:\\Users\\Rayya\\cs_proj\\addition-tool\\tool-call\\stair-agent\\stair_agent_model",
+  "device": "cuda",
+  "case_count": 420,
+  "metrics": {
+    "new_memory_layouts_leaf_exact_match": 1.0,
+    "new_phrasings_leaf_exact_match": 0.94,
+    "add_familiar_phrasing_1_to_3_digits_tool_format_rate": 1.0,
+    "add_familiar_phrasing_1_to_3_digits_expression_exact_match": 1.0,
+    "add_familiar_phrasing_1_to_3_digits_result_exact_match": 1.0,
+    "add_familiar_phrasing_4_digits_tool_format_rate": 1.0,
+    "add_familiar_phrasing_4_digits_expression_exact_match": 0.85,
+    "add_familiar_phrasing_4_digits_result_exact_match": 0.85,
+    "add_new_phrasing_1_to_3_digits_tool_format_rate": 1.0,
+    "add_new_phrasing_1_to_3_digits_expression_exact_match": 0.65,
+    "add_new_phrasing_1_to_3_digits_result_exact_match": 0.65,
+    "add_new_phrasing_4_digits_tool_format_rate": 1.0,
+    "add_new_phrasing_4_digits_expression_exact_match": 0.35,
+    "add_new_phrasing_4_digits_result_exact_match": 0.35,
+    "div_familiar_phrasing_1_to_3_digits_tool_format_rate": 1.0,
+    "div_familiar_phrasing_1_to_3_digits_expression_exact_match": 1.0,
+    "div_familiar_phrasing_1_to_3_digits_result_exact_match": 1.0,
+    "div_familiar_phrasing_4_digits_tool_format_rate": 1.0,
+    "div_familiar_phrasing_4_digits_expression_exact_match": 0.8,
+    "div_familiar_phrasing_4_digits_result_exact_match": 0.8,
+    "div_new_phrasing_1_to_3_digits_tool_format_rate": 1.0,
+    "div_new_phrasing_1_to_3_digits_expression_exact_match": 0.65,
+    "div_new_phrasing_1_to_3_digits_result_exact_match": 0.65,
+    "div_new_phrasing_4_digits_tool_format_rate": 1.0,
+    "div_new_phrasing_4_digits_expression_exact_match": 0.65,
+    "div_new_phrasing_4_digits_result_exact_match": 0.65,
+    "mul_familiar_phrasing_1_to_3_digits_tool_format_rate": 1.0,
+    "mul_familiar_phrasing_1_to_3_digits_expression_exact_match": 1.0,
+    "mul_familiar_phrasing_1_to_3_digits_result_exact_match": 1.0,
+    "mul_familiar_phrasing_4_digits_tool_format_rate": 1.0,
+    "mul_familiar_phrasing_4_digits_expression_exact_match": 0.95,
+    "mul_familiar_phrasing_4_digits_result_exact_match": 0.95,
+    "mul_new_phrasing_1_to_3_digits_tool_format_rate": 1.0,
+    "mul_new_phrasing_1_to_3_digits_expression_exact_match": 0.5,
+    "mul_new_phrasing_1_to_3_digits_result_exact_match": 0.5,
+    "mul_new_phrasing_4_digits_tool_format_rate": 1.0,
+    "mul_new_phrasing_4_digits_expression_exact_match": 0.65,
+    "mul_new_phrasing_4_digits_result_exact_match": 0.65,
+    "sub_familiar_phrasing_1_to_3_digits_tool_format_rate": 1.0,
+    "sub_familiar_phrasing_1_to_3_digits_expression_exact_match": 1.0,
+    "sub_familiar_phrasing_1_to_3_digits_result_exact_match": 1.0,
+    "sub_familiar_phrasing_4_digits_tool_format_rate": 1.0,
+    "sub_familiar_phrasing_4_digits_expression_exact_match": 0.9,
+    "sub_familiar_phrasing_4_digits_result_exact_match": 0.9,
+    "sub_new_phrasing_1_to_3_digits_tool_format_rate": 1.0,
+    "sub_new_phrasing_1_to_3_digits_expression_exact_match": 0.5,
+    "sub_new_phrasing_1_to_3_digits_result_exact_match": 0.5,
+    "sub_new_phrasing_4_digits_tool_format_rate": 1.0,
+    "sub_new_phrasing_4_digits_expression_exact_match": 0.35,
+    "sub_new_phrasing_4_digits_result_exact_match": 0.35,
+    "overall_add_result_exact_match": 0.7125,
+    "overall_sub_result_exact_match": 0.6875,
+    "overall_mul_result_exact_match": 0.775,
+    "overall_div_result_exact_match": 0.775,
+    "overall_tool_result_exact_match": 0.7375
+  },
+  "cases": [
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Add 309 and 417.",
+      "action": "<tool:calc>309+417</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "How much is 792 plus 310?",
+      "action": "<tool:calc>792+310</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "How much is 880 plus 384?",
+      "action": "<tool:calc>880+384</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "What's the sum of 697 and 482?",
+      "action": "<tool:calc>697+482</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "How much is 515 plus 939?",
+      "action": "<tool:calc>515+939</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "How much is 547 plus 589?",
+      "action": "<tool:calc>547+589</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "What is 93 plus 616?",
+      "action": "<tool:calc>93+616</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "What is 381 plus 44?",
+      "action": "<tool:calc>381+44</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "How much is 608 plus 230?",
+      "action": "<tool:calc>608+230</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Add 783 and 769.",
+      "action": "<tool:calc>783+769</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "How much is 407 plus 899?",
+      "action": "<tool:calc>407+899</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Add 94 and 49.",
+      "action": "<tool:calc>94+49</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Please compute 634+709.",
+      "action": "<tool:calc>634+709</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "How much is 826 plus 206?",
+      "action": "<tool:calc>826+206</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Calculate 14 + 455.",
+      "action": "<tool:calc>14+455</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "What's the sum of 344 and 691?",
+      "action": "<tool:calc>344+691</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "What is 228 plus 838?",
+      "action": "<tool:calc>228+838</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "What is 849 plus 870?",
+      "action": "<tool:calc>849+870</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "How much is 523 plus 880?",
+      "action": "<tool:calc>523+880</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "What's the sum of 932 and 276?",
+      "action": "<tool:calc>932+276</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "What's the sum of 1431 and 5141?",
+      "action": "<tool:calc>1431+5141</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "What's the sum of 1555 and 3779?",
+      "action": "<tool:calc>1555+3479</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "Calculate 1638 + 7199.",
+      "action": "<tool:calc>1638+7199</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "Add 5792 and 3732.",
+      "action": "<tool:calc>5792+3732</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "Add 7869 and 1505.",
+      "action": "<tool:calc>7869+1505</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "Please compute 6363+1411.",
+      "action": "<tool:calc>6363+1411</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "Calculate 9167 + 3539.",
+      "action": "<tool:calc>9167+3539</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "How much is 5848 plus 2965?",
+      "action": "<tool:calc>5848+2965</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "Calculate 5984 + 1200.",
+      "action": "<tool:calc>5894+1200</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "What is 5039 plus 5378?",
+      "action": "<tool:calc>5039+5378</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "What is 9982 plus 6108?",
+      "action": "<tool:calc>982+6108</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "Add 4638 and 9544.",
+      "action": "<tool:calc>4638+9544</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "What is 6392 plus 8110?",
+      "action": "<tool:calc>6392+8110</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "How much is 7804 plus 4494?",
+      "action": "<tool:calc>7804+4494</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "Add 9507 and 6790.",
+      "action": "<tool:calc>9507+6790</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "How much is 1456 plus 4665?",
+      "action": "<tool:calc>1456+4665</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "Calculate 5448 + 8619.",
+      "action": "<tool:calc>5448+8619</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "Calculate 1991 + 6515.",
+      "action": "<tool:calc>1991+6515</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "Add 5146 and 2963.",
+      "action": "<tool:calc>5146+2963</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_familiar_phrasing_4_digits",
+      "op": "+",
+      "query": "How much is 6456 plus 9482?",
+      "action": "<tool:calc>6456+9482</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "What's 130 added onto 172?",
+      "action": "<tool:calc>130-172</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "What's 773 added onto 537?",
+      "action": "<tool:calc>773-537</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Combine 25 and 269 numerically.",
+      "action": "<tool:calc>25+269</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Could you add together 473 and 8?",
+      "action": "<tool:calc>473+8</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Combine 950 and 343 numerically.",
+      "action": "<tool:calc>950+343</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Could you add together 647 and 656?",
+      "action": "<tool:calc>647+656</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Combine 645 and 134 numerically.",
+      "action": "<tool:calc>645+134</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Combine 556 and 681 numerically.",
+      "action": "<tool:calc>556+681</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "I need 609 increased by 464.",
+      "action": "<tool:calc>609-464</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Combine 601 and 932 numerically.",
+      "action": "<tool:calc>601+932</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Could you add together 149 and 602?",
+      "action": "<tool:calc>149+602</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "I need 785 increased by 200.",
+      "action": "<tool:calc>785*200</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Give me the total of 751 with 769.",
+      "action": "<tool:calc>751*769</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Could you add together 124 and 528?",
+      "action": "<tool:calc>124+528</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Combine 805 and 850 numerically.",
+      "action": "<tool:calc>805+850</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Give me the total of 297 with 490.",
+      "action": "<tool:calc>297*490</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "What's 965 added onto 722?",
+      "action": "<tool:calc>965-722</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Could you add together 298 and 871?",
+      "action": "<tool:calc>298+871</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Could you add together 811 and 754?",
+      "action": "<tool:calc>811+754</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_1_to_3_digits",
+      "op": "+",
+      "query": "Could you add together 876 and 835?",
+      "action": "<tool:calc>876+835</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "What's 8513 added onto 6887?",
+      "action": "<tool:calc>8513-6787</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "Could you add together 6293 and 5113?",
+      "action": "<tool:calc>6293+5113</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "What's 8239 added onto 5364?",
+      "action": "<tool:calc>8239-5364</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "What's 9442 added onto 8870?",
+      "action": "<tool:calc>9442-8870</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "Give me the total of 8272 with 4542.",
+      "action": "<tool:calc>8272*4542</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "Could you add together 8883 and 6727?",
+      "action": "<tool:calc>8883+6727</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "What's 6357 added onto 2561?",
+      "action": "<tool:calc>6357-2561</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "What's 4291 added onto 6017?",
+      "action": "<tool:calc>4291-6017</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "What's 6612 added onto 1701?",
+      "action": "<tool:calc>6612-1701</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "Could you add together 5950 and 1208?",
+      "action": "<tool:calc>5950+1208</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "What's 3674 added onto 5662?",
+      "action": "<tool:calc>3684-5662</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "Combine 5187 and 8496 numerically.",
+      "action": "<tool:calc>5187+8496</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "What's 7190 added onto 2937?",
+      "action": "<tool:calc>7190-2937</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "Give me the total of 6743 with 2819.",
+      "action": "<tool:calc>6743*2819</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "Combine 1490 and 4720 numerically.",
+      "action": "<tool:calc>1490+4720</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "Could you add together 6419 and 1461?",
+      "action": "<tool:calc>6419+1461</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "Could you add together 4900 and 2954?",
+      "action": "<tool:calc>499+2954</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "Combine 9007 and 9135 numerically.",
+      "action": "<tool:calc>9007+9135</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "Give me the total of 4963 with 2787.",
+      "action": "<tool:calc>4963*2787</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "add_new_phrasing_4_digits",
+      "op": "+",
+      "query": "Give me the total of 8097 with 1225.",
+      "action": "<tool:calc>8097*1225</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "What is 851 minus 103?",
+      "action": "<tool:calc>851-103</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Calculate 816 - 899.",
+      "action": "<tool:calc>816-899</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Calculate 775 - 293.",
+      "action": "<tool:calc>775-293</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "What is 530 minus 935?",
+      "action": "<tool:calc>530-935</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "How much is 302 minus 98?",
+      "action": "<tool:calc>302-98</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "What is 233 minus 11?",
+      "action": "<tool:calc>233-11</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "How much is 607 minus 305?",
+      "action": "<tool:calc>607-305</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Subtract 839 from 224.",
+      "action": "<tool:calc>224-839</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Calculate 706 - 593.",
+      "action": "<tool:calc>706-593</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "How much is 518 minus 262?",
+      "action": "<tool:calc>518-262</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Subtract 46 from 330.",
+      "action": "<tool:calc>330-46</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Please subtract 660 from 549.",
+      "action": "<tool:calc>549-660</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Please compute 562-144.",
+      "action": "<tool:calc>562-144</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Please subtract 702 from 537.",
+      "action": "<tool:calc>537-702</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Please compute 179-334.",
+      "action": "<tool:calc>179-334</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "What is 565 minus 674?",
+      "action": "<tool:calc>565-674</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Subtract 654 from 40.",
+      "action": "<tool:calc>40-654</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Please compute 578-847.",
+      "action": "<tool:calc>578-847</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Subtract 936 from 963.",
+      "action": "<tool:calc>963-936</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Please compute 227-537.",
+      "action": "<tool:calc>227-537</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "Calculate 3113 - 9356.",
+      "action": "<tool:calc>3113-9356</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "Subtract 9828 from 6129.",
+      "action": "<tool:calc>6129-9828</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "How much is 3633 minus 5703?",
+      "action": "<tool:calc>3633-5703</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "Subtract 4884 from 1505.",
+      "action": "<tool:calc>1505-4484</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "Calculate 5732 - 9824.",
+      "action": "<tool:calc>5732-9824</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "Please subtract 5310 from 3068.",
+      "action": "<tool:calc>3068-5310</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "What is 6057 minus 4743?",
+      "action": "<tool:calc>6073-4743</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "What is 8958 minus 3085?",
+      "action": "<tool:calc>8958-3085</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "Subtract 8353 from 8459.",
+      "action": "<tool:calc>8459-8353</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "Please compute 6390-6742.",
+      "action": "<tool:calc>6390-6742</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "What is 2517 minus 9652?",
+      "action": "<tool:calc>2517-9652</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "What is 6208 minus 2307?",
+      "action": "<tool:calc>6208-2307</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "Please subtract 7601 from 3894.",
+      "action": "<tool:calc>3894-7601</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "Calculate 6261 - 7843.",
+      "action": "<tool:calc>6261-7843</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "Please subtract 2605 from 4705.",
+      "action": "<tool:calc>4705-2605</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "What is 1592 minus 3769?",
+      "action": "<tool:calc>1592-3769</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "What is 5053 minus 3055?",
+      "action": "<tool:calc>5053-3055</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "How much is 6919 minus 4695?",
+      "action": "<tool:calc>6919-4695</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "Please compute 6194-8431.",
+      "action": "<tool:calc>6194-8431</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_familiar_phrasing_4_digits",
+      "op": "-",
+      "query": "Calculate 2964 - 8171.",
+      "action": "<tool:calc>2964-8171</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "What is 807 less 19?",
+      "action": "<tool:calc>807-19</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "How much remains after 162 is removed from 776?",
+      "action": "<tool:calc>776-162</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Reduce 858 by 229.",
+      "action": "<tool:calc>858*229</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "What is 402 less 180?",
+      "action": "<tool:calc>402-180</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Reduce 199 by 336.",
+      "action": "<tool:calc>199*336</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "What is 667 less 521?",
+      "action": "<tool:calc>667-521</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Reduce 596 by 622.",
+      "action": "<tool:calc>596*622</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "How much less is 464 than 482?",
+      "action": "<tool:calc>464-482</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "How much remains after 730 is removed from 865?",
+      "action": "<tool:calc>865-730</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Reduce 114 by 807.",
+      "action": "<tool:calc>114*807</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Reduce 654 by 730.",
+      "action": "<tool:calc>654*730</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Decrease 821 using 720.",
+      "action": "<tool:calc>821/720</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Decrease 255 using 272.",
+      "action": "<tool:calc>255/272</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "How much remains after 793 is removed from 226?",
+      "action": "<tool:calc>226-793</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Reduce 222 by 530.",
+      "action": "<tool:calc>222*530</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "How much remains after 69 is removed from 765?",
+      "action": "<tool:calc>765-69</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "How much remains after 378 is removed from 452?",
+      "action": "<tool:calc>452-378</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "Decrease 669 using 22.",
+      "action": "<tool:calc>669/22</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "How much remains after 216 is removed from 245?",
+      "action": "<tool:calc>245-216</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_1_to_3_digits",
+      "op": "-",
+      "query": "How much remains after 614 is removed from 199?",
+      "action": "<tool:calc>199-614</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "How much remains after 8060 is removed from 4075?",
+      "action": "<tool:calc>4075-8060</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "How much remains after 7162 is removed from 6093?",
+      "action": "<tool:calc>6093-7162</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "How much remains after 3163 is removed from 3901?",
+      "action": "<tool:calc>40101-3163</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "What is 8536 less 4521?",
+      "action": "<tool:calc>8536/4521</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "What is 5298 less 2507?",
+      "action": "<tool:calc>5298-2507</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "Reduce 3066 by 4815.",
+      "action": "<tool:calc>3066*4815</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "Reduce 5485 by 1315.",
+      "action": "<tool:calc>5485*1315</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "Reduce 9326 by 3905.",
+      "action": "<tool:calc>9326*3905</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "How much less is 5388 than 4175?",
+      "action": "<tool:calc>5388-4175</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "What is 8321 less 5235?",
+      "action": "<tool:calc>8321/5235</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "Decrease 4880 using 4658.",
+      "action": "<tool:calc>4880/4658</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "Reduce 9320 by 6341.",
+      "action": "<tool:calc>9320*6341</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "How much remains after 9853 is removed from 6721?",
+      "action": "<tool:calc>6721-9853</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "What is 6484 less 9871?",
+      "action": "<tool:calc>6484-9871</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "How much remains after 4119 is removed from 1353?",
+      "action": "<tool:calc>1353-4119</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "How much less is 7600 than 3433?",
+      "action": "<tool:calc>7600-3433</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "Reduce 3117 by 2350.",
+      "action": "<tool:calc>3117*2350</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "Reduce 1450 by 9428.",
+      "action": "<tool:calc>1450*9428</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "Decrease 4321 using 1683.",
+      "action": "<tool:calc>4321*1683</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "sub_new_phrasing_4_digits",
+      "op": "-",
+      "query": "How much remains after 2474 is removed from 3194?",
+      "action": "<tool:calc>3194-2474</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Calculate 986 * 451.",
+      "action": "<tool:calc>986*451</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Multiply 482 by 937.",
+      "action": "<tool:calc>482*937</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Calculate 861 * 626.",
+      "action": "<tool:calc>861*626</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Multiply 839 by 262.",
+      "action": "<tool:calc>839*262</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "What is 428 times 67?",
+      "action": "<tool:calc>428*67</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "What is 188 times 418?",
+      "action": "<tool:calc>188*418</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Calculate 651 * 86.",
+      "action": "<tool:calc>651*86</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Multiply 823 by 258.",
+      "action": "<tool:calc>823*258</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "What's the product of 853 and 362?",
+      "action": "<tool:calc>853*362</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Multiply 790 by 201.",
+      "action": "<tool:calc>790*201</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "What is 47 times 911?",
+      "action": "<tool:calc>47*911</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "What's the product of 889 and 928?",
+      "action": "<tool:calc>889*928</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Calculate 728 * 715.",
+      "action": "<tool:calc>728*715</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Calculate 331 * 291.",
+      "action": "<tool:calc>331*291</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Calculate 292 * 278.",
+      "action": "<tool:calc>292*278</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "What's the product of 297 and 100?",
+      "action": "<tool:calc>297*100</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Please compute 134*266.",
+      "action": "<tool:calc>134*266</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "What's the product of 395 and 62?",
+      "action": "<tool:calc>395*62</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Please compute 30*600.",
+      "action": "<tool:calc>30*600</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "What's the product of 785 and 465?",
+      "action": "<tool:calc>785*465</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "Multiply 4855 by 5536.",
+      "action": "<tool:calc>4855*5536</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "Please compute 2064*7530.",
+      "action": "<tool:calc>2064*7530</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "What is 4317 times 9294?",
+      "action": "<tool:calc>4317*9294</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "Multiply 7504 by 7948.",
+      "action": "<tool:calc>7504*7948</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "Please compute 5006*2834.",
+      "action": "<tool:calc>5006*2834</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "How much is 3714 times 3133?",
+      "action": "<tool:calc>3714*3133</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "Calculate 4302 * 5058.",
+      "action": "<tool:calc>4302*5058</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "How much is 4491 times 8061?",
+      "action": "<tool:calc>4491*8091</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "Calculate 1147 * 7970.",
+      "action": "<tool:calc>1147*7970</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "What is 4332 times 5374?",
+      "action": "<tool:calc>4332*5374</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "Please compute 9866*5772.",
+      "action": "<tool:calc>9866*5772</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "Multiply 6933 by 5502.",
+      "action": "<tool:calc>6933*5502</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "Please compute 4307*6978.",
+      "action": "<tool:calc>4307*6978</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "Calculate 6906 * 4167.",
+      "action": "<tool:calc>6906*4167</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "What is 7289 times 5036?",
+      "action": "<tool:calc>7289*5036</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "Calculate 9552 * 9831.",
+      "action": "<tool:calc>9552*9831</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "Calculate 8613 * 3282.",
+      "action": "<tool:calc>8613*3282</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "What's the product of 7497 and 6261?",
+      "action": "<tool:calc>7497*6261</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "Calculate 1616 * 9685.",
+      "action": "<tool:calc>1616*9685</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_familiar_phrasing_4_digits",
+      "op": "*",
+      "query": "How much is 2967 times 2061?",
+      "action": "<tool:calc>2967*2061</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Compute 168 lots of 860.",
+      "action": "<tool:calc>168 lots of860</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Raise 984 through multiplication by 804.",
+      "action": "<tool:calc>984*804</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Scale 45 by a factor of 587.",
+      "action": "<tool:calc>45*887</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Give me 591 x 613.",
+      "action": "<tool:calc>591 x613</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Give me 343 x 812.",
+      "action": "<tool:calc>343*812</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Give me 854 x 656.",
+      "action": "<tool:calc>854*656</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Compute 125 lots of 80.",
+      "action": "<tool:calc>125 lots of80</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Scale 838 by a factor of 3.",
+      "action": "<tool:calc>838*3</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Scale 699 by a factor of 885.",
+      "action": "<tool:calc>699*885</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Compute 997 lots of 402.",
+      "action": "<tool:calc>997 lots of402</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Give me 8 x 676.",
+      "action": "<tool:calc>8 x676</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Compute 629 lots of 533.",
+      "action": "<tool:calc>629 lots*533</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Give me 114 x 934.",
+      "action": "<tool:calc>114*934</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Raise 880 through multiplication by 704.",
+      "action": "<tool:calc>880*704</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Scale 64 by a factor of 758.",
+      "action": "<tool:calc>64*758</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Give me 707 x 654.",
+      "action": "<tool:calc>707 x654</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Scale 609 by a factor of 242.",
+      "action": "<tool:calc>609*242</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Compute 312 lots of 311.",
+      "action": "<tool:calc>312 lots of311</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Compute 335 lots of 655.",
+      "action": "<tool:calc>335 lots of655</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_1_to_3_digits",
+      "op": "*",
+      "query": "Give me 882 x 539.",
+      "action": "<tool:calc>882*539</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "What is 7927 multiplied with 9102?",
+      "action": "<tool:calc>7927*9102</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "What is 7751 multiplied with 7223?",
+      "action": "<tool:calc>7751*7223</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Raise 9723 through multiplication by 9886.",
+      "action": "<tool:calc>9723*9886</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Compute 1080 lots of 6565.",
+      "action": "<tool:calc>1080 lots of65</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Raise 1466 through multiplication by 9508.",
+      "action": "<tool:calc>1466*9508</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Scale 6350 by a factor of 1297.",
+      "action": "<tool:calc>6350*97</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Raise 5233 through multiplication by 4090.",
+      "action": "<tool:calc>5233*4040</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Compute 9511 lots of 6662.",
+      "action": "<tool:calc>9511 lots of 6662</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Raise 6508 through multiplication by 4427.",
+      "action": "<tool:calc>6508*4427</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "What is 1936 multiplied with 1763?",
+      "action": "<tool:calc>1936*1763</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Compute 4371 lots of 6302.",
+      "action": "<tool:calc>4371 lots of6302</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Raise 8378 through multiplication by 1941.",
+      "action": "<tool:calc>8378*1941</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Scale 7556 by a factor of 3541.",
+      "action": "<tool:calc>7556*3541</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "What is 6155 multiplied with 9030?",
+      "action": "<tool:calc>6155*9030</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Scale 5754 by a factor of 9523.",
+      "action": "<tool:calc>5754*9523</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Give me 8555 x 6016.",
+      "action": "<tool:calc>8555*6016</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Give me 5466 x 9829.",
+      "action": "<tool:calc>5466*9829</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Compute 5452 lots of 8456.",
+      "action": "<tool:calc>5452 lots of8456</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "What is 1004 multiplied with 1921?",
+      "action": "<tool:calc>1004*1921</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "mul_new_phrasing_4_digits",
+      "op": "*",
+      "query": "Compute 9920 lots of 8373.",
+      "action": "<tool:calc>9920 lots of8373</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Divide 798 by 598.",
+      "action": "<tool:calc>798/598</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What is 405 divided by 897?",
+      "action": "<tool:calc>405/897</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Calculate 215 / 363.",
+      "action": "<tool:calc>215/363</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What is 640 divided by 51?",
+      "action": "<tool:calc>640/51</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Calculate 937 / 504.",
+      "action": "<tool:calc>937/504</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "How much is 104 divided by 926?",
+      "action": "<tool:calc>104/926</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Calculate 267 / 195.",
+      "action": "<tool:calc>267/195</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Calculate 870 / 999.",
+      "action": "<tool:calc>870/999</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What is 335 divided by 649?",
+      "action": "<tool:calc>335/649</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Calculate 569 / 387.",
+      "action": "<tool:calc>569/387</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Divide 526 by 465.",
+      "action": "<tool:calc>526/465</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "How much is 59 divided by 253?",
+      "action": "<tool:calc>59/253</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Please compute 180/447.",
+      "action": "<tool:calc>180/447</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What's 273 over 458?",
+      "action": "<tool:calc>273/458</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What is 719 divided by 279?",
+      "action": "<tool:calc>719/279</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "How much is 567 divided by 90?",
+      "action": "<tool:calc>567/90</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "How much is 966 divided by 682?",
+      "action": "<tool:calc>966/682</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What is 304 divided by 838?",
+      "action": "<tool:calc>304/838</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What's 647 over 660?",
+      "action": "<tool:calc>647/660</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What's 461 over 199?",
+      "action": "<tool:calc>461/199</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "Divide 6222 by 5997.",
+      "action": "<tool:calc>6222/5997</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "Divide 1616 by 3952.",
+      "action": "<tool:calc>1616/3962</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "What's 2322 over 9573?",
+      "action": "<tool:calc>2322/9573</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "How much is 8661 divided by 5068?",
+      "action": "<tool:calc>8661/5068</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "What is 8378 divided by 6691?",
+      "action": "<tool:calc>8378/6691</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "What's 6263 over 4050?",
+      "action": "<tool:calc>6263/4050</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "Please compute 9485/6722.",
+      "action": "<tool:calc>9485/6722</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "What is 8615 divided by 2178?",
+      "action": "<tool:calc>8615/2178</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "Please compute 1400/5138.",
+      "action": "<tool:calc>1300/5138</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "How much is 9539 divided by 7869?",
+      "action": "<tool:calc>9539/7869</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "Divide 8012 by 4704.",
+      "action": "<tool:calc>8012/4704</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "Divide 8352 by 6558.",
+      "action": "<tool:calc>8352/6554</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "What's 2924 over 4785?",
+      "action": "<tool:calc>2924/4585</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "Calculate 9957 / 8539.",
+      "action": "<tool:calc>9957/8539</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "Please compute 5692/5698.",
+      "action": "<tool:calc>5692/5698</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "Calculate 2457 / 6006.",
+      "action": "<tool:calc>2457/6006</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "Please compute 2542/4419.",
+      "action": "<tool:calc>2542/4419</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "Divide 8356 by 8316.",
+      "action": "<tool:calc>8356/8316</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "Calculate 8715 / 8147.",
+      "action": "<tool:calc>8715/8147</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_familiar_phrasing_4_digits",
+      "op": "/",
+      "query": "What's 3040 over 4796?",
+      "action": "<tool:calc>3040/4796</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Perform division of 60 using 85.",
+      "action": "<tool:calc>60/85</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Perform division of 83 using 664.",
+      "action": "<tool:calc>83*664</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Give me 229 per 941.",
+      "action": "<tool:calc>229/941</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Give me 474 per 135.",
+      "action": "<tool:calc>474/135</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "How many times does 104 go into 305?",
+      "action": "<tool:calc>104-305</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What is the result of splitting 718 by 392?",
+      "action": "<tool:calc>718*392</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Give me 647 per 54.",
+      "action": "<tool:calc>647/54</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What is the result of splitting 443 by 418?",
+      "action": "<tool:calc>443/418</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Compute 278 \u00f7 541.",
+      "action": "<tool:calc>278-441</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "How many times does 757 go into 228?",
+      "action": "<tool:calc>757*757</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Perform division of 990 using 835.",
+      "action": "<tool:calc>990/835</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What is the result of splitting 688 by 80?",
+      "action": "<tool:calc>688/80</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What is the result of splitting 344 by 208?",
+      "action": "<tool:calc>344/208</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "How many times does 955 go into 306?",
+      "action": "<tool:calc>955-956</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Perform division of 198 using 868.",
+      "action": "<tool:calc>198*868</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What is the result of splitting 186 by 923?",
+      "action": "<tool:calc>186/923</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What is the result of splitting 723 by 629?",
+      "action": "<tool:calc>723/629</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Perform division of 25 using 776.",
+      "action": "<tool:calc>25/776</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "Give me 444 per 820.",
+      "action": "<tool:calc>444/820</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_1_to_3_digits",
+      "op": "/",
+      "query": "What is the result of splitting 182 by 581?",
+      "action": "<tool:calc>182/581</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "Give me 8648 per 7904.",
+      "action": "<tool:calc>8648/7904</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "What is the result of splitting 1471 by 6172?",
+      "action": "<tool:calc>1471/6172</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "What is the result of splitting 2184 by 9238?",
+      "action": "<tool:calc>2184/9238</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "How many times does 6122 go into 8998?",
+      "action": "<tool:calc>8122-8998</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "What is the result of splitting 7337 by 1618?",
+      "action": "<tool:calc>7337/1618</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "Perform division of 5139 using 1311.",
+      "action": "<tool:calc>5139-1311</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "How many times does 3928 go into 4765?",
+      "action": "<tool:calc>4765-4765</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "What is the result of splitting 1147 by 8648?",
+      "action": "<tool:calc>1147/8648</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "How many times does 1463 go into 4781?",
+      "action": "<tool:calc>4141-1463</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "What is the result of splitting 8547 by 5648?",
+      "action": "<tool:calc>8547/5648</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "Give me 6473 per 7317.",
+      "action": "<tool:calc>6473/7317</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "How many times does 7789 go into 7183?",
+      "action": "<tool:calc>7789-7789</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "Compute 6075 \u00f7 9676.",
+      "action": "<tool:calc>6075-6676</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "Give me 6726 per 8087.",
+      "action": "<tool:calc>6726/8087</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "What is the result of splitting 8894 by 3792?",
+      "action": "<tool:calc>8894/3792</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "Perform division of 9493 using 8245.",
+      "action": "<tool:calc>9493/8245</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "Perform division of 1206 using 8914.",
+      "action": "<tool:calc>1206/8914</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "Compute 8697 \u00f7 6563.",
+      "action": "<tool:calc>8697-8563</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": false,
+      "result_correct": false
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "Give me 9757 per 7170.",
+      "action": "<tool:calc>9757/7170</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "tool",
+      "group": "div_new_phrasing_4_digits",
+      "op": "/",
+      "query": "Give me 2921 per 4018.",
+      "action": "<tool:calc>2921/4018</tool:calc>",
+      "tool_format_valid": true,
+      "expression_correct": true,
+      "result_correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my fifth calculation.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my second calculation.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my third calculation.",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my second calculation.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my fourth calculation?",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 1?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my third calculation?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 2?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 1?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my fifth calculation.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the seventh calculation?",
+      "action": "leaf calculation_7",
+      "expected_leaf": 7,
+      "predicted_leaf": 7,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my first calculation.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my first calculation.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the second calculation?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my last calculation?",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my first calculation.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my fifth calculation?",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my second calculation?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 1?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 5?",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 2?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my second calculation?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my fifth calculation.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my fourth calculation?",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the last calculation?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the second calculation?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my fifth calculation.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the second calculation?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 5?",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 3?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the third calculation?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my third calculation?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my first calculation.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my second calculation?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 3?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my second calculation?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What did I get for the second calculation?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was calculation number 1?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "What was the result of my first calculation?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_memory_layouts",
+      "query": "Retrieve my fifth calculation.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which leaf matches my second result?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Fetch calculations entry 1.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Show calculation index 7.",
+      "action": "leaf calculation_7",
+      "expected_leaf": 7,
+      "predicted_leaf": 7,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Fetch calculations entry 3.",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Fetch calculations entry 4.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Pull up my second saved calculation.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Show calculation index 5.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Fetch calculations entry 4.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Show calculation index 4.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which leaf matches my first result?",
+      "action": "leafmatch_1",
+      "expected_leaf": 1,
+      "predicted_leaf": null,
+      "correct": false
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Show calculation index 5.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which leaf matches my fourth result?",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which leaf matches my first result?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Show calculation index 1.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Fetch calculations entry 4.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Fetch calculations entry 1.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which leaf matches my first result?",
+      "action": "leafmatch_1",
+      "expected_leaf": 1,
+      "predicted_leaf": null,
+      "correct": false
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Pull up my fifth saved calculation.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which leaf matches my second result?",
+      "action": "leafmatch_2",
+      "expected_leaf": 2,
+      "predicted_leaf": null,
+      "correct": false
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Show calculation index 2.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Pull up my fifth saved calculation.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Fetch calculations entry 4.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Show calculation index 3.",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Show calculation index 5.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Pull up my second saved calculation.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which leaf matches my first result?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which leaf matches my fifth result?",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Fetch calculations entry 2.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Fetch calculations entry 1.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Fetch calculations entry 1.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Show calculation index 2.",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Fetch calculations entry 4.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which leaf matches my second result?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which leaf matches my second result?",
+      "action": "leaf calculation_2",
+      "expected_leaf": 2,
+      "predicted_leaf": 2,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which leaf matches my fifth result?",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which leaf matches my first result?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Pull up my fourth saved calculation.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Fetch calculations entry 4.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Fetch calculations entry 4.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Show calculation index 3.",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which leaf matches my first result?",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Pull up my fourth saved calculation.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Show calculation index 3.",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Pull up my fifth saved calculation.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Show calculation index 1.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Which leaf matches my third result?",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Pull up my fourth saved calculation.",
+      "action": "leaf calculation_4",
+      "expected_leaf": 4,
+      "predicted_leaf": 4,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Fetch calculations entry 3.",
+      "action": "leaf calculation_3",
+      "expected_leaf": 3,
+      "predicted_leaf": 3,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Show calculation index 1.",
+      "action": "leaf calculation_1",
+      "expected_leaf": 1,
+      "predicted_leaf": 1,
+      "correct": true
+    },
+    {
+      "task": "retrieval",
+      "group": "new_phrasings",
+      "query": "Show calculation index 5.",
+      "action": "leaf calculation_5",
+      "expected_leaf": 5,
+      "predicted_leaf": 5,
+      "correct": true
+    }
+  ]
+}

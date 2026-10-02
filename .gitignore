@@ -10,3 +10,6 @@ __pycache__/
 input.txt
 env/
 venv/
+# Large model weights (train locally or use Git LFS)
+*.safetensors
+stair-agent/stair_agent_model_before_4digit/
